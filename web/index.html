@@ -10,10 +10,10 @@
     <div class="app-shell">
       <aside class="sidebar">
         <div class="brand">
-          <div class="brand-mark">26</div>
+          <div class="brand-mark" aria-hidden="true">⚽</div>
           <div>
             <div class="brand-title">WC Predictor</div>
-            <div class="brand-subtitle">2026 model dashboard</div>
+            <div class="brand-subtitle">2026 Model Dashboard</div>
           </div>
         </div>
 
@@ -26,8 +26,8 @@
         </nav>
 
         <div class="sidebar-footer">
-          <div class="small-label">Static Vercel build</div>
-          <div id="data-stamp" class="sidebar-note">Loading data...</div>
+          <div class="small-label">Static Vercel Build</div>
+          <div id="data-stamp" class="sidebar-note">Loading Data...</div>
         </div>
       </aside>
 
@@ -35,7 +35,7 @@
         <header class="topbar">
           <div>
             <div class="eyebrow">FIFA World Cup 2026</div>
-            <h1 id="view-title">Tournament probabilities</h1>
+            <h1 id="view-title">Tournament Probabilities</h1>
           </div>
           <div class="status-pill" id="status-pill">Loading</div>
         </header>
@@ -53,7 +53,7 @@
             <section class="panel">
               <div class="panel-heading">
                 <h2>Ranked Table</h2>
-                <span>48 teams</span>
+                <span>48 Teams</span>
               </div>
               <div class="table-wrap">
                 <table>
@@ -76,8 +76,10 @@
 
         <section class="view" id="view-team">
           <div class="control-row">
-            <label for="team-select">Team</label>
-            <select id="team-select"></select>
+            <div class="control-field">
+              <label for="team-select">Team</label>
+              <select id="team-select"></select>
+            </div>
           </div>
           <div class="metric-grid" id="team-metrics"></div>
           <div class="split-layout">
@@ -109,11 +111,11 @@
 
         <section class="view" id="view-matchup">
           <div class="control-row two-up">
-            <div>
+            <div class="control-field">
               <label for="match-home">Team A</label>
               <select id="match-home"></select>
             </div>
-            <div>
+            <div class="control-field">
               <label for="match-away">Team B</label>
               <select id="match-away"></select>
             </div>
@@ -142,26 +144,28 @@
 
         <section class="view" id="view-group">
           <div class="control-row">
-            <label for="group-select">Group</label>
-            <select id="group-select"></select>
+            <div class="control-field">
+              <label for="group-select">Group</label>
+              <select id="group-select"></select>
+            </div>
             <button class="primary-button" type="button" id="simulate-group-button">Run Simulation</button>
           </div>
           <div class="split-layout">
             <section class="panel">
               <div class="panel-heading">
                 <h2>Expected Standings</h2>
-                <span id="group-run-label">2500 runs</span>
+                <span id="group-run-label">2500 Runs</span>
               </div>
               <ol class="standings-list" id="group-standings"></ol>
             </section>
             <section class="panel">
               <div class="panel-heading">
                 <h2>Round of 32 Probability</h2>
-                <span>Top two plus best thirds</span>
+                <span>Top Two Plus Best Thirds</span>
               </div>
               <div id="group-qual-bars" class="bar-stack"></div>
               <div class="subsection">
-                <h3>Top-two finish</h3>
+                <h3>Top-Two Finish</h3>
                 <div id="group-top-two-bars" class="bar-stack compact-bars"></div>
               </div>
             </section>
@@ -183,8 +187,10 @@
                 <span id="explain-shap-opponent"></span>
               </div>
               <div class="control-row single">
-                <label for="explain-team-select">Team</label>
-                <select id="explain-team-select"></select>
+                <div class="control-field">
+                  <label for="explain-team-select">Team</label>
+                  <select id="explain-team-select"></select>
+                </div>
               </div>
               <div class="driver-columns">
                 <div>

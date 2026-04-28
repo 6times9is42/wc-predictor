@@ -12,11 +12,11 @@ const state = {
 };
 
 const titles = {
-  tournament: "Tournament probabilities",
-  team: "Team deep dive",
-  matchup: "Head-to-head predictor",
-  group: "Group simulator",
-  explain: "Model explainability"
+  tournament: "Tournament Probabilities",
+  team: "Team Deep Dive",
+  matchup: "Head-to-Head Predictor",
+  group: "Group Simulator",
+  explain: "Model Explainability"
 };
 
 const colors = {
@@ -52,6 +52,10 @@ function money(value) {
 
 function featureLabel(name) {
   return name.replaceAll("_", " ").replace(/\b\w/g, char => char.toUpperCase());
+}
+
+function displayLabel(value) {
+  return String(value || "").replace(/\b\w/g, char => char.toUpperCase());
 }
 
 function matchupKey(home, away) {
@@ -99,7 +103,7 @@ async function loadData() {
   populateControls();
   renderAll();
   byId("status-pill").textContent = "Ready";
-  byId("data-stamp").textContent = `${meta.teams} teams · ${intNumber(meta.simulations)} simulations`;
+  byId("data-stamp").textContent = `${meta.teams} Teams · ${intNumber(meta.simulations)} Simulations`;
 }
 
 function populateTeamSelect(select, selectedTeam) {
@@ -156,10 +160,10 @@ function renderTournament() {
   const strongestSquad = state.teams.slice().sort((a, b) => b.squad_avg_rating - a.squad_avg_rating)[0];
 
   renderMetricCards(byId("overview-metrics"), [
-    { label: "Favorite", value: top.team, note: `${pct(top.win_probability, 2)} title probability` },
-    { label: "Challenger", value: second.team, note: `${pct(second.win_probability, 2)} title probability` },
-    { label: "Teams", value: state.teams.length, note: "Qualified field" },
-    { label: "Avg R32", value: pct(averageR32, 1), note: `${strongestSquad.team_name} leads squad rating` }
+    { label: "Favorite", value: top.team, note: `${pct(top.win_probability, 2)} Title Probability` },
+    { label: "Challenger", value: second.team, note: `${pct(second.win_probability, 2)} Title Probability` },
+    { label: "Teams", value: state.teams.length, note: "Qualified Field" },
+    { label: "Average R32", value: pct(averageR32, 1), note: `${strongestSquad.team_name} Leads Squad Rating` }
   ]);
 
   renderBarStack(
@@ -188,9 +192,9 @@ function renderTeamView() {
 
   renderMetricCards(byId("team-metrics"), [
     { label: "Win Probability", value: pct(sim.win_probability, 2), note: `Rank ${sim.rank}` },
-    { label: "ELO", value: intNumber(team.team_elo), note: `FIFA rank ${team.fifa_ranking || "n/a"}` },
-    { label: "Squad Rating", value: fixed(team.squad_avg_rating, 2), note: `${money(team.market_value_top11_eur)} top XI` },
-    { label: "Recent Win Rate", value: pct(team.weighted_win_rate, 1), note: `${team.confederation_name || "Unknown"} · ${team.wc_appearances_total || 0} WC apps` }
+    { label: "ELO", value: intNumber(team.team_elo), note: `FIFA Rank ${team.fifa_ranking || "N/A"}` },
+    { label: "Squad Rating", value: fixed(team.squad_avg_rating, 2), note: `${money(team.market_value_top11_eur)} Top XI` },
+    { label: "Recent Win Rate", value: pct(team.weighted_win_rate, 1), note: `${team.confederation_name || "Unknown"} · ${team.wc_appearances_total || 0} WC Apps` }
   ]);
 
   byId("team-rank-label").textContent = `Rank ${sim.rank}`;
@@ -211,7 +215,7 @@ function renderExplanation(explanation, prefix) {
   const negative = byId(`${prefix}-negative-drivers`);
   const opponent = byId(`${prefix}-shap-opponent`);
   if (opponent) {
-    opponent.textContent = explanation ? `vs ${explanation.opponent_name}` : "";
+    opponent.textContent = explanation ? `Against ${explanation.opponent_name}` : "";
   }
 
   renderDrivers(positive, explanation?.positive_features || {}, "positive");
@@ -221,7 +225,7 @@ function renderExplanation(explanation, prefix) {
 function renderDrivers(container, features, type) {
   const entries = Object.entries(features || {});
   if (!entries.length) {
-    container.innerHTML = `<div class="empty-note">No material ${type} drivers</div>`;
+    container.innerHTML = `<div class="empty-note">No Material ${displayLabel(type)} Drivers</div>`;
     return;
   }
 
@@ -257,7 +261,7 @@ function renderMatchup() {
   const pred = state.matchupMap.get(matchupKey(home, away));
 
   if (!pred) {
-    byId("match-factor").textContent = "Prediction unavailable";
+    byId("match-factor").textContent = "Prediction Unavailable";
     return;
   }
 
@@ -268,13 +272,13 @@ function renderMatchup() {
   const drawDeg = drawProb * 360;
 
   byId("match-donut").style.background = `conic-gradient(${colors.home} 0 ${homeDeg}deg, ${colors.draw} ${homeDeg}deg ${homeDeg + drawDeg}deg, ${colors.away} ${homeDeg + drawDeg}deg 360deg)`;
-  byId("match-confidence").textContent = pred.confidence || "precomputed";
+  byId("match-confidence").textContent = displayLabel(pred.confidence || "precomputed");
   byId("match-factor").textContent = matchupFactor(home, away, homeProb, awayProb);
 
   byId("match-legend").innerHTML = [
-    { label: `${home} win`, value: homeProb, color: colors.home },
+    { label: `${home} Win`, value: homeProb, color: colors.home },
     { label: "Draw", value: drawProb, color: colors.draw },
-    { label: `${away} win`, value: awayProb, color: colors.away }
+    { label: `${away} Win`, value: awayProb, color: colors.away }
   ].map(item => `
     <div class="legend-item">
       <div class="legend-left"><span class="legend-color" style="background:${item.color}"></span><span>${item.label}</span></div>
@@ -283,21 +287,21 @@ function renderMatchup() {
   `).join("");
 
   renderMetricCards(byId("match-metrics"), [
-    { label: `${home} xG`, value: fixed(pred.expected_home_goals, 2), note: "Expected goals" },
-    { label: `${away} xG`, value: fixed(pred.expected_away_goals, 2), note: "Expected goals" }
+    { label: `${home} xG`, value: fixed(pred.expected_home_goals, 2), note: "Expected Goals" },
+    { label: `${away} xG`, value: fixed(pred.expected_away_goals, 2), note: "Expected Goals" }
   ]);
 
   renderBarStack(byId("match-prob-bars"), [
-    { label: `${home} win`, value: homeProb, color: colors.home },
+    { label: `${home} Win`, value: homeProb, color: colors.home },
     { label: "Draw", value: drawProb, color: colors.draw },
-    { label: `${away} win`, value: awayProb, color: colors.away }
+    { label: `${away} Win`, value: awayProb, color: colors.away }
   ], { max: 1 });
 }
 
 function matchupFactor(home, away, homeProb, awayProb) {
-  if (homeProb > awayProb + 0.1) return `${home} favored`;
-  if (awayProb > homeProb + 0.1) return `${away} favored`;
-  return "Even matchup";
+  if (homeProb > awayProb + 0.1) return `${home} Favored`;
+  if (awayProb > homeProb + 0.1) return `${away} Favored`;
+  return "Even Matchup";
 }
 
 function poisson(lambda) {
@@ -427,8 +431,8 @@ function runGroupSimulation() {
 
   byId("group-standings").innerHTML = rows.map(row => `
     <li>
-      <div class="standings-main"><span>${row.team}</span><span>${fixed(row.averagePoints, 2)} pts</span></div>
-      <div class="standings-sub">Avg rank ${fixed(row.averageRank, 2)} · third-place rate ${pct(row.third, 1)}</div>
+      <div class="standings-main"><span>${row.team}</span><span>${fixed(row.averagePoints, 2)} Points</span></div>
+      <div class="standings-sub">Average Rank ${fixed(row.averageRank, 2)} · Third-Place Rate ${pct(row.third, 1)}</div>
     </li>
   `).join("");
 
@@ -457,7 +461,7 @@ function renderExplainability() {
 
   const teamName = byId("explain-team-select").value;
   const explanation = state.explanations[teamName];
-  byId("explain-shap-opponent").textContent = explanation ? `vs ${explanation.opponent_name}` : "";
+  byId("explain-shap-opponent").textContent = explanation ? `Against ${explanation.opponent_name}` : "";
   renderExplanation(explanation, "explain");
 }
 
@@ -497,7 +501,7 @@ function bindEvents() {
 
 bindEvents();
 loadData().catch(error => {
-  byId("status-pill").textContent = "Data error";
+  byId("status-pill").textContent = "Data Error";
   document.querySelector(".main-panel").insertAdjacentHTML(
     "afterbegin",
     `<div class="error-box">${error.message}</div>`
