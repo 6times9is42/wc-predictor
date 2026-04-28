@@ -1,0 +1,1275 @@
+player_name,team_name,league,npxg_per90,xa_per90,progressive_passes_per90,pressures_per90,tackles_won_pct,save_pct,psxg_difference_per90,sweeper_actions_per90,minutes_played,games_played,market_value_eur,age,caps,position,club_name,club_league_tier,rating_source,rating_composite
+Raúl Rangel,Mexico,Liga MX Apertura,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,6000000,26,11,GK,Deportivo Guadalajara,1,transfermarkt_market_value,7.9956
+Carlos Acevedo,Mexico,Liga MX Apertura,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3000000,30,6,GK,Santos Laguna,1,transfermarkt_market_value,7.6605
+Guillermo Ochoa,Mexico,Cyprus League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,300000,40,152,GK,AEL Limassol,1,transfermarkt_market_value,6.7461
+Johan Vásquez,Mexico,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,13000000,27,44,DEF,Genoa CFC,1,transfermarkt_market_value,8.7722
+César Montes,Mexico,Premier Liga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,7000000,29,66,DEF,Lokomotiv Moscow,1,transfermarkt_market_value,8.365
+Israel Reyes,Mexico,Liga MX Apertura,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,5000000,25,31,DEF,CF América,1,transfermarkt_market_value,8.1144
+Jesús Angulo,Mexico,Liga MX Apertura,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4500000,28,19,DEF,Tigres UANL,1,transfermarkt_market_value,7.9919
+Everardo López,Mexico,Liga MX Apertura,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1500000,21,3,DEF,Deportivo Toluca,1,transfermarkt_market_value,6.9466
+Jesús Gallardo,Mexico,Liga MX Apertura,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3000000,31,119,DEF,Deportivo Toluca,1,transfermarkt_market_value,7.9343
+Richard Ledezma,Mexico,Liga MX Apertura,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,5500000,25,3,DEF,Deportivo Guadalajara,1,transfermarkt_market_value,7.7635
+Jorge Sánchez,Mexico,Super League 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2200000,28,56,DEF,PAOK Thessaloniki,1,transfermarkt_market_value,7.9416
+Érik Lira,Mexico,Liga MX Apertura,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,12000000,25,22,MID,CD Cruz Azul,1,transfermarkt_market_value,8.3512
+Carlos Rodríguez,Mexico,Liga MX Apertura,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,5500000,29,68,MID,CD Cruz Azul,1,transfermarkt_market_value,8.2884
+Denzell García,Mexico,Liga MX Apertura,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4500000,22,2,MID,FC Juárez,1,transfermarkt_market_value,7.3922
+Álvaro Fidalgo,Mexico,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,10000000,29,2,MID,Real Betis Balompié,1,transfermarkt_market_value,8.1838
+Obed Vargas,Mexico,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,8000000,20,5,MID,Atlético de Madrid,1,transfermarkt_market_value,7.7356
+Orbelín Pineda,Mexico,Super League 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,7000000,30,90,MID,AEK Athens,1,transfermarkt_market_value,8.2965
+Érick Sánchez,Mexico,Liga MX Apertura,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,6000000,26,38,MID,CF América,1,transfermarkt_market_value,8.2128
+Brian Gutiérrez,Mexico,Liga MX Apertura,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,5500000,22,5,MID,Deportivo Guadalajara,1,transfermarkt_market_value,7.5882
+Alexis Vega,Mexico,Liga MX Apertura,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,9000000,28,50,FWD,Deportivo Toluca,1,transfermarkt_market_value,8.4002
+Roberto Alvarado,Mexico,Liga MX Apertura,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,6000000,27,66,FWD,Deportivo Guadalajara,1,transfermarkt_market_value,8.3126
+Armando González,Mexico,Liga MX Apertura,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,15000000,23,6,FWD,Deportivo Guadalajara,1,transfermarkt_market_value,8.0828
+Germán Berterame,Mexico,MLS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,12000000,27,9,FWD,Inter Miami CF,1,transfermarkt_market_value,8.1977
+Julián Quiñones,Mexico,Saudi Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,12000000,29,20,FWD,Al-Qadsiah FC,1,transfermarkt_market_value,8.3345
+Raúl Jiménez,Mexico,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4000000,34,125,FWD,Fulham FC,1,transfermarkt_market_value,7.9361
+Guillermo Martínez,Mexico,Liga MX Apertura,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1800000,31,9,FWD,UNAM Pumas,1,transfermarkt_market_value,7.3025
+Ronwen Williams,South Africa,Betway Premiership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,900000,34,62,GK,Mamelodi Sundowns FC,1,transfermarkt_market_value,7.6561
+Ricardo Goss,South Africa,Betway Premiership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,350000,32,4,GK,Siwelele Football Club ,1,transfermarkt_market_value,6.8679
+Renaldo Leaner,South Africa,Betway Premiership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,250000,28,3,GK,Sekhukhune United FC,1,transfermarkt_market_value,6.7123
+Mbekezeli Mbokazi,South Africa,MLS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2500000,20,10,DEF,Chicago Fire FC,1,transfermarkt_market_value,7.1818
+Ime Okon,South Africa,2. Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2000000,22,5,DEF,Hannover 96,2,transfermarkt_market_value,6.8392
+Nkosinathi Sibisi,South Africa,Betway Premiership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1600000,30,19,DEF,Orlando Pirates,1,transfermarkt_market_value,7.5153
+Khulumani Ndamane,South Africa,Betway Premiership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,800000,22,5,DEF,Mamelodi Sundowns FC,1,transfermarkt_market_value,6.9326
+Samukele Kabini,South Africa,Eliteserien,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2000000,22,5,DEF,Molde FK,1,transfermarkt_market_value,7.2442
+Aubrey Modiba,South Africa,Betway Premiership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1800000,30,38,DEF,Mamelodi Sundowns FC,1,transfermarkt_market_value,7.6784
+Khuliso Mudau,South Africa,Betway Premiership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1200000,31,32,DEF,Mamelodi Sundowns FC,1,transfermarkt_market_value,7.3847
+Thabang Matuludi,South Africa,Betway Premiership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,900000,27,2,DEF,Polokwane City FC,1,transfermarkt_market_value,7.0949
+Teboho Mokoena,South Africa,Betway Premiership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2500000,29,51,MID,Mamelodi Sundowns FC,1,transfermarkt_market_value,7.9682
+Thalente Mbatha,South Africa,Betway Premiership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1600000,26,14,MID,Orlando Pirates,1,transfermarkt_market_value,7.5872
+Jayden Adams,South Africa,Betway Premiership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1400000,24,5,MID,Mamelodi Sundowns FC,1,transfermarkt_market_value,7.3729
+Yaya Sithole,South Africa,Liga Portugal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,600000,27,27,MID,CD Tondela,1,transfermarkt_market_value,7.3687
+Themba Zwane,South Africa,Betway Premiership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,300000,36,53,MID,Mamelodi Sundowns FC,1,transfermarkt_market_value,6.5541
+Oswin Appollis,South Africa,Betway Premiership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2000000,24,25,FWD,Orlando Pirates,1,transfermarkt_market_value,7.7645
+Relebohile Mofokeng,South Africa,Betway Premiership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2000000,21,12,FWD,Orlando Pirates,1,transfermarkt_market_value,7.2617
+Tshepang Moremi,South Africa,Betway Premiership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1000000,25,9,FWD,Orlando Pirates,1,transfermarkt_market_value,7.3527
+Thapelo Maseko,South Africa,Cyprus League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,750000,22,7,FWD,AEL Limassol,1,transfermarkt_market_value,6.9637
+Bongokuhle Hlongwane,South Africa,Major League Soccer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3500000,25,19,FWD,Minnesota United FC,1,transfermarkt_market_value,7.9065
+Lyle Foster,South Africa,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,10000000,25,26,FWD,Burnley FC,1,transfermarkt_market_value,8.5888
+Evidence Makgopa,South Africa,Betway Premiership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1200000,25,26,FWD,Orlando Pirates,1,transfermarkt_market_value,7.5977
+Bum-keun Song,South Korea,K League 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1000000,28,2,GK,Jeonbuk Hyundai Motors,1,transfermarkt_market_value,7.1307
+Hyeon-woo Jo,South Korea,K League 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,700000,34,47,GK,Ulsan HD FC,1,transfermarkt_market_value,7.5205
+Seung-gyu Kim,South Korea,J1 100 Year Vision League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,600000,35,85,GK,FC Tokyo,1,transfermarkt_market_value,7.4506
+Min-jae Kim,South Korea,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,25000000,29,77,DEF,Bayern Munich,1,transfermarkt_market_value,9.0959
+Yu-min Cho,South Korea,UAE Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1800000,29,18,DEF,Sharjah FC,1,transfermarkt_market_value,7.6709
+Han-beom Lee,South Korea,Superliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1800000,23,6,DEF,FC Midtjylland,1,transfermarkt_market_value,7.3618
+Ju-sung Kim,South Korea,J1 100 Year Vision League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,750000,25,8,DEF,Sanfrecce Hiroshima,1,transfermarkt_market_value,7.2354
+Tae-hyeon Kim,South Korea,J1 100 Year Vision League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,700000,25,7,DEF,Kashima Antlers,1,transfermarkt_market_value,7.1902
+Tae-seok Lee,South Korea,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1500000,23,14,DEF,Austria Vienna,1,transfermarkt_market_value,7.7103
+Young-woo Seol,South Korea,Super liga Srbije,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,5000000,27,32,DEF,Red Star Belgrade,1,transfermarkt_market_value,8.1201
+Moon-hwan Kim,South Korea,K League 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,800000,30,34,DEF,Daejeon Hana Citizen,1,transfermarkt_market_value,7.3827
+In-beom Hwang,South Korea,Eredivisie,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,8000000,29,71,MID,Feyenoord Rotterdam,1,transfermarkt_market_value,8.4237
+Hyeok-kyu Kwon,South Korea,2. Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1000000,25,2,MID,Karlsruher SC,2,transfermarkt_market_value,6.7257
+Jin-seob Park,South Korea,Chinese Super League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1000000,30,12,MID,Zhejiang FC,1,transfermarkt_market_value,7.276
+Seung-ho Paik,South Korea,Championship,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2500000,29,25,MID,Birmingham City,2,transfermarkt_market_value,7.4354
+Jin-gyu Kim,South Korea,K League 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1200000,29,20,MID,Jeonbuk Hyundai Motors,1,transfermarkt_market_value,7.5514
+Kang-in Lee,South Korea,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,28000000,25,46,MID,Paris Saint-Germain,1,transfermarkt_market_value,9.0411
+Hyun-seok Hong,South Korea,Jupiler Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3000000,26,16,MID,KAA Gent,1,transfermarkt_market_value,7.8241
+Jun-ho Bae,South Korea,Championship,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3000000,22,12,MID,Stoke City,2,transfermarkt_market_value,7.1196
+Jae-sung Lee,South Korea,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2000000,33,103,MID,1.FSV Mainz 05,1,transfermarkt_market_value,7.79
+Heung-min Son,South Korea,Major League Soccer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,17000000,33,143,FWD,Los Angeles FC,1,transfermarkt_market_value,8.3078
+Ji-sung Eom,South Korea,Championship,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1400000,23,8,FWD,Swansea City,2,transfermarkt_market_value,6.9177
+Hyun-jun Yang,South Korea,Scottish Premiership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3000000,23,8,FWD,Celtic FC,1,transfermarkt_market_value,7.5818
+Hyeon-gyu Oh,South Korea,Süper Lig,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,15000000,25,26,FWD,Besiktas JK,1,transfermarkt_market_value,8.4567
+Hee-chan Hwang,South Korea,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,8000000,30,77,FWD,Wolverhampton Wanderers,1,transfermarkt_market_value,8.5835
+Gue-sung Cho,South Korea,Superliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3000000,28,42,FWD,FC Midtjylland,1,transfermarkt_market_value,7.9951
+Lukas Hornicek,Czechia,Liga Portugal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,15000000,23,0,GK,SC Braga,1,transfermarkt_market_value,7.4741
+Matej Kovar,Czechia,Eredivisie,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,7000000,25,19,GK,PSV Eindhoven,1,transfermarkt_market_value,8.0172
+Martin Jedlicka,Czechia,Chance Liga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2500000,28,1,GK,FC Banik Ostrava,1,transfermarkt_market_value,7.3676
+Ladislav Krejčí,Czechia,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,22000000,27,25,DEF,Wolverhampton Wanderers,1,transfermarkt_market_value,8.85
+Robin Hranac,Czechia,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,10000000,26,12,DEF,TSG 1899 Hoffenheim,1,transfermarkt_market_value,8.4541
+Martin Vitík,Czechia,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,10000000,23,9,DEF,Bologna FC 1909,1,transfermarkt_market_value,8.2807
+Stepan Chaloupek,Czechia,Chance Liga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,8000000,23,3,DEF,SK Slavia Prague,1,transfermarkt_market_value,7.7659
+Tomas Holes,Czechia,Chance Liga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1200000,33,39,DEF,SK Slavia Prague,1,transfermarkt_market_value,7.1702
+Jaroslav Zelený,Czechia,Chance Liga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,700000,33,21,DEF,AC Sparta Prague,1,transfermarkt_market_value,6.8767
+David Jurásek,Czechia,Chance Liga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,5000000,25,16,DEF,SK Slavia Prague,1,transfermarkt_market_value,7.9978
+Vladimír Coufal,Czechia,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2700000,33,61,DEF,TSG 1899 Hoffenheim,1,transfermarkt_market_value,7.7968
+Tomáš Souček,Czechia,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,12000000,31,89,MID,West Ham United,1,transfermarkt_market_value,8.6227
+Michal Sadílek,Czechia,Chance Liga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,8000000,26,33,MID,SK Slavia Prague,1,transfermarkt_market_value,8.2854
+Lukas Cerv,Czechia,Chance Liga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,6000000,25,15,MID,FC Viktoria Plzen,1,transfermarkt_market_value,8.0486
+Pavel Bucha,Czechia,Major League Soccer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4000000,28,0,MID,FC Cincinnati,1,transfermarkt_market_value,7.3996
+Vladimír Darida,Czechia,Chance Liga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,400000,35,78,MID,FC Hradec Kralove,1,transfermarkt_market_value,6.722
+Pavel Sulc,Czechia,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,20000000,25,20,MID,Olympique Lyon,1,transfermarkt_market_value,8.7782
+Adam Karabec,Czechia,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,8000000,22,5,MID,Olympique Lyon,1,transfermarkt_market_value,7.9856
+Lukas Provod,Czechia,Chance Liga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,8000000,29,37,MID,SK Slavia Prague,1,transfermarkt_market_value,8.3059
+Denis Visinsky,Czechia,Chance Liga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1800000,23,0,MID,FC Viktoria Plzen,1,transfermarkt_market_value,7.0031
+Tomas Ladra,Czechia,Chance Liga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1000000,29,1,MID,FC Viktoria Plzen,1,transfermarkt_market_value,7.056
+Patrik Schick,Czechia,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,20000000,30,52,FWD,Bayer 04 Leverkusen,1,transfermarkt_market_value,8.8238
+Mojmír Chytil,Czechia,Chance Liga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4000000,26,21,FWD,SK Slavia Prague,1,transfermarkt_market_value,7.9694
+Tomas Chory,Czechia,Chance Liga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3000000,31,21,FWD,SK Slavia Prague,1,transfermarkt_market_value,7.6216
+Jan Kliment,Czechia,Chance Liga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,500000,32,10,FWD,SK Sigma Olomouc,1,transfermarkt_market_value,6.7595
+Dayne St. Clair,Canada,Major League Soccer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3500000,28,19,GK,Inter Miami CF,1,transfermarkt_market_value,7.9065
+Maxime Crépeau,Canada,Major League Soccer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2000000,31,30,GK,Orlando City SC,1,transfermarkt_market_value,7.7969
+Owen Goodman,Canada,League One,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,550000,22,0,GK,Barnsley FC,3,transfermarkt_market_value,5.5199
+Derek Cornelius,Canada,Scottish Premiership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3000000,28,42,DEF,Rangers FC,1,transfermarkt_market_value,7.9951
+Joel Waterman,Canada,Major League Soccer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2500000,30,17,DEF,Chicago Fire FC,1,transfermarkt_market_value,7.6476
+Kamal Miller,Canada,Major League Soccer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2500000,28,53,DEF,Portland Timbers,1,transfermarkt_market_value,7.9751
+Luc De Fougerolles,Canada,Jupiler Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1000000,20,11,DEF,FCV Dender EH,1,transfermarkt_market_value,6.8863
+Jahkeele Marshall-Rutty,Canada,Major League Soccer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1500000,21,2,DEF,Red Bull New York,1,transfermarkt_market_value,6.8936
+Richie Laryea,Canada,Major League Soccer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1000000,31,74,DEF,Toronto FC,1,transfermarkt_market_value,7.4741
+Niko Sigur,Canada,SuperSport HNL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4000000,22,17,MID,HNK Hajduk Split,1,transfermarkt_market_value,7.6824
+Ralph Priso,Canada,Major League Soccer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,800000,23,3,MID,Vancouver Whitecaps FC,1,transfermarkt_market_value,6.9829
+Ismaël Koné,Canada,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,20000000,23,38,MID,US Sassuolo,1,transfermarkt_market_value,8.7673
+Nathan-Dylan Saliba,Canada,Jupiler Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,6000000,22,13,MID,RSC Anderlecht,1,transfermarkt_market_value,7.774
+Jonathan Osorio,Canada,Major League Soccer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1200000,33,90,MID,Toronto FC,1,transfermarkt_market_value,7.3217
+Mathieu Choinière,Canada,Major League Soccer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,800000,27,23,MID,Los Angeles FC,1,transfermarkt_market_value,7.4382
+Ali Ahmed,Canada,Championship,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4000000,25,24,MID,Norwich City,2,transfermarkt_market_value,7.588
+Marcelo Flores,Canada,Liga MX Apertura,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4000000,22,2,FWD,Tigres UANL,1,transfermarkt_market_value,7.3522
+Liam Millar,Canada,Championship,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2800000,26,39,FWD,Hull City,2,transfermarkt_market_value,7.5533
+Junior Hoilett,Canada,League Two,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,50000,35,69,FWD,Swindon Town,4,transfermarkt_market_value,5.0626
+Tajon Buchanan,Canada,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,12000000,27,58,FWD,Villarreal CF,1,transfermarkt_market_value,8.7949
+Jonathan David,Canada,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,35000000,26,75,FWD,Juventus FC,1,transfermarkt_market_value,9.2056
+Tani Oluwaseyi,Canada,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,8000000,25,22,FWD,Villarreal CF,1,transfermarkt_market_value,8.4833
+Daniel Jebbison,Canada,Championship,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,6000000,22,7,FWD,Preston North End,2,transfermarkt_market_value,7.2658
+Cyle Larin,Canada,Championship,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3500000,31,88,FWD,Southampton FC,2,transfermarkt_market_value,7.5266
+Jacen Russell-Rowe,Canada,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3500000,23,9,FWD,FC Toulouse,1,transfermarkt_market_value,7.9237
+Aribim Pepple,Canada,League One,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,175000,23,0,FWD,Plymouth Argyle,3,transfermarkt_market_value,5.5055
+Gregor Kobel,Switzerland,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,40000000,28,20,GK,Borussia Dortmund,1,transfermarkt_market_value,9.0139
+Marvin Keller,Switzerland,Super League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,7000000,23,0,GK,BSC Young Boys,1,transfermarkt_market_value,7.215
+Yvon Mvogo,Switzerland,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3000000,31,12,GK,FC Lorient,1,transfermarkt_market_value,8.0446
+Manuel Akanji,Switzerland,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,18000000,30,79,DEF,Inter Milan,1,transfermarkt_market_value,8.8639
+Luca Jaquez,Switzerland,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,10000000,22,2,DEF,VfB Stuttgart,1,transfermarkt_market_value,7.9338
+Nico Elvedi,Switzerland,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,8000000,29,65,DEF,Borussia Mönchengladbach,1,transfermarkt_market_value,8.6777
+Aurèle Amenda,Switzerland,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,8000000,22,6,DEF,Eintracht Frankfurt,1,transfermarkt_market_value,8.0141
+Eray Cömert,Switzerland,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2500000,28,20,DEF,Valencia CF,1,transfermarkt_market_value,8.071
+Miro Muheim,Switzerland,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,5000000,28,8,DEF,Hamburger SV,1,transfermarkt_market_value,8.1506
+Ricardo Rodríguez,Switzerland,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1500000,33,136,DEF,Real Betis Balompié,1,transfermarkt_market_value,7.743
+Silvan Widmer,Switzerland,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,800000,33,58,DEF,1.FSV Mainz 05,1,transfermarkt_market_value,7.374
+Ardon Jashari,Switzerland,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,30000000,23,6,MID,AC Milan,1,transfermarkt_market_value,8.5885
+Denis Zakaria,Switzerland,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,25000000,29,63,MID,AS Monaco,1,transfermarkt_market_value,9.0595
+Granit Xhaka,Switzerland,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,10000000,33,144,MID,Sunderland AFC,1,transfermarkt_market_value,8.3986
+Johan Manzambi,Switzerland,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,35000000,20,10,MID,SC Freiburg,1,transfermarkt_market_value,8.3493
+Djibril Sow,Switzerland,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,7500000,29,50,MID,Sevilla FC,1,transfermarkt_market_value,8.6082
+Michel Aebischer,Switzerland,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4500000,29,38,MID,Pisa Sporting Club,1,transfermarkt_market_value,8.385
+Remo Freuler,Switzerland,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4000000,34,86,MID,Bologna FC 1909,1,transfermarkt_market_value,7.8679
+Vincent Sierro,Switzerland,Saudi Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3800000,30,15,MID,Al-Shabab FC,1,transfermarkt_market_value,7.7683
+Joël Monteiro,Switzerland,Super League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4500000,26,7,MID,BSC Young Boys,1,transfermarkt_market_value,7.823
+Alvyn Sanches,Switzerland,Super League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,9000000,23,3,MID,BSC Young Boys,1,transfermarkt_market_value,7.806
+Fabian Rieder,Switzerland,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,8000000,24,27,MID,FC Augsburg,1,transfermarkt_market_value,8.5196
+Noah Okafor,Switzerland,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,18000000,25,24,FWD,Leeds United,1,transfermarkt_market_value,8.7745
+Rubén Vargas,Switzerland,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,12000000,27,60,FWD,Sevilla FC,1,transfermarkt_market_value,8.801
+Dan Ndoye,Switzerland,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,35000000,25,29,FWD,Nottingham Forest,1,transfermarkt_market_value,9.0342
+Breel Embolo,Switzerland,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,12000000,29,85,FWD,Stade Rennais FC,1,transfermarkt_market_value,8.8643
+Meshaal Barsham,Qatar,Qatar Stars League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,800000,28,54,GK,Al-Sadd SC,1,transfermarkt_market_value,7.591
+Shehab Ellethy,Qatar,Qatar Stars League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,350000,26,1,GK,Al-Shahania SC,1,transfermarkt_market_value,6.699
+Mahmoud Abunada,Qatar,Qatar Stars League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,350000,26,4,GK,Al-Rayyan SC,1,transfermarkt_market_value,6.8679
+Tarek Salman,Qatar,Qatar Stars League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,600000,28,85,DEF,Al-Sadd SC,1,transfermarkt_market_value,7.5756
+Youssef Ayman,Qatar,Qatar Stars League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,400000,27,9,DEF,Al-Duhail SC,1,transfermarkt_market_value,7.0411
+Lucas Mendes,Qatar,Qatar Stars League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,375000,35,25,DEF,Al-Wakrah SC,1,transfermarkt_market_value,6.4952
+Al-Hashmi Al-Hussain,Qatar,Qatar Stars League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,250000,22,11,DEF,Al-Arabi SC,1,transfermarkt_market_value,6.6648
+Issa Laye,Qatar,Qatar Stars League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,200000,28,2,DEF,Al-Arabi SC,1,transfermarkt_market_value,6.5834
+Niall Mason,Qatar,Qatar Stars League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,175000,29,0,DEF,Qatar SC,1,transfermarkt_market_value,6.3355
+Mohammed Waad,Qatar,Qatar Stars League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,500000,26,50,DEF,Al-Shamal SC,1,transfermarkt_market_value,7.4173
+Homam Al-Amin,Qatar,LaLiga2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,500000,26,67,DEF,Cultural Leonesa,2,transfermarkt_market_value,7.0653
+Sultan Al-Brake,Qatar,Qatar Stars League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,325000,30,17,DEF,Al-Duhail SC,1,transfermarkt_market_value,6.9538
+Ayoub Al-Oui,Qatar,Qatar Stars League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,350000,21,10,DEF,Al-Gharafa SC,1,transfermarkt_market_value,6.6382
+Jassem Gaber,Qatar,Qatar Stars League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,600000,24,32,MID,Al-Rayyan SC,1,transfermarkt_market_value,7.399
+Mohamed Al-Mannai,Qatar,Qatar Stars League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,400000,22,9,MID,Al-Shamal SC,1,transfermarkt_market_value,6.7911
+Assim Madibo,Qatar,Qatar Stars League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,350000,29,60,MID,Al-Wakrah SC,1,transfermarkt_market_value,7.329
+Ahmed Fathi,Qatar,Qatar Stars League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,275000,33,44,MID,Al-Arabi SC,1,transfermarkt_market_value,6.6909
+Abdulaziz Hatim,Qatar,Qatar Stars League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,275000,35,121,MID,Al-Rayyan SC,1,transfermarkt_market_value,6.6747
+Anas Abweny,Qatar,Qatar Stars League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,125000,21,14,MID,Al-Sadd SC,1,transfermarkt_market_value,6.3452
+Akram Afif,Qatar,Qatar Stars League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,8000000,29,126,FWD,Al-Sadd SC,1,transfermarkt_market_value,8.5283
+Edmílson Junior,Qatar,Qatar Stars League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2000000,31,14,FWD,Al-Duhail SC,1,transfermarkt_market_value,7.4131
+Mohamed Khaled Gouda,Qatar,Qatar Stars League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,250000,21,14,FWD,Al-Arabi SC,1,transfermarkt_market_value,6.581
+Khalid Ali Sabah,Qatar,Qatar Stars League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,250000,24,2,FWD,Al-Sailiya SC,1,transfermarkt_market_value,6.6593
+Ahmed Alaaeldin,Qatar,Qatar Stars League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,375000,33,67,FWD,Al-Rayyan SC,1,transfermarkt_market_value,6.8725
+Mohammed Muntari,Qatar,Qatar Stars League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,225000,32,70,FWD,Al-Gharafa SC,1,transfermarkt_market_value,6.8317
+Nikola Vasilj,Bosnia and Herzegovina,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4500000,30,25,GK,FC St. Pauli,1,transfermarkt_market_value,8.3103
+Martin Zlomislic,Bosnia and Herzegovina,SuperSport HNL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2000000,27,2,GK,HNK Rijeka,1,transfermarkt_market_value,7.3664
+Osman Hadzikic,Bosnia and Herzegovina,SuperSport HNL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,400000,30,0,GK,Slaven Belupo Koprivnica,1,transfermarkt_market_value,6.6166
+Tarik Muharemović,Bosnia and Herzegovina,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,20000000,23,12,DEF,US Sassuolo,1,transfermarkt_market_value,8.5648
+Sead Kolasinac,Bosnia and Herzegovina,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,6000000,32,64,DEF,Atalanta BC,1,transfermarkt_market_value,8.202
+Nidal Celik,Bosnia and Herzegovina,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4000000,19,0,DEF,RC Lens,1,transfermarkt_market_value,7.0446
+Stjepan Radeljic,Bosnia and Herzegovina,SuperSport HNL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2800000,28,4,DEF,HNK Rijeka,1,transfermarkt_market_value,7.575
+Nikola Katic,Bosnia and Herzegovina,2. Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1800000,29,15,DEF,FC Schalke 04,2,transfermarkt_market_value,7.2342
+Nihad Mujakic,Bosnia and Herzegovina,Süper Lig,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1200000,28,10,DEF,Gaziantep FK,1,transfermarkt_market_value,7.4322
+Amar Dedić,Bosnia and Herzegovina,Liga Portugal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,15000000,23,26,DEF,SL Benfica,1,transfermarkt_market_value,8.3317
+Amir Hadziahmetovic,Bosnia and Herzegovina,Championship,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4200000,29,34,MID,Hull City,2,transfermarkt_market_value,7.6666
+Ivan Sunjic,Bosnia and Herzegovina,Cyprus League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1800000,29,11,MID,Pafos FC,1,transfermarkt_market_value,7.5862
+Dzenis Burnic,Bosnia and Herzegovina,2. Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1200000,27,18,MID,Karlsruher SC,2,transfermarkt_market_value,7.128
+Benjamin Tahirović,Bosnia and Herzegovina,Superliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4500000,23,26,MID,Bröndby IF,1,transfermarkt_market_value,7.9222
+Armin Gigovic,Bosnia and Herzegovina,Super League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2500000,24,18,MID,BSC Young Boys,1,transfermarkt_market_value,7.7826
+Ivan Basic,Bosnia and Herzegovina,Premier Liga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1200000,23,15,MID,FC Astana,1,transfermarkt_market_value,7.3763
+Amar Memić,Bosnia and Herzegovina,Chance Liga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4500000,25,11,MID,FC Viktoria Plzen,1,transfermarkt_market_value,7.8978
+Kerim Alajbegovic,Bosnia and Herzegovina,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,15000000,18,8,FWD,Red Bull Salzburg,1,transfermarkt_market_value,7.8742
+Esmir Bajraktarevic,Bosnia and Herzegovina,Eredivisie,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,5000000,21,14,FWD,PSV Eindhoven,1,transfermarkt_market_value,7.5997
+Ermedin Demirovic,Bosnia and Herzegovina,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,22000000,28,38,FWD,VfB Stuttgart,1,transfermarkt_market_value,8.9247
+Haris Tabakovic,Bosnia and Herzegovina,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3000000,31,10,FWD,Borussia Mönchengladbach,1,transfermarkt_market_value,7.7638
+Jovo Lukić,Bosnia and Herzegovina,SuperLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1500000,27,1,FWD,FC Universitatea Cluj,1,transfermarkt_market_value,7.1939
+Samed Bazdar,Bosnia and Herzegovina,PKO BP Ekstraklasa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1500000,22,11,FWD,Jagiellonia Bialystok,1,transfermarkt_market_value,7.2741
+Edin Dzeko,Bosnia and Herzegovina,2. Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1500000,40,148,FWD,FC Schalke 04,2,transfermarkt_market_value,6.8835
+Ederson,Brazil,Süper Lig,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,13000000,32,31,GK,Fenerbahce,1,transfermarkt_market_value,8.4393
+Hugo Souza,Brazil,Campeonato Brasileiro Série A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,11000000,27,1,GK,Sport Club Corinthians Paulista,1,transfermarkt_market_value,7.8714
+Bento,Brazil,Saudi Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,9000000,26,7,GK,Al-Nassr FC,1,transfermarkt_market_value,8.0587
+Bremer,Brazil,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,35000000,29,6,DEF,Juventus FC,1,transfermarkt_market_value,8.766
+Vitor Reis,Brazil,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,30000000,20,0,DEF,Girona FC,1,transfermarkt_market_value,7.8549
+Marquinhos,Brazil,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,30000000,31,104,DEF,Paris Saint-Germain,1,transfermarkt_market_value,8.9627
+Roger Ibañez,Brazil,Saudi Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,17000000,27,5,DEF,Al-Ahli SFC,1,transfermarkt_market_value,8.222
+Léo Pereira,Brazil,Campeonato Brasileiro Série A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,10000000,30,2,DEF,CR Flamengo,1,transfermarkt_market_value,7.7888
+Danilo,Brazil,Campeonato Brasileiro Série A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2500000,34,68,DEF,CR Flamengo,1,transfermarkt_market_value,7.3953
+Kaiki,Brazil,Campeonato Brasileiro Série A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,12000000,23,1,DEF,Cruzeiro Esporte Clube,1,transfermarkt_market_value,7.776
+Douglas Santos,Brazil,Premier Liga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,8000000,32,5,DEF,Zenit St. Petersburg,1,transfermarkt_market_value,7.5906
+Fabinho,Brazil,Saudi Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,13000000,32,31,MID,Al-Ittihad Club,1,transfermarkt_market_value,8.0643
+Casemiro,Brazil,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,8000000,34,84,MID,Manchester United,1,transfermarkt_market_value,8.0993
+Andrey Santos,Brazil,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,45000000,21,6,MID,Chelsea FC,1,transfermarkt_market_value,8.4764
+Danilo,Brazil,Campeonato Brasileiro Série A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,24000000,24,2,MID,Botafogo de Futebol e Regatas,1,transfermarkt_market_value,8.2115
+Gabriel Sara,Brazil,Süper Lig,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,22000000,26,1,MID,Galatasaray,1,transfermarkt_market_value,8.1071
+Vinicius Junior,Brazil,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,150000000,25,47,FWD,Real Madrid,1,transfermarkt_market_value,9.6158
+Gabriel Martinelli,Brazil,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,45000000,24,22,FWD,Arsenal FC,1,transfermarkt_market_value,9.0707
+Rayan,Brazil,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,40000000,19,1,FWD,AFC Bournemouth,1,transfermarkt_market_value,7.9555
+Luiz Henrique,Brazil,Premier Liga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,24000000,25,13,FWD,Zenit St. Petersburg,1,transfermarkt_market_value,8.4954
+João Pedro,Brazil,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,75000000,24,8,FWD,Chelsea FC,1,transfermarkt_market_value,9.0715
+Matheus Cunha,Brazil,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,70000000,26,21,FWD,Manchester United,1,transfermarkt_market_value,9.2128
+Igor Thiago,Brazil,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,50000000,24,2,FWD,Brentford FC,1,transfermarkt_market_value,8.7311
+Endrick,Brazil,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,35000000,19,15,FWD,Olympique Lyon,1,transfermarkt_market_value,8.2934
+Yassine Bounou,Morocco,Saudi Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3500000,35,89,GK,Al-Hilal SFC,1,transfermarkt_market_value,8.0587
+El Mehdi Benabid,Morocco,Botola Pro Inwi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1500000,28,5,GK,Wydad Casablanca,1,transfermarkt_market_value,7.3964
+El Mehdi Al Harrar,Morocco,Botola Pro Inwi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1000000,25,7,GK,Raja Club Athletic,1,transfermarkt_market_value,7.1865
+Chadi Riad,Morocco,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,12000000,22,4,DEF,Crystal Palace,1,transfermarkt_market_value,8.0899
+Issa Diop,Morocco,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,10000000,29,2,DEF,Fulham FC,1,transfermarkt_market_value,8.1838
+Abdelhamid Ait Boudlal,Morocco,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,10000000,20,1,DEF,Stade Rennais FC,1,transfermarkt_market_value,7.609
+Redouane Halhal,Morocco,Jupiler Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3000000,23,1,DEF,KV Mechelen,1,transfermarkt_market_value,7.3046
+Ismaël Baouf,Morocco,Keuken Kampioen Divisie,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2500000,19,0,DEF,SC Cambuur Leeuwarden,2,transfermarkt_market_value,6.2098
+Souffian El Karouani,Morocco,Eredivisie,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,15000000,25,6,DEF,FC Utrecht,1,transfermarkt_market_value,8.2078
+Anass Salah-Eddine,Morocco,Eredivisie,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,12000000,24,8,DEF,PSV Eindhoven,1,transfermarkt_market_value,8.1783
+Achraf Hakimi,Morocco,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,80000000,27,95,DEF,Paris Saint-Germain,1,transfermarkt_market_value,9.5298
+Noussair Mazraoui,Morocco,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,20000000,28,43,DEF,Manchester United,1,transfermarkt_market_value,8.9145
+Zakaria El Ouahdi,Morocco,Jupiler Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,15000000,24,2,DEF,KRC Genk,1,transfermarkt_market_value,8.0516
+Oussama Targhalline,Morocco,Eredivisie,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,12000000,23,11,MID,Feyenoord Rotterdam,1,transfermarkt_market_value,8.1063
+Mohamed Rabie Hrimat,Morocco,Botola Pro Inwi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1500000,31,15,MID,AS FAR Rabat,1,transfermarkt_market_value,7.3272
+Neil El Aynaoui,Morocco,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,20000000,24,15,MID,AS Roma,1,transfermarkt_market_value,8.728
+Samir El Mourabet,Morocco,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,18000000,20,2,MID,RC Strasbourg Alsace,1,transfermarkt_market_value,7.8836
+Azzedine Ounahi,Morocco,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,10000000,26,47,MID,Girona FC,1,transfermarkt_market_value,8.6948
+Ismael Saibari,Morocco,Eredivisie,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,32000000,25,27,MID,PSV Eindhoven,1,transfermarkt_market_value,8.721
+Bilal El Khannouss,Morocco,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,32000000,21,35,MID,VfB Stuttgart,1,transfermarkt_market_value,8.6624
+Rayane Bounida,Morocco,Eredivisie,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,5000000,20,0,MID,Ajax Amsterdam,1,transfermarkt_market_value,6.9755
+Abde Ezzalzouli,Morocco,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,30000000,24,35,FWD,Real Betis Balompié,1,transfermarkt_market_value,9.0154
+Amine Adli,Morocco,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,20000000,25,17,FWD,AFC Bournemouth,1,transfermarkt_market_value,8.7498
+Soufiane Rahimi,Morocco,UAE Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,6000000,29,35,FWD,Al-Ain FC,1,transfermarkt_market_value,8.1981
+Brahim Díaz,Morocco,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,35000000,26,24,FWD,Real Madrid,1,transfermarkt_market_value,9.0006
+Chemsdine Talbi,Morocco,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,25000000,20,5,FWD,Sunderland AFC,1,transfermarkt_market_value,8.1231
+Gessime Yassine,Morocco,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,10000000,20,2,FWD,RC Strasbourg Alsace,1,transfermarkt_market_value,7.6838
+Yassir Zabiri,Morocco,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,9000000,21,1,FWD,Stade Rennais FC,1,transfermarkt_market_value,7.6982
+Ayoub El Kaabi,Morocco,Super League 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,5000000,32,68,FWD,Olympiacos Piraeus,1,transfermarkt_market_value,7.881
+Alexandre Pierre,Haiti,Championnat National,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,500000,25,14,GK,FC Sochaux-Montbéliard,3,transfermarkt_market_value,6.3617
+Johny Placide,Haiti,Ligue 2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,150000,38,79,GK,SC Bastia,2,transfermarkt_market_value,6.1858
+Josué Duverger,Haiti,Oberliga Rheinland-Pfalz/Saar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,26,6,GK,FC Cosmos Koblenz,1,transfermarkt_market_value,2.5887
+Hannes Delcroix,Haiti,Super League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2000000,27,5,DEF,FC Lugano,1,transfermarkt_market_value,7.4942
+Jean-Kévin Duverne,Haiti,Jupiler Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2000000,28,15,DEF,KAA Gent,1,transfermarkt_market_value,7.675
+Ricardo Adé,Haiti,LigaPro Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,300000,35,57,DEF,LDU Quito,1,transfermarkt_market_value,6.5673
+Delentz Pierre,Haiti,USL Championship,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,150000,25,0,DEF,FC Tulsa,2,transfermarkt_market_value,5.8781
+Martin Expérience,Haiti,Ligue 2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,400000,27,19,DEF,AS Nancy-Lorraine,2,transfermarkt_market_value,6.7638
+Duke Lacroix,Haiti,USL Championship,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,150000,32,14,DEF,Colorado Springs Switchbacks FC,2,transfermarkt_market_value,6.0022
+Carlens Arcus,Haiti,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1800000,29,51,DEF,Angers SCO,1,transfermarkt_market_value,8.1264
+Wilguens Paugain,Haiti,Jupiler Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,600000,24,6,DEF,Zulte Waregem,1,transfermarkt_market_value,7.1132
+Danley Jean Jacques,Haiti,Major League Soccer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3000000,25,28,MID,Philadelphia Union,1,transfermarkt_market_value,7.9225
+Leverton Pierre,Haiti,Liga Portugal 2 ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,200000,28,33,MID,FC Vizela,2,transfermarkt_market_value,6.6259
+Carl Sainté,Haiti,USL Championship,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,150000,23,25,MID,El Paso Locomotive FC,2,transfermarkt_market_value,6.3536
+Woodensky Pierre,Haiti,Ligue Haïtienne,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,21,1,MID,Violette Athletic Club,1,transfermarkt_market_value,1.9828
+Jean-Ricner Bellegarde,Haiti,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,16000000,27,8,MID,Wolverhampton Wanderers,1,transfermarkt_market_value,8.5461
+Derrick Etienne Jr.,Haiti,Major League Soccer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,800000,29,46,FWD,Toronto FC,1,transfermarkt_market_value,7.562
+Ruben Providence,Haiti,Keuken Kampioen Divisie,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,300000,24,13,FWD,Almere City FC,2,transfermarkt_market_value,6.6002
+Josué Casimir,Haiti,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3500000,24,5,FWD,AJ Auxerre,1,transfermarkt_market_value,7.9545
+Louicius Deedson,Haiti,Major League Soccer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1200000,25,30,FWD,FC Dallas,1,transfermarkt_market_value,7.6232
+Wilson Isidor,Haiti,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,18000000,25,2,FWD,Sunderland AFC,1,transfermarkt_market_value,8.3836
+Frantzdy Pierrot,Haiti,Süper Lig,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2500000,31,49,FWD,Caykur Rizespor,1,transfermarkt_market_value,7.7109
+Duckens Nazon,Haiti,Persian Gulf Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,900000,32,76,FWD,Esteghlal FC,1,transfermarkt_market_value,7.3181
+Woobens Pacius,Haiti,Major League Soccer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,600000,24,1,FWD,Nashville SC,1,transfermarkt_market_value,6.8823
+Yassin Fortuné,Haiti,Liga Portugal 2 ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,200000,27,3,FWD,FC Vizela,2,transfermarkt_market_value,6.2314
+Angus Gunn,Scotland,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1500000,30,21,GK,Nottingham Forest,1,transfermarkt_market_value,7.9059
+Liam Kelly,Scotland,Scottish Premiership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,800000,30,2,GK,Rangers FC,1,transfermarkt_market_value,7.0548
+Scott Bain,Scotland,Scottish Premiership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,100000,34,4,GK,Falkirk FC,1,transfermarkt_market_value,6.4419
+Scott McKenna,Scotland,SuperSport HNL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4000000,29,48,DEF,GNK Dinamo Zagreb,1,transfermarkt_market_value,8.117
+John Souttar,Scotland,Scottish Premiership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3000000,29,22,DEF,Rangers FC,1,transfermarkt_market_value,7.8798
+Dominic Hyam,Scotland,Championship,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2500000,30,2,DEF,Wrexham AFC,2,transfermarkt_market_value,6.9123
+Jack Hendry,Scotland,Saudi Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2500000,30,37,DEF,Al-Ettifaq FC,1,transfermarkt_market_value,7.7853
+Grant Hanley,Scotland,Scottish Premiership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,350000,34,66,DEF,Hibernian FC,1,transfermarkt_market_value,6.7213
+Andrew Robertson,Scotland,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,10000000,32,92,DEF,Liverpool FC,1,transfermarkt_market_value,8.4418
+Kieran Tierney,Scotland,Scottish Premiership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,8000000,28,55,DEF,Celtic FC,1,transfermarkt_market_value,8.3774
+Nathan Patterson,Scotland,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,10000000,24,25,DEF,Everton FC,1,transfermarkt_market_value,8.5818
+Ross McCrorie,Scotland,Championship,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3000000,28,2,DEF,Bristol City,2,transfermarkt_market_value,7.0993
+Anthony Ralston,Scotland,Scottish Premiership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1500000,27,25,DEF,Celtic FC,1,transfermarkt_market_value,7.6667
+Billy Gilmour,Scotland,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,20000000,24,45,MID,SSC Napoli,1,transfermarkt_market_value,8.9227
+Scott McTominay,Scotland,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,45000000,29,69,MID,SSC Napoli,1,transfermarkt_market_value,9.2759
+Lewis Ferguson,Scotland,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,18000000,26,23,MID,Bologna FC 1909,1,transfermarkt_market_value,8.767
+John McGinn,Scotland,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,15000000,31,85,MID,Aston Villa,1,transfermarkt_market_value,8.6902
+Lennon Miller,Scotland,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,10000000,19,5,MID,Udinese Calcio,1,transfermarkt_market_value,7.6865
+Ryan Christie,Scotland,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,9000000,31,66,MID,AFC Bournemouth,1,transfermarkt_market_value,8.4705
+Andrew Irving,Scotland,Chance Liga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,5000000,25,1,MID,AC Sparta Prague,1,transfermarkt_market_value,7.6033
+Kenny McLean,Scotland,Championship,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,500000,34,55,MID,Norwich City,2,transfermarkt_market_value,6.4045
+Findlay Curtis,Scotland,Scottish Premiership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,900000,19,1,FWD,Kilmarnock FC,1,transfermarkt_market_value,6.3952
+Tommy Conway,Scotland,Championship,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,10000000,23,8,FWD,Middlesbrough FC,2,transfermarkt_market_value,7.5863
+Ché Adams,Scotland,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,8500000,29,46,FWD,Torino FC,1,transfermarkt_market_value,8.6357
+George Hirst,Scotland,Championship,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,8000000,27,8,FWD,Ipswich Town,2,transfermarkt_market_value,7.6354
+Lyndon Dykes,Scotland,Championship,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1000000,30,50,FWD,Charlton Athletic,2,transfermarkt_market_value,7.123
+Patrick Schulte,USA,Major League Soccer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3500000,25,3,GK,Columbus Crew,1,transfermarkt_market_value,7.4848
+Matt Turner,USA,Major League Soccer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2500000,31,53,GK,New England Revolution,1,transfermarkt_market_value,7.9751
+Chris Brady,USA,Major League Soccer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2500000,22,0,GK,Chicago Fire FC,1,transfermarkt_market_value,6.7398
+Matt Freese,USA,Major League Soccer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2000000,27,14,GK,New York City FC,1,transfermarkt_market_value,7.6631
+Chris Richards,USA,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,25000000,26,36,DEF,Crystal Palace,1,transfermarkt_market_value,8.9585
+Auston Trusty,USA,Scottish Premiership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,6000000,27,6,DEF,Celtic FC,1,transfermarkt_market_value,7.8962
+Mark McKenzie,USA,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,6000000,27,27,DEF,FC Toulouse,1,transfermarkt_market_value,8.4218
+Miles Robinson,USA,Major League Soccer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3500000,29,38,DEF,FC Cincinnati,1,transfermarkt_market_value,8.0296
+Tim Ream,USA,Major League Soccer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,200000,38,80,DEF,Charlotte FC,1,transfermarkt_market_value,6.4909
+Antonee Robinson,USA,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,25000000,28,52,DEF,Fulham FC,1,transfermarkt_market_value,9.0247
+Joe Scally,USA,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,7000000,23,24,DEF,Borussia Mönchengladbach,1,transfermarkt_market_value,8.3283
+Alex Freeman,USA,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3500000,21,15,DEF,Villarreal CF,1,transfermarkt_market_value,7.7603
+Tanner Tessmann,USA,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,10000000,24,14,MID,Olympique Lyon,1,transfermarkt_market_value,8.4804
+Weston McKennie,USA,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,30000000,27,64,MID,Juventus FC,1,transfermarkt_market_value,9.1243
+Johnny Cardoso,USA,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,22000000,24,23,MID,Atlético de Madrid,1,transfermarkt_market_value,8.8352
+Aidan Morris,USA,Championship,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,9000000,24,14,MID,Middlesbrough FC,2,transfermarkt_market_value,7.7696
+Sebastian Berhalter,USA,Major League Soccer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,5000000,24,11,MID,Vancouver Whitecaps FC,1,transfermarkt_market_value,7.9336
+Cristian Roldán,USA,Major League Soccer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3500000,30,45,MID,Seattle Sounders FC,1,transfermarkt_market_value,7.935
+Timothy Weah,USA,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,20000000,26,49,MID,Olympique Marseille,1,transfermarkt_market_value,8.9381
+Malik Tillman,USA,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,30000000,23,28,MID,Bayer 04 Leverkusen,1,transfermarkt_market_value,8.8506
+Brenden Aaronson,USA,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,18000000,25,57,MID,Leeds United,1,transfermarkt_market_value,8.9296
+Giovanni Reyna,USA,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4000000,23,36,MID,Borussia Mönchengladbach,1,transfermarkt_market_value,8.2103
+Max Arfsten,USA,Major League Soccer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4500000,25,18,FWD,Columbus Crew,1,transfermarkt_market_value,7.9825
+Christian Pulisic,USA,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,50000000,27,84,FWD,AC Milan,1,transfermarkt_market_value,9.3475
+Folarin Balogun,USA,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,30000000,24,25,FWD,AS Monaco,1,transfermarkt_market_value,8.9554
+Ricardo Pepi,USA,Eredivisie,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,25000000,23,35,FWD,PSV Eindhoven,1,transfermarkt_market_value,8.5584
+Patrick Agyemang,USA,Championship,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,9000000,25,14,FWD,Derby County,2,transfermarkt_market_value,7.7696
+Orlando Gill,Paraguay,Torneo Apertura ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,5000000,25,5,GK,CA San Lorenzo de Almagro,1,transfermarkt_market_value,7.6808
+Gastón Olveira,Paraguay,Primera División Apertura,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,500000,33,1,GK,Olimpia Asunción,1,transfermarkt_market_value,6.8203
+Roberto Fernández,Paraguay,Primera División Apertura,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,150000,38,29,GK,Club Cerro Porteño,1,transfermarkt_market_value,6.41
+Omar Alderete,Paraguay,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,15000000,29,35,DEF,Sunderland AFC,1,transfermarkt_market_value,8.7797
+Gustavo Gómez,Paraguay,Campeonato Brasileiro Série A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4000000,32,88,DEF,Sociedade Esportiva Palmeiras,1,transfermarkt_market_value,7.8521
+Júnior Alonso,Paraguay,Campeonato Brasileiro Série A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2000000,33,70,DEF,Clube Atlético Mineiro,1,transfermarkt_market_value,7.4497
+José Canale,Paraguay,Torneo Apertura ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1800000,29,1,DEF,CA Lanús,1,transfermarkt_market_value,7.2559
+Fabián Balbuena,Paraguay,Campeonato Brasileiro Série A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1200000,34,46,DEF,Grêmio Foot-Ball Porto Alegrense,1,transfermarkt_market_value,7.0749
+Gustavo Velázquez,Paraguay,Primera División Apertura,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,600000,35,12,DEF,Club Cerro Porteño,1,transfermarkt_market_value,6.5273
+Alexandro Maidana,Paraguay,Torneo Apertura ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1500000,20,1,DEF,CA Talleres,1,transfermarkt_market_value,6.6939
+Juan José Cáceres,Paraguay,Premier Liga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4000000,25,16,DEF,Dynamo Moscow,1,transfermarkt_market_value,7.9219
+Alan Benítez,Paraguay,Primera División Apertura,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,300000,32,8,DEF,Club Libertad Asunción,1,transfermarkt_market_value,6.5488
+Braian Ojeda,Paraguay,Major League Soccer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3500000,25,16,MID,Orlando City SC,1,transfermarkt_market_value,7.8765
+Lucas Romero,Paraguay,Liga de Primera ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,350000,23,2,MID,Club Universidad de Chile,1,transfermarkt_market_value,6.6487
+Diego Gómez,Paraguay,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,25000000,23,23,MID,Brighton & Hove Albion,1,transfermarkt_market_value,8.7537
+Damián Bobadilla,Paraguay,Campeonato Brasileiro Série A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,5000000,24,19,MID,São Paulo Futebol Clube,1,transfermarkt_market_value,8.0277
+Matías Galarza,Paraguay,Major League Soccer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3000000,24,14,MID,Atlanta United FC,1,transfermarkt_market_value,7.801
+Julio Enciso,Paraguay,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,22000000,22,31,MID,RC Strasbourg Alsace,1,transfermarkt_market_value,8.6382
+Mauricio,Paraguay,Campeonato Brasileiro Série A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,14000000,24,2,MID,Sociedade Esportiva Palmeiras,1,transfermarkt_market_value,8.0282
+Gustavo Caballero,Paraguay,Championship,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1000000,24,3,FWD,Portsmouth FC,2,transfermarkt_market_value,6.7788
+Miguel Almirón,Paraguay,Major League Soccer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,9000000,32,75,FWD,Atlanta United FC,1,transfermarkt_market_value,8.0987
+Ramón Sosa,Paraguay,Campeonato Brasileiro Série A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,10000000,26,28,FWD,Sociedade Esportiva Palmeiras,1,transfermarkt_market_value,8.332
+Álex Arce,Paraguay,Torneo Apertura ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3000000,30,14,FWD,CS Independiente Rivadavia,1,transfermarkt_market_value,7.676
+Antonio Sanabria,Paraguay,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2000000,30,47,FWD,US Cremonese,1,transfermarkt_market_value,8.0225
+Gabriel Ávalos,Paraguay,Torneo Apertura ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,800000,35,22,FWD,CA Independiente,1,transfermarkt_market_value,6.7303
+Mathew Ryan,Australia,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2000000,34,103,GK,Levante UD,1,transfermarkt_market_value,8.29
+Patrick Beach,Australia,A-League Men,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,900000,22,1,GK,Melbourne City FC,1,transfermarkt_market_value,6.5202
+Paul Izzo,Australia,Superliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,600000,31,4,GK,Randers FC,1,transfermarkt_market_value,7.0512
+Alessandro Circati,Australia,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,10000000,22,11,DEF,Parma Calcio 1913,1,transfermarkt_market_value,8.1893
+Cameron Burgess,Australia,Championship,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1800000,30,25,DEF,Swansea City,2,transfermarkt_market_value,7.1987
+Lucas Herrington,Australia,Major League Soccer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1500000,18,4,DEF,Colorado Rapids,1,transfermarkt_market_value,6.7128
+Kye Rowles,Australia,Major League Soccer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1200000,27,29,DEF,D.C. United,1,transfermarkt_market_value,7.6172
+Milos Degenek,Australia,Cyprus League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,500000,32,56,DEF,APOEL Nicosia,1,transfermarkt_market_value,7.0628
+Jordan Bos,Australia,Eredivisie,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,8000000,23,25,DEF,Feyenoord Rotterdam,1,transfermarkt_market_value,8.1109
+Aziz Behich,Australia,A-League Men,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,275000,35,82,DEF,Melbourne City FC,1,transfermarkt_market_value,6.6037
+Jacob Italiano,Australia,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,400000,24,3,DEF,Grazer AK 1902,1,transfermarkt_market_value,7.1422
+Jason Geria,Australia,J2/J3 100 Year Vision League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,400000,32,13,DEF,Albirex Niigata,3,transfermarkt_market_value,6.0231
+Aiden O'Neill,Australia,Major League Soccer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3000000,27,29,MID,New York City FC,1,transfermarkt_market_value,7.9288
+Kai Trewin,Australia,Major League Soccer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1000000,24,4,MID,New York City FC,1,transfermarkt_market_value,7.2249
+Paul Okon-Engstler,Australia,A-League Men,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,800000,21,4,MID,Sydney FC,1,transfermarkt_market_value,6.774
+Patrick Yazbek,Australia,Major League Soccer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3500000,24,9,MID,Nashville SC,1,transfermarkt_market_value,7.7787
+Riley McGree,Australia,Championship,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2800000,27,35,MID,Middlesbrough FC,2,transfermarkt_market_value,7.5339
+Connor Metcalfe,Australia,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2000000,26,34,MID,FC St. Pauli,1,transfermarkt_market_value,8.0893
+Alex Robertson,Australia,League One,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1300000,23,3,MID,Cardiff City,3,transfermarkt_market_value,6.443
+Ajdin Hrustic,Australia,Eredivisie,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,700000,29,36,MID,Heracles Almelo,1,transfermarkt_market_value,7.4725
+Nishan Velupillay,Australia,A-League Men,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,550000,24,6,FWD,Melbourne Victory,1,transfermarkt_market_value,7.0836
+Awer Mabil,Australia,LaLiga2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,400000,30,37,FWD,CD Castellón,2,transfermarkt_market_value,6.7571
+Nestory Irankunda,Australia,Championship,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,6000000,20,13,FWD,Watford FC,2,transfermarkt_market_value,7.119
+Ante Suto,Australia,Scottish Premiership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,700000,25,0,FWD,Hibernian FC,1,transfermarkt_market_value,6.8069
+Deni Jurić,Australia,PKO BP Ekstraklasa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,500000,28,2,FWD,Wisla Plock,1,transfermarkt_market_value,6.895
+Martin Boyle,Australia,Scottish Premiership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,400000,33,41,FWD,Hibernian FC,1,transfermarkt_market_value,6.8056
+Uğurcan Çakır,Türkiye,Süper Lig,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,15000000,30,38,GK,Galatasaray,1,transfermarkt_market_value,8.5245
+Altay Bayındır,Türkiye,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,7000000,28,11,GK,Manchester United,1,transfermarkt_market_value,8.318
+Muhammed Şengezer,Türkiye,Süper Lig,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2500000,29,0,GK,Basaksehir FK,1,transfermarkt_market_value,7.2398
+Mert Günok,Türkiye,Süper Lig,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,500000,37,37,GK,Fenerbahce,1,transfermarkt_market_value,6.988
+Merih Demiral,Türkiye,Saudi Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,14000000,28,61,DEF,Al-Ahli SFC,1,transfermarkt_market_value,8.5864
+Ozan Kabak,Türkiye,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,10000000,26,28,DEF,TSG 1899 Hoffenheim,1,transfermarkt_market_value,8.602
+Abdülkerim Bardakcı,Türkiye,Süper Lig,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,6500000,31,26,DEF,Galatasaray,1,transfermarkt_market_value,7.9223
+Ahmetcan Kaplan,Türkiye,Eredivisie,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,5000000,23,0,DEF,NEC Nijmegen,1,transfermarkt_market_value,7.3505
+Samet Akaydin,Türkiye,Süper Lig,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1200000,32,18,DEF,Caykur Rizespor,1,transfermarkt_market_value,7.158
+Ferdi Kadıoğlu,Türkiye,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,30000000,26,30,DEF,Brighton & Hove Albion,1,transfermarkt_market_value,8.9878
+Eren Elmalı,Türkiye,Süper Lig,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,5000000,25,21,DEF,Galatasaray,1,transfermarkt_market_value,8.0453
+Mustafa Eskihellaç,Türkiye,Süper Lig,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3500000,28,3,DEF,Trabzonspor,1,transfermarkt_market_value,7.6098
+Zeki Çelik,Türkiye,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,12000000,29,59,DEF,AS Roma,1,transfermarkt_market_value,8.798
+Mert Müldür,Türkiye,Süper Lig,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,7000000,27,43,DEF,Fenerbahce,1,transfermarkt_market_value,8.2875
+Hakan Çalhanoğlu,Türkiye,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,18000000,32,104,MID,Inter Milan,1,transfermarkt_market_value,8.664
+İsmail Yüksek,Türkiye,Süper Lig,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,15000000,27,31,MID,Fenerbahce,1,transfermarkt_market_value,8.488
+Atakan Karazor,Türkiye,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,9000000,29,2,MID,VfB Stuttgart,1,transfermarkt_market_value,8.1479
+Salih Özcan,Türkiye,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3500000,28,28,MID,Borussia Dortmund,1,transfermarkt_market_value,8.2449
+Kaan Ayhan,Türkiye,Süper Lig,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2000000,31,72,MID,Galatasaray,1,transfermarkt_market_value,7.7048
+Orkun Kökçü,Türkiye,Süper Lig,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,25000000,25,48,MID,Besiktas JK,1,transfermarkt_market_value,8.7402
+Arda Güler,Türkiye,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,90000000,21,28,MID,Real Madrid,1,transfermarkt_market_value,8.9742
+Kenan Yıldız,Türkiye,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,75000000,20,28,FWD,Juventus FC,1,transfermarkt_market_value,8.7872
+Barış Alper Yılmaz,Türkiye,Süper Lig,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,26000000,25,33,FWD,Galatasaray,1,transfermarkt_market_value,8.6862
+Kerem Aktürkoğlu,Türkiye,Süper Lig,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,22000000,27,51,FWD,Fenerbahce,1,transfermarkt_market_value,8.7077
+Oğuz Aydın,Türkiye,Süper Lig,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,8000000,25,9,FWD,Fenerbahce,1,transfermarkt_market_value,8.0598
+Yunus Akgün,Türkiye,Süper Lig,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,18000000,25,17,FWD,Galatasaray,1,transfermarkt_market_value,8.4439
+İrfan Can Kahveci,Türkiye,Süper Lig,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3500000,30,45,FWD,Kasimpasa,1,transfermarkt_market_value,7.935
+Deniz Gül,Türkiye,Liga Portugal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,6000000,21,6,FWD,FC Porto,1,transfermarkt_market_value,7.5212
+Alexander Nübel,Germany,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,12000000,29,3,GK,VfB Stuttgart,1,transfermarkt_market_value,8.2988
+Finn Dahmen,Germany,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,12000000,28,0,GK,FC Augsburg,1,transfermarkt_market_value,8.0432
+Oliver Baumann,Germany,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3000000,35,11,GK,TSG 1899 Hoffenheim,1,transfermarkt_market_value,7.9049
+Nico Schlotterbeck,Germany,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,55000000,26,25,DEF,Borussia Dortmund,1,transfermarkt_market_value,9.1616
+Malick Thiaw,Germany,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,45000000,24,5,DEF,Newcastle United,1,transfermarkt_market_value,8.823
+Jonathan Tah,Germany,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,30000000,30,45,DEF,Bayern Munich,1,transfermarkt_market_value,8.9356
+Waldemar Anton,Germany,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,18000000,29,12,DEF,Borussia Dortmund,1,transfermarkt_market_value,8.6539
+Antonio Rüdiger,Germany,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,9000000,33,82,DEF,Real Madrid,1,transfermarkt_market_value,8.26
+Nathaniel Brown,Germany,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,35000000,22,3,DEF,Eintracht Frankfurt,1,transfermarkt_market_value,8.4128
+David Raum,Germany,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,22000000,28,36,DEF,RB Leipzig,1,transfermarkt_market_value,8.915
+Josha Vagnoman,Germany,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,10000000,25,2,DEF,VfB Stuttgart,1,transfermarkt_market_value,8.1838
+Angelo Stiller,Germany,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,45000000,25,7,MID,VfB Stuttgart,1,transfermarkt_market_value,8.876
+Joshua Kimmich,Germany,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,40000000,31,108,MID,Bayern Munich,1,transfermarkt_market_value,9.0675
+Anton Stach,Germany,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,25000000,27,3,MID,Leeds United,1,transfermarkt_market_value,8.5484
+Leon Goretzka,Germany,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,15000000,31,69,MID,Bayern Munich,1,transfermarkt_market_value,8.6523
+Pascal Groß,Germany,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3500000,34,18,MID,Brighton & Hove Albion,1,transfermarkt_market_value,7.542
+Florian Wirtz,Germany,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,110000000,22,39,MID,Liverpool FC,1,transfermarkt_market_value,9.2267
+Lennart Karl,Germany,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,60000000,18,2,MID,Bayern Munich,1,transfermarkt_market_value,8.1431
+Kevin Schade,Germany,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,35000000,24,5,FWD,Brentford FC,1,transfermarkt_market_value,8.7376
+Chris Führich,Germany,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,10000000,28,9,FWD,VfB Stuttgart,1,transfermarkt_market_value,8.4057
+Leroy Sané,Germany,Süper Lig,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,22000000,30,74,FWD,Galatasaray,1,transfermarkt_market_value,8.6502
+Serge Gnabry,Germany,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,20000000,30,59,FWD,Bayern Munich,1,transfermarkt_market_value,8.8467
+Nick Woltemade,Germany,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,65000000,24,10,FWD,Newcastle United,1,transfermarkt_market_value,9.0598
+Kai Havertz,Germany,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,50000000,26,57,FWD,Arsenal FC,1,transfermarkt_market_value,9.277
+Deniz Undav,Germany,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,22000000,29,7,FWD,VfB Stuttgart,1,transfermarkt_market_value,8.6327
+Eloy Room,Curaçao,USL Championship,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,200000,37,67,GK,Miami FC,2,transfermarkt_market_value,6.3787
+Trevor Doornbusch,Curaçao,Keuken Kampioen Divisie,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,50000,26,7,GK,VVV-Venlo,2,transfermarkt_market_value,5.8878
+Tyrick Bodak,Curaçao,Eredivisie,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,25000,23,4,GK,SC Telstar,1,transfermarkt_market_value,5.5954
+Armando Obispo,Curaçao,Eredivisie,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4000000,27,4,DEF,PSV Eindhoven,1,transfermarkt_market_value,7.6963
+Riechedly Bazoer,Curaçao,Süper Lig,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2200000,29,3,DEF,Konyaspor,1,transfermarkt_market_value,7.4519
+Deveron Fonville,Curaçao,Eredivisie,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1000000,22,0,DEF,NEC Nijmegen,1,transfermarkt_market_value,6.6782
+Juriën Gaari,Curaçao,Saudi First Division League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,400000,32,57,DEF,Abha Club,2,transfermarkt_market_value,6.5851
+Roshon van Eijma,Curaçao,Keuken Kampioen Divisie,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,375000,27,26,DEF,RKC Waalwijk,2,transfermarkt_market_value,6.7972
+Sherel Floranus,Curaçao,Eredivisie,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,800000,27,25,DEF,PEC Zwolle,1,transfermarkt_market_value,7.4529
+Shurandy Sambo,Curaçao,Eredivisie,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1500000,24,7,DEF,Sparta Rotterdam,1,transfermarkt_market_value,7.4494
+Joshua Brenet,Curaçao,Süper Lig,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1200000,32,16,DEF,Kayserispor,1,transfermarkt_market_value,7.1375
+Livano Comenencia,Curaçao,Super League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,700000,22,17,DEF,FC Zürich,1,transfermarkt_market_value,7.0897
+Godfried Roemeratoe,Curaçao,Keuken Kampioen Divisie,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,400000,26,26,MID,RKC Waalwijk,2,transfermarkt_market_value,6.8191
+Kevin Felida,Curaçao,Keuken Kampioen Divisie,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,350000,26,19,MID,FC Den Bosch,2,transfermarkt_market_value,6.7184
+Juninho Bacuna,Curaçao,Eredivisie,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2200000,28,47,MID,FC Volendam,1,transfermarkt_market_value,7.9099
+Leandro Bacuna,Curaçao,1.Lig,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,250000,34,68,MID,Igdir FK,2,transfermarkt_market_value,6.2073
+Tyrese Noslin,Curaçao,Eredivisie,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,750000,23,5,MID,SC Telstar,1,transfermarkt_market_value,7.0357
+Tahith Chong,Curaçao,Championship,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4500000,26,4,MID,Sheffield United,2,transfermarkt_market_value,7.3314
+Jeremy Antonisse,Curaçao,Super League 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,800000,24,24,FWD,AE Kifisia,1,transfermarkt_market_value,7.4457
+Kenji Gorré,Curaçao,Ligat ha'Al,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,650000,31,36,FWD,Maccabi Haifa,1,transfermarkt_market_value,7.1973
+Jearl Margaritha,Curaçao,Challenger Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,600000,26,21,FWD,SK Beveren,2,transfermarkt_market_value,6.9193
+Sontje Hansen,Curaçao,Championship,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4000000,23,5,FWD,Middlesbrough FC,2,transfermarkt_market_value,7.1999
+Ar'jany Martha,Curaçao,League One,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,750000,22,7,FWD,Rotherham United,3,transfermarkt_market_value,6.2587
+Brandley Kuwas,Curaçao,Eredivisie,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,300000,33,33,FWD,FC Volendam,1,transfermarkt_market_value,6.6688
+Jürgen Locadia,Curaçao,USL Championship,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,200000,32,12,FWD,Miami FC,2,transfermarkt_market_value,6.0737
+Gervane Kastaneer,Curaçao,Malaysia Super League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,175000,29,27,FWD,Terengganu FC,1,transfermarkt_market_value,6.9497
+Yahia Fofana,Ivory Coast,Süper Lig,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,5000000,25,33,GK,Caykur Rizespor,1,transfermarkt_market_value,8.0006
+Alban Lafont,Ivory Coast,Super League 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3000000,27,4,GK,Panathinaikos,1,transfermarkt_market_value,7.5985
+Mohamed Koné,Ivory Coast,Jupiler Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,800000,24,0,GK,Royal Charleroi SC,1,transfermarkt_market_value,6.6023
+Ousmane Diomande,Ivory Coast,Liga Portugal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,45000000,22,13,DEF,Sporting CP,1,transfermarkt_market_value,8.4592
+Evan Ndicka,Ivory Coast,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,35000000,26,27,DEF,AS Roma,1,transfermarkt_market_value,9.0215
+Wilfried Singo,Ivory Coast,Süper Lig,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,25000000,25,32,DEF,Galatasaray,1,transfermarkt_market_value,8.6674
+Odilon Kossounou,Ivory Coast,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,18000000,25,35,DEF,Atalanta BC,1,transfermarkt_market_value,8.8417
+Emmanuel Agbadou,Ivory Coast,Süper Lig,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,18000000,28,20,DEF,Besiktas JK,1,transfermarkt_market_value,8.4723
+Clément Akpa,Ivory Coast,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,9000000,24,5,DEF,AJ Auxerre,1,transfermarkt_market_value,8.2757
+Ghislain Konan,Ivory Coast,Liga Portugal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3000000,30,52,DEF,Gil Vicente FC,1,transfermarkt_market_value,7.9087
+Guéla Doué,Ivory Coast,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,18000000,23,19,DEF,RC Strasbourg Alsace,1,transfermarkt_market_value,8.6083
+Ibrahim Sangaré,Ivory Coast,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,22000000,28,53,MID,Nottingham Forest,1,transfermarkt_market_value,8.9847
+Jean Michaël Seri,Ivory Coast,Prva Liga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,100000,34,63,MID,NK Maribor,1,transfermarkt_market_value,6.2868
+Christ Inao Oulaï,Ivory Coast,Süper Lig,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,17000000,20,8,MID,Trabzonspor,1,transfermarkt_market_value,7.7967
+Franck Kessié,Ivory Coast,Saudi Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,12000000,29,99,MID,Al-Ahli SFC,1,transfermarkt_market_value,8.6221
+Seko Fofana,Ivory Coast,Liga Portugal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,8000000,30,31,MID,FC Porto,1,transfermarkt_market_value,8.1492
+Bazoumana Touré,Ivory Coast,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,35000000,20,5,FWD,TSG 1899 Hoffenheim,1,transfermarkt_market_value,8.2376
+Simon Adingra,Ivory Coast,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,25000000,24,28,FWD,AS Monaco,1,transfermarkt_market_value,8.9136
+Martial Godo,Ivory Coast,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,18000000,23,1,FWD,RC Strasbourg Alsace,1,transfermarkt_market_value,8.1839
+Bénie Traoré,Ivory Coast,Super League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,8000000,23,7,FWD,FC Basel 1893,1,transfermarkt_market_value,7.8937
+Parfait Guiagon,Ivory Coast,Jupiler Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,5000000,25,5,FWD,Royal Charleroi SC,1,transfermarkt_market_value,7.8058
+Amad Diallo,Ivory Coast,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,50000000,23,18,FWD,Manchester United,1,transfermarkt_market_value,8.9463
+Evann Guessand,Ivory Coast,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,28000000,24,21,FWD,Crystal Palace,1,transfermarkt_market_value,8.9012
+Nicolas Pépé,Ivory Coast,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,6000000,30,52,FWD,Villarreal CF,1,transfermarkt_market_value,8.4144
+Elye Wahi,Ivory Coast,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,12000000,23,1,FWD,OGC Nice,1,transfermarkt_market_value,8.046
+Gonzalo Valle,Ecuador,LigaPro Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1800000,30,3,GK,LDU Quito,1,transfermarkt_market_value,7.3836
+Moisés Ramírez,Ecuador,Super League 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,800000,25,6,GK,AE Kifisia,1,transfermarkt_market_value,7.086
+David Cabezas,Ecuador,LigaPro Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,500000,30,1,GK,Libertad FC,1,transfermarkt_market_value,6.8203
+Hernán Galíndez,Ecuador,Torneo Apertura ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,325000,39,34,GK,CA Huracán,1,transfermarkt_market_value,6.5764
+Willian Pacho,Ecuador,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,70000000,24,34,DEF,Paris Saint-Germain,1,transfermarkt_market_value,9.2984
+Piero Hincapié,Ecuador,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,50000000,24,51,DEF,Arsenal FC,1,transfermarkt_market_value,9.2569
+Joel Ordóñez,Ecuador,Jupiler Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,33000000,22,16,DEF,Club Brugge KV,1,transfermarkt_market_value,8.3895
+Léo Realpe,Ecuador,Liga Portugal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4000000,25,3,DEF,FC Famalicão,1,transfermarkt_market_value,7.6552
+Jackson Porozo,Ecuador,Liga MX Apertura,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2500000,25,8,DEF,Club Tijuana,1,transfermarkt_market_value,7.6448
+Félix Torres,Ecuador,Campeonato Brasileiro Série A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1000000,29,47,DEF,Sport Club Internacional,1,transfermarkt_market_value,7.6418
+Pervis Estupiñán,Ecuador,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,14000000,28,52,DEF,AC Milan,1,transfermarkt_market_value,8.8275
+Yaimar Medina,Ecuador,Jupiler Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4000000,21,4,DEF,KRC Genk,1,transfermarkt_market_value,7.3213
+Angelo Preciado,Ecuador,Campeonato Brasileiro Série A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3800000,28,54,DEF,Clube Atlético Mineiro,1,transfermarkt_market_value,8.1209
+José Andrés Hurtado,Ecuador,Campeonato Brasileiro Série A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3000000,24,9,DEF,Red Bull Bragantino,1,transfermarkt_market_value,7.7263
+Moisés Caicedo,Ecuador,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,110000000,24,60,MID,Chelsea FC,1,transfermarkt_market_value,9.5545
+Jordy Alcívar,Ecuador,LigaPro Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1800000,26,9,MID,Independiente del Valle,1,transfermarkt_market_value,7.5525
+Denil Castillo,Ecuador,Superliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,5500000,22,4,MID,FC Midtjylland,1,transfermarkt_market_value,7.5546
+Alan Franco,Ecuador,Campeonato Brasileiro Série A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4500000,27,57,MID,Clube Atlético Mineiro,1,transfermarkt_market_value,8.1882
+Kendry Páez,Ecuador,Torneo Apertura ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,9000000,18,24,MID,CA River Plate,1,transfermarkt_market_value,7.6188
+Pedro Vite,Ecuador,Liga MX Apertura,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,5500000,24,16,MID,UNAM Pumas,1,transfermarkt_market_value,8.0302
+John Mercado,Ecuador,Chance Liga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4000000,23,6,FWD,AC Sparta Prague,1,transfermarkt_market_value,7.6333
+Gonzalo Plata,Ecuador,Campeonato Brasileiro Série A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,8000000,25,49,FWD,CR Flamengo,1,transfermarkt_market_value,8.3565
+Alan Minda,Ecuador,Campeonato Brasileiro Série A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3000000,22,19,FWD,Clube Atlético Mineiro,1,transfermarkt_market_value,7.604
+Bryan Ramírez,Ecuador,Major League Soccer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3000000,25,0,FWD,FC Cincinnati,1,transfermarkt_market_value,7.3018
+Elías Legendre Quiñónez,Ecuador,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1500000,18,0,FWD,Stade Rennais FC,1,transfermarkt_market_value,6.6861
+Janner Corozo,Ecuador,LigaPro Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1200000,30,7,FWD,LDU Quito,1,transfermarkt_market_value,7.2485
+Anthony Valencia,Ecuador,Jupiler Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1000000,22,1,FWD,Royal Antwerp FC,1,transfermarkt_market_value,6.806
+John Yeboah,Ecuador,Serie B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,5000000,25,21,FWD,Venezia FC,2,transfermarkt_market_value,7.6403
+Jeremy Arévalo,Ecuador,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,7000000,21,3,FWD,VfB Stuttgart,1,transfermarkt_market_value,7.7405
+Kevin Rodríguez,Ecuador,Jupiler Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,5000000,26,30,FWD,Union Saint-Gilloise,1,transfermarkt_market_value,8.1085
+Enner Valencia,Ecuador,Liga MX Apertura,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1500000,36,105,FWD,CF Pachuca,1,transfermarkt_market_value,7.2257
+Jordy Caicedo,Ecuador,Torneo Apertura ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1500000,28,18,FWD,CA Huracán,1,transfermarkt_market_value,7.6089
+Bart Verbruggen,Netherlands,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,40000000,23,27,GK,Brighton & Hove Albion,1,transfermarkt_market_value,8.6919
+Mark Flekken,Netherlands,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,8000000,32,11,GK,Bayer 04 Leverkusen,1,transfermarkt_market_value,8.3634
+Justin Bijlow,Netherlands,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4000000,28,8,GK,Genoa CFC,1,transfermarkt_market_value,8.0747
+Micky van de Ven,Netherlands,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,65000000,25,19,DEF,Tottenham Hotspur,1,transfermarkt_market_value,9.17
+Jan Paul van Hecke,Netherlands,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,35000000,25,10,DEF,Brighton & Hove Albion,1,transfermarkt_market_value,8.8493
+Virgil van Dijk,Netherlands,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,18000000,34,90,DEF,Liverpool FC,1,transfermarkt_market_value,8.3876
+Nathan Aké,Netherlands,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,15000000,31,58,DEF,Manchester City,1,transfermarkt_market_value,8.6208
+Stefan de Vrij,Netherlands,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3500000,34,79,DEF,Inter Milan,1,transfermarkt_market_value,7.807
+Jorrel Hato,Netherlands,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,35000000,20,7,DEF,Chelsea FC,1,transfermarkt_market_value,8.2906
+Jeremie Frimpong,Netherlands,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,35000000,25,15,DEF,Liverpool FC,1,transfermarkt_market_value,8.9184
+Denzel Dumfries,Netherlands,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,25000000,30,71,DEF,Inter Milan,1,transfermarkt_market_value,8.9562
+Lutsharel Geertruida,Netherlands,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,20000000,25,20,DEF,Sunderland AFC,1,transfermarkt_market_value,8.7782
+Ryan Gravenberch,Netherlands,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,90000000,23,25,MID,Liverpool FC,1,transfermarkt_market_value,9.204
+Jerdy Schouten,Netherlands,Eredivisie,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,22000000,29,17,MID,PSV Eindhoven,1,transfermarkt_market_value,8.5122
+Teun Koopmeiners,Netherlands,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,20000000,28,27,MID,Juventus FC,1,transfermarkt_market_value,8.8312
+Tijjani Reijnders,Netherlands,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,60000000,27,30,MID,Manchester City,1,transfermarkt_market_value,9.2236
+Kees Smit,Netherlands,Eredivisie,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,25000000,20,1,MID,AZ Alkmaar,1,transfermarkt_market_value,7.6506
+Quinten Timber,Netherlands,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,25000000,24,10,MID,Olympique Marseille,1,transfermarkt_market_value,8.7349
+Luciano Valente,Netherlands,Eredivisie,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,18000000,22,2,MID,Feyenoord Rotterdam,1,transfermarkt_market_value,7.8636
+Xavi Simons,Netherlands,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,50000000,23,34,MID,Tottenham Hotspur,1,transfermarkt_market_value,9.0589
+Cody Gakpo,Netherlands,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,65000000,26,48,FWD,Liverpool FC,1,transfermarkt_market_value,9.3352
+Noa Lang,Netherlands,Süper Lig,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,25000000,26,15,FWD,Galatasaray,1,transfermarkt_market_value,8.5339
+Donyell Malen,Netherlands,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,35000000,27,51,FWD,AS Roma,1,transfermarkt_market_value,9.1356
+Brian Brobbey,Netherlands,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,25000000,24,10,FWD,Sunderland AFC,1,transfermarkt_market_value,8.7349
+Wout Weghorst,Netherlands,Eredivisie,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2500000,33,51,FWD,Ajax Amsterdam,1,transfermarkt_market_value,7.4682
+Zion Suzuki,Japan,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,20000000,23,23,GK,Parma Calcio 1913,1,transfermarkt_market_value,8.4278
+Keisuke Osako,Japan,J1 100 Year Vision League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2000000,26,11,GK,Sanfrecce Hiroshima,1,transfermarkt_market_value,7.622
+Tomoki Hayakawa,Japan,J1 100 Year Vision League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1500000,27,3,GK,Kashima Antlers,1,transfermarkt_market_value,7.3216
+Hiroki Ito,Japan,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,18000000,26,23,DEF,Bayern Munich,1,transfermarkt_market_value,8.767
+Tsuyoshi Watanabe,Japan,Eredivisie,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,10000000,29,10,DEF,Feyenoord Rotterdam,1,transfermarkt_market_value,8.1533
+Junnosuke Suzuki,Japan,Superliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2000000,22,6,DEF,FC Copenhagen,1,transfermarkt_market_value,7.2726
+Shogo Taniguchi,Japan,Jupiler Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,800000,34,37,DEF,Sint-Truidense VV,1,transfermarkt_market_value,6.8979
+Yukinari Sugawara,Japan,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,7500000,25,20,DEF,SV Werder Bremen,1,transfermarkt_market_value,8.4446
+Daiki Hashioka,Japan,Jupiler Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1200000,26,12,DEF,KAA Gent,1,transfermarkt_market_value,7.463
+Kaishu Sano,Japan,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,25000000,25,12,MID,1.FSV Mainz 05,1,transfermarkt_market_value,8.7657
+Ayumu Seko,Japan,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,5000000,25,13,MID,Le Havre AC,1,transfermarkt_market_value,8.232
+Kodai Sano,Japan,Eredivisie,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,12000000,22,2,MID,NEC Nijmegen,1,transfermarkt_market_value,7.7258
+Joel Chima Fujita,Japan,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,10000000,24,8,MID,FC St. Pauli,1,transfermarkt_market_value,8.3863
+Ao Tanaka,Japan,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,10000000,27,37,MID,Leeds United,1,transfermarkt_market_value,8.6518
+Ryunosuke Sato,Japan,J1 100 Year Vision League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1200000,19,7,MID,FC Tokyo,1,transfermarkt_market_value,6.7485
+Daichi Kamada,Japan,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,12000000,29,49,MID,Crystal Palace,1,transfermarkt_market_value,8.7644
+Kaoru Mitoma,Japan,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,25000000,28,31,FWD,Brighton & Hove Albion,1,transfermarkt_market_value,8.9317
+Daizen Maeda,Japan,Scottish Premiership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,12000000,28,27,FWD,Celtic FC,1,transfermarkt_market_value,8.3875
+Keito Nakamura,Japan,Ligue 2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,9000000,25,24,FWD,Stade Reims,2,transfermarkt_market_value,7.8638
+Ritsu Doan,Japan,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,20000000,27,64,FWD,Eintracht Frankfurt,1,transfermarkt_market_value,8.9864
+Junya Ito,Japan,Jupiler Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3500000,33,68,FWD,KRC Genk,1,transfermarkt_market_value,7.6347
+Yuito Suzuki,Japan,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,18000000,24,6,FWD,SC Freiburg,1,transfermarkt_market_value,8.5398
+Ayase Ueda,Japan,Eredivisie,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,15000000,27,38,FWD,Feyenoord Rotterdam,1,transfermarkt_market_value,8.5245
+Kento Shiogai,Japan,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,8000000,21,1,FWD,VfL Wolfsburg,1,transfermarkt_market_value,7.6581
+Keisuke Goto,Japan,Jupiler Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,8000000,20,3,FWD,Sint-Truidense VV,1,transfermarkt_market_value,7.3909
+Shuto Machino,Japan,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,5000000,26,14,FWD,Borussia Mönchengladbach,1,transfermarkt_market_value,8.2447
+Koki Ogawa,Japan,Eredivisie,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2500000,28,14,FWD,NEC Nijmegen,1,transfermarkt_market_value,7.739
+Aymen Dahmen,Tunisia,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,800000,29,37,GK,CS Sfaxien,1,transfermarkt_market_value,7.7929
+Noureddine Farhati,Tunisia,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,650000,25,1,GK,Stade Tunisien,1,transfermarkt_market_value,7.0545
+Abdelmouhib Chamakh,Tunisia,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,450000,24,1,GK,Club Africain,1,transfermarkt_market_value,6.8044
+Sabri Ben Hessen,Tunisia,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,400000,29,1,GK,Etoile Sportive du Sahel,1,transfermarkt_market_value,7.0144
+Alaa Ghram,Tunisia,Premier Liga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1200000,24,7,DEF,Shakhtar Donetsk,1,transfermarkt_market_value,7.3735
+Adem Arous,Tunisia,Süper Lig,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1000000,21,1,DEF,Kasimpasa,1,transfermarkt_market_value,6.681
+Omar Rekik,Tunisia,Prva Liga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,500000,24,4,DEF,NK Maribor,1,transfermarkt_market_value,6.9892
+Raed Chikhaoui,Tunisia,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,250000,21,0,DEF,US Monastir,1,transfermarkt_market_value,6.3518
+Ali Abdi,Tunisia,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2500000,32,45,DEF,OGC Nice,1,transfermarkt_market_value,7.8406
+Mohamed Amine Ben Hamida,Tunisia,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,700000,30,12,DEF,Esperance Tunis,1,transfermarkt_market_value,7.4247
+Yan Valery,Tunisia,Super League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1300000,27,21,DEF,BSC Young Boys,1,transfermarkt_market_value,7.5872
+Moutaz Neffati,Tunisia,Superettan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,900000,21,5,DEF,IFK Norrköping,2,transfermarkt_market_value,6.4427
+Ghaith Zaalouni,Tunisia,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,650000,23,1,DEF,Club Africain,1,transfermarkt_market_value,7.0545
+Ellyes Skhiri,Tunisia,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,6000000,30,81,MID,Eintracht Frankfurt,1,transfermarkt_market_value,8.4948
+Mohamed Belhadj Mahmoud,Tunisia,Super League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2500000,26,7,MID,FC Lugano,1,transfermarkt_market_value,7.6231
+Rani Khedira,Tunisia,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2000000,32,2,MID,1.FC Union Berlin,1,transfermarkt_market_value,7.2614
+Anis Ben Slimane,Tunisia,Championship,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3000000,25,39,MID,Norwich City,2,transfermarkt_market_value,7.5768
+Sayfallah Ltaief,Tunisia,2. Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1300000,26,23,MID,SpVgg Greuther Fürth,2,transfermarkt_market_value,7.1983
+Sebastian Tounekti,Tunisia,Scottish Premiership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,6000000,23,10,FWD,Celtic FC,1,transfermarkt_market_value,7.8545
+Ismaël Gharbi,Tunisia,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,5000000,22,15,FWD,FC Augsburg,1,transfermarkt_market_value,8.0066
+Elias Saad,Tunisia,2. Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2500000,26,14,FWD,Hannover 96,2,transfermarkt_market_value,7.334
+Mortadha Ben Ouanes,Tunisia,Süper Lig,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1500000,31,17,FWD,Kasimpasa,1,transfermarkt_market_value,7.3489
+Khalil Ayari,Tunisia,Challenge Espoirs,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,800000,21,2,FWD,Paris Saint-Germain Espoirs,4,transfermarkt_market_value,5.7498
+Louey Ben Farhat,Tunisia,2. Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,7500000,19,2,FWD,Karlsruher SC,2,transfermarkt_market_value,6.7859
+Firas Chaouat,Tunisia,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,850000,29,28,FWD,Club Africain,1,transfermarkt_market_value,7.7637
+Hazem Mastouri,Tunisia,Premier Liga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,700000,28,18,FWD,Dinamo Makhachkala,1,transfermarkt_market_value,7.3497
+Rayan Elloumi,Tunisia,Major League Soccer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,600000,18,2,FWD,Vancouver Whitecaps FC,1,transfermarkt_market_value,6.307
+Omar Ben Ali,Tunisia,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,450000,21,0,FWD,CS Sfaxien,1,transfermarkt_market_value,6.5517
+Anisse Saidi,Tunisia,Major League Soccer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,300000,17,0,FWD,San Diego FC,1,transfermarkt_market_value,5.8688
+Melker Ellborg,Sweden,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3000000,22,0,GK,Sunderland AFC,1,transfermarkt_market_value,7.0718
+Noel Törnqvist,Sweden,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2000000,24,0,GK,Como 1907,1,transfermarkt_market_value,7.1839
+Kristoffer Nordfeldt,Sweden,Allsvenskan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,175000,36,20,GK,AIK,1,transfermarkt_market_value,6.6467
+Isak Hien,Sweden,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,22000000,27,27,DEF,Atalanta BC,1,transfermarkt_market_value,8.8636
+Victor Lindelöf,Sweden,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,6000000,31,75,DEF,Aston Villa,1,transfermarkt_market_value,8.3558
+Gustaf Lagerbielke,Sweden,Liga Portugal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,5000000,26,9,DEF,SC Braga,1,transfermarkt_market_value,7.9
+Carl Starfelt,Sweden,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,5000000,30,17,DEF,Celta de Vigo,1,transfermarkt_market_value,8.1533
+Eric Smith,Sweden,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,5000000,29,0,DEF,FC St. Pauli,1,transfermarkt_market_value,7.7455
+Daniel Svensson,Sweden,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,22000000,24,11,DEF,Borussia Dortmund,1,transfermarkt_market_value,8.7074
+Gabriel Gudmundsson,Sweden,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,20000000,26,23,DEF,Leeds United,1,transfermarkt_market_value,8.8028
+Jesper Karlström,Sweden,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4000000,30,23,MID,Udinese Calcio,1,transfermarkt_market_value,8.1305
+Lucas Bergvall,Sweden,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,40000000,20,8,MID,Tottenham Hotspur,1,transfermarkt_market_value,8.3577
+Hugo Larsson,Sweden,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,32000000,21,12,MID,Eintracht Frankfurt,1,transfermarkt_market_value,8.4746
+Yasin Ayari,Sweden,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,30000000,22,19,MID,Brighton & Hove Albion,1,transfermarkt_market_value,8.6571
+Mattias Svanberg,Sweden,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,9000000,27,38,MID,VfL Wolfsburg,1,transfermarkt_market_value,8.6207
+Besfort Zeneli,Sweden,Jupiler Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4500000,23,6,MID,Union Saint-Gilloise,1,transfermarkt_market_value,7.6734
+Herman Johansson,Sweden,Major League Soccer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1800000,28,2,MID,FC Dallas,1,transfermarkt_market_value,7.3306
+Elliot Stroud,Sweden,Allsvenskan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3000000,23,0,MID,Mjällby AIF,1,transfermarkt_market_value,7.1768
+Williot Swedberg,Sweden,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,15000000,22,11,FWD,Celta de Vigo,1,transfermarkt_market_value,8.3272
+Taha Ali,Sweden,Allsvenskan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1200000,27,1,FWD,Malmö FF,1,transfermarkt_market_value,7.118
+Anthony Elanga,Sweden,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,40000000,24,28,FWD,Newcastle United,1,transfermarkt_market_value,9.0734
+Roony Bardghji,Sweden,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,15000000,20,3,FWD,FC Barcelona,1,transfermarkt_market_value,7.8747
+Benjamin Nygren,Sweden,Scottish Premiership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,10000000,24,9,FWD,Celtic FC,1,transfermarkt_market_value,8.1357
+Gustav Lundgren,Sweden,Allsvenskan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1300000,31,2,FWD,GAIS,1,transfermarkt_market_value,6.9699
+Viktor Gyökeres,Sweden,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,65000000,27,32,FWD,Arsenal FC,1,transfermarkt_market_value,9.2623
+Gustaf Nilsson,Sweden,Jupiler Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2000000,28,8,FWD,Club Brugge KV,1,transfermarkt_market_value,7.569
+Senne Lammens,Belgium,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,30000000,23,2,GK,Manchester United,1,transfermarkt_market_value,8.1824
+Maarten Vandevoordt,Belgium,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,8000000,24,0,GK,RB Leipzig,1,transfermarkt_market_value,7.6554
+Matz Sels,Belgium,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4000000,34,13,GK,Nottingham Forest,1,transfermarkt_market_value,8.1561
+Zeno Debast,Belgium,Liga Portugal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,30000000,22,26,DEF,Sporting CP,1,transfermarkt_market_value,8.4424
+Koni De Winter,Belgium,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,23000000,23,7,DEF,AC Milan,1,transfermarkt_market_value,8.5228
+Arthur Theate,Belgium,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,20000000,25,32,DEF,Eintracht Frankfurt,1,transfermarkt_market_value,8.8615
+Nathan Ngoy,Belgium,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,20000000,22,2,DEF,LOSC Lille,1,transfermarkt_market_value,8.1695
+Brandon Mechele,Belgium,Jupiler Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3000000,33,7,DEF,Club Brugge KV,1,transfermarkt_market_value,7.1851
+Maxim De Cuyper,Belgium,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,22000000,25,17,DEF,Brighton & Hove Albion,1,transfermarkt_market_value,8.7822
+Joaquin Seys,Belgium,Jupiler Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,17000000,21,4,DEF,Club Brugge KV,1,transfermarkt_market_value,7.8134
+Timothy Castagne,Belgium,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,10000000,30,62,DEF,Fulham FC,1,transfermarkt_market_value,8.62
+Thomas Meunier,Belgium,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1800000,34,78,DEF,LOSC Lille,1,transfermarkt_market_value,7.5785
+Amadou Onana,Belgium,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,45000000,24,27,MID,Aston Villa,1,transfermarkt_market_value,9.107
+Nicolas Raskin,Belgium,Scottish Premiership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,12000000,25,11,MID,Rangers FC,1,transfermarkt_market_value,8.2313
+Axel Witsel,Belgium,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1400000,37,136,MID,Girona FC,1,transfermarkt_market_value,7.5196
+Youri Tielemans,Belgium,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,35000000,28,83,MID,Aston Villa,1,transfermarkt_market_value,9.224
+Nathan De Cat,Belgium,Jupiler Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,25000000,17,1,MID,RSC Anderlecht,1,transfermarkt_market_value,7.5006
+Alexis Saelemaekers,Belgium,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,25000000,26,23,MID,AC Milan,1,transfermarkt_market_value,8.8787
+Charles De Ketelaere,Belgium,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,35000000,25,28,MID,Atalanta BC,1,transfermarkt_market_value,9.028
+Kevin De Bruyne,Belgium,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,10000000,34,117,MID,SSC Napoli,1,transfermarkt_market_value,8.2356
+Jérémy Doku,Belgium,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,65000000,23,41,FWD,Manchester City,1,transfermarkt_market_value,9.1818
+Mika Godts,Belgium,Eredivisie,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,25000000,20,2,FWD,Ajax Amsterdam,1,transfermarkt_market_value,7.7254
+Dodi Lukébakio,Belgium,Liga Portugal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,20000000,28,29,FWD,SL Benfica,1,transfermarkt_market_value,8.5739
+Loïs Openda,Belgium,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,32000000,26,33,FWD,Juventus FC,1,transfermarkt_market_value,9.0268
+Lucas Stassin,Belgium,Ligue 2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,15000000,21,1,FWD,AS Saint-Étienne,2,transfermarkt_market_value,7.1969
+Oufa Shobeir,Egypt,Egyptian Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1200000,26,8,GK,Al Ahly FC,1,transfermarkt_market_value,7.3952
+Mohamed Alaa,Egypt,Egyptian Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,800000,26,0,GK,El Gouna FC,1,transfermarkt_market_value,6.8523
+Mohamed El Shenawy,Egypt,Egyptian Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,600000,37,75,GK,Al Ahly FC,1,transfermarkt_market_value,7.1778
+El Mahdi Soliman,Egypt,Egyptian Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,150000,38,0,GK,Zamalek SC,1,transfermarkt_market_value,5.7831
+Mohamed Abdelmonem,Egypt,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3000000,27,34,DEF,OGC Nice,1,transfermarkt_market_value,8.2272
+Hossam Abdelmaguid,Egypt,Egyptian Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1800000,24,15,DEF,Zamalek SC,1,transfermarkt_market_value,7.6392
+Ramy Rabia,Egypt,UAE Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,700000,32,43,DEF,Al-Ain FC,1,transfermarkt_market_value,7.1295
+Khaled Sobhi,Egypt,Egyptian Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,450000,30,7,DEF,El Masry SC,1,transfermarkt_market_value,6.915
+Yasser Ibrahim,Egypt,Egyptian Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,350000,33,16,DEF,Al Ahly FC,1,transfermarkt_market_value,6.5935
+Ahmed Fatouh,Egypt,Egyptian Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,800000,28,38,DEF,Zamalek SC,1,transfermarkt_market_value,7.5276
+Mohamed Hany,Egypt,Egyptian Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1500000,30,40,DEF,Al Ahly FC,1,transfermarkt_market_value,7.6256
+Tarek Alaa,Egypt,Egyptian Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,150000,24,1,DEF,Zed FC,1,transfermarkt_market_value,6.4108
+Marwan Ateya,Egypt,Egyptian Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4000000,27,33,MID,Al Ahly FC,1,transfermarkt_market_value,8.0497
+Mohanad Lasheen,Egypt,Egyptian Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2500000,29,21,MID,Pyramids FC,1,transfermarkt_market_value,7.8096
+Hamdy Fathy,Egypt,Qatar Stars League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2000000,31,62,MID,Al-Wakrah SC,1,transfermarkt_market_value,7.6776
+Ahmed Kouka,Egypt,Egyptian Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1200000,24,11,MID,Al Ahly FC,1,transfermarkt_market_value,7.4483
+Emam Ashour,Egypt,Egyptian Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4500000,28,27,MID,Al Ahly FC,1,transfermarkt_market_value,8.0539
+Mahmoud Saber,Egypt,Egyptian Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1200000,24,14,MID,Zed FC,1,transfermarkt_market_value,7.4894
+Trezeguet,Egypt,Egyptian Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4500000,31,94,FWD,Al Ahly FC,1,transfermarkt_market_value,8.0291
+Ibrahim Adel,Egypt,Superliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3200000,25,22,FWD,FC Nordsjaelland,1,transfermarkt_market_value,7.9017
+Islam Issa,Egypt,Egyptian Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,600000,30,6,FWD,Cleopatra FC,1,transfermarkt_market_value,6.9882
+Haissem Hassan,Egypt,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4000000,24,2,FWD,Real Oviedo,1,transfermarkt_market_value,7.8722
+Zizo,Egypt,Egyptian Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4000000,30,61,FWD,Al Ahly FC,1,transfermarkt_market_value,8.0354
+Omar Marmoush,Egypt,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,60000000,27,48,FWD,Manchester City,1,transfermarkt_market_value,9.308
+Mostafa Mohamed,Egypt,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4000000,28,61,FWD,FC Nantes,1,transfermarkt_market_value,8.4304
+Nasser Mansy,Egypt,Egyptian Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,800000,28,0,FWD,Zamalek SC,1,transfermarkt_market_value,6.8523
+Payam Niazmand,Iran,Persian Gulf Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,750000,31,13,GK,Persepolis FC,1,transfermarkt_market_value,7.3168
+Alireza Beiranvand,Iran,Persian Gulf Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,700000,33,84,GK,Tractor FC,1,transfermarkt_market_value,7.6258
+Mohammad Khalifeh,Iran,Persian Gulf Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,700000,21,10,GK,Aluminium Arak FC,1,transfermarkt_market_value,6.6239
+Seyed Hossein Hosseini,Iran,Persian Gulf Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,550000,33,13,GK,Sepahan FC,1,transfermarkt_market_value,7.2114
+Hossein Kanaani,Iran,Persian Gulf Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1800000,32,61,DEF,Persepolis FC,1,transfermarkt_market_value,7.5139
+Danial Eiri,Iran,Persian Gulf Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,800000,22,9,DEF,Malavan Bandar Anzali,1,transfermarkt_market_value,7.0268
+Aref Aghasi,Iran,Persian Gulf Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,750000,29,0,DEF,Esteghlal FC,1,transfermarkt_market_value,6.8304
+Ali Nemati,Iran,Persian Gulf Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,600000,30,16,DEF,Foolad FC,1,transfermarkt_market_value,7.1518
+Hossein Abarghouei,Iran,Persian Gulf Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,600000,29,1,DEF,Persepolis FC,1,transfermarkt_market_value,6.8823
+Masoud Mohebi,Iran,Persian Gulf Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,300000,21,6,DEF,Kheybar Khorramabad FC,1,transfermarkt_market_value,6.5025
+Shoja Khalilzadeh,Iran,Persian Gulf Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,100000,36,54,DEF,Tractor FC,1,transfermarkt_market_value,6.1839
+Milad Mohammadi,Iran,Persian Gulf Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1000000,32,74,DEF,Persepolis FC,1,transfermarkt_market_value,7.3491
+Ehsan Hajsafi,Iran,Persian Gulf Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,275000,36,141,DEF,Sepahan FC,1,transfermarkt_market_value,6.7027
+Arya Yousefi,Iran,Persian Gulf Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1400000,24,10,DEF,Sepahan FC,1,transfermarkt_market_value,7.4846
+Saleh Hardani,Iran,Persian Gulf Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,700000,27,17,DEF,Esteghlal FC,1,transfermarkt_market_value,7.3397
+Danial Esmaeilifar,Iran,Persian Gulf Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,700000,33,6,DEF,Tractor FC,1,transfermarkt_market_value,6.6656
+Ramin Rezaeian,Iran,Persian Gulf Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,300000,36,72,DEF,Foolad FC,1,transfermarkt_market_value,6.6097
+Aref Hajieydi,Iran,Persian Gulf Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,750000,27,0,MID,Sepahan FC,1,transfermarkt_market_value,6.8304
+Roozbeh Cheshmi,Iran,Persian Gulf Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,500000,32,0,MID,Esteghlal FC,1,transfermarkt_market_value,6.3175
+Omid Noorafkan,Iran,Persian Gulf Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,900000,29,40,MID,Sepahan FC,1,transfermarkt_market_value,7.5769
+Amirmohammad Razzaghinia,Iran,Persian Gulf Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,800000,20,9,MID,Esteghlal FC,1,transfermarkt_market_value,6.7768
+Hadi Habibinejad,Iran,Persian Gulf Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,750000,30,0,MID,Chadormalu SC,1,transfermarkt_market_value,6.7054
+Mehdi Torabi,Iran,Persian Gulf Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1300000,31,49,FWD,Tractor FC,1,transfermarkt_market_value,7.4886
+Amirhossein Mahmoudi,Iran,Persian Gulf Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,150000,19,1,FWD,Persepolis FC,1,transfermarkt_market_value,5.7858
+Mehdi Hashemnejad,Iran,Persian Gulf Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1000000,24,7,FWD,Tractor FC,1,transfermarkt_market_value,7.3115
+Mohammadmehdi Mohebi,Iran,Persian Gulf Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,700000,26,4,FWD,Sepahan FC,1,transfermarkt_market_value,7.1036
+Amirhossein Hosseinzadeh,Iran,Persian Gulf Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1800000,25,16,FWD,Tractor FC,1,transfermarkt_market_value,7.6504
+Ali Alipour,Iran,Persian Gulf Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1500000,30,12,FWD,Persepolis FC,1,transfermarkt_market_value,7.4139
+Kasra Taheri,Iran,Persian Gulf Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,500000,19,2,FWD,Paykan FC,1,transfermarkt_market_value,6.27
+Ehsan Mahroughi,Iran,Persian Gulf Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,300000,27,0,FWD,Foolad FC,1,transfermarkt_market_value,6.5188
+Pouria Shahrabadi,Iran,Persian Gulf Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,100000,19,0,FWD,Gol Gohar Sirjan FC,1,transfermarkt_market_value,5.5202
+Max Crocombe,New Zealand,Championship,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1000000,32,22,GK,Millwall FC,2,transfermarkt_market_value,7.1012
+Alex Paulsen,New Zealand,PKO BP Ekstraklasa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,750000,23,6,GK,Lechia Gdansk,1,transfermarkt_market_value,6.8141
+Michael Woud,New Zealand,A-League Men,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,300000,27,6,GK,Auckland FC,1,transfermarkt_market_value,6.8775
+Finn Surman,New Zealand,Major League Soccer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1500000,22,17,DEF,Portland Timbers,1,transfermarkt_market_value,7.3489
+Tyler Bindon,New Zealand,Championship,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1500000,21,23,DEF,Sheffield United,2,transfermarkt_market_value,6.8719
+Bill Tuiloma,New Zealand,A-League Men,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,400000,31,47,DEF,Wellington Phoenix,1,transfermarkt_market_value,7.0802
+Ben Old,New Zealand,Ligue 2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1200000,23,22,DEF,AS Saint-Étienne,2,transfermarkt_market_value,7.0382
+Francis de Vries,New Zealand,A-League Men,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,600000,31,17,DEF,Auckland FC,1,transfermarkt_market_value,7.0373
+James McGarry,New Zealand,A-League Men,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,400000,28,7,DEF,Brisbane Roar,1,transfermarkt_market_value,6.9999
+Tim Payne,New Zealand,A-League Men,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,400000,32,50,DEF,Wellington Phoenix,1,transfermarkt_market_value,6.9664
+Callan Elliot,New Zealand,A-League Men,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,375000,26,9,DEF,Auckland FC,1,transfermarkt_market_value,7.0191
+Joe Bell,New Zealand,Eliteserien,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3000000,27,31,MID,Viking FK,1,transfermarkt_market_value,7.9407
+Ryan Thomas,New Zealand,Eredivisie,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,700000,31,25,MID,PEC Zwolle,1,transfermarkt_market_value,7.1575
+Alex Rufer,New Zealand,A-League Men,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,600000,29,24,MID,Wellington Phoenix,1,transfermarkt_market_value,7.3478
+Marko Stamenić,New Zealand,Championship,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3000000,24,37,MID,Swansea City,2,transfermarkt_market_value,7.5673
+Lachlan Bayliss,New Zealand,A-League Men,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,350000,23,3,MID,Newcastle United Jets,1,transfermarkt_market_value,6.7017
+Callum McCowatt,New Zealand,Superliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2000000,26,30,MID,Silkeborg IF,1,transfermarkt_market_value,7.7969
+Andre de Jong,New Zealand,Betway Premiership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,800000,29,13,MID,Orlando Pirates,1,transfermarkt_market_value,7.3388
+Jesse Randall,New Zealand,A-League Men,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,600000,23,9,FWD,Auckland FC,1,transfermarkt_market_value,7.0539
+Elijah Just,New Zealand,Scottish Premiership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1500000,25,42,FWD,Motherwell FC,1,transfermarkt_market_value,7.7594
+Logan Rogerson,New Zealand,A-League Men,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,400000,27,18,FWD,Auckland FC,1,transfermarkt_market_value,7.1594
+Ben Waine,New Zealand,League One,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,500000,24,30,FWD,Port Vale FC,3,transfermarkt_market_value,6.6205
+Kosta Barbarouses,New Zealand,A-League Men,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,325000,36,74,FWD,Western Sydney Wanderers,1,transfermarkt_market_value,6.6419
+Joan García,Spain,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,40000000,24,1,GK,FC Barcelona,1,transfermarkt_market_value,8.3305
+David Raya,Spain,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,35000000,30,12,GK,Arsenal FC,1,transfermarkt_market_value,8.8801
+Unai Simón,Spain,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,25000000,28,57,GK,Athletic Bilbao,1,transfermarkt_market_value,9.0413
+Álex Remiro,Spain,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,14000000,31,2,GK,Real Sociedad,1,transfermarkt_market_value,8.2982
+Pau Cubarsí,Spain,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,80000000,19,11,DEF,FC Barcelona,1,transfermarkt_market_value,8.5215
+Dean Huijsen,Spain,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,65000000,21,7,DEF,Real Madrid,1,transfermarkt_market_value,8.6261
+Cristhian Mosquera,Spain,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,35000000,21,2,DEF,Arsenal FC,1,transfermarkt_market_value,8.2348
+Aymeric Laporte,Spain,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,9000000,31,44,DEF,Athletic Bilbao,1,transfermarkt_market_value,8.3971
+Marc Cucurella,Spain,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,50000000,27,23,DEF,Chelsea FC,1,transfermarkt_market_value,9.1144
+Alejandro Grimaldo,Spain,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,24000000,30,12,DEF,Bayer 04 Leverkusen,1,transfermarkt_market_value,8.6268
+Pedro Porro,Spain,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,40000000,26,16,DEF,Tottenham Hotspur,1,transfermarkt_market_value,8.9749
+Marcos Llorente,Spain,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,22000000,31,23,DEF,Atlético de Madrid,1,transfermarkt_market_value,8.5852
+Martín Zubimendi,Spain,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,80000000,27,25,MID,Arsenal FC,1,transfermarkt_market_value,9.289
+Rodri,Spain,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,65000000,29,61,MID,Manchester City,1,transfermarkt_market_value,9.3786
+Pedri,Spain,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,150000000,23,40,MID,FC Barcelona,1,transfermarkt_market_value,9.4617
+Carlos Soler,Spain,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,8000000,29,15,MID,Real Sociedad,1,transfermarkt_market_value,8.4164
+Pablo Fornals,Spain,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,8000000,30,9,MID,Real Betis Balompié,1,transfermarkt_market_value,8.2048
+Fermín López,Spain,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,100000000,22,7,MID,FC Barcelona,1,transfermarkt_market_value,8.8976
+Dani Olmo,Spain,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,60000000,27,48,MID,FC Barcelona,1,transfermarkt_market_value,9.308
+Álex Baena,Spain,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,45000000,24,15,FWD,Atlético de Madrid,1,transfermarkt_market_value,9.0038
+Víctor Muñoz,Spain,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,20000000,22,2,FWD,CA Osasuna,1,transfermarkt_market_value,8.1695
+Ander Barrenetxea,Spain,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,18000000,24,1,FWD,Real Sociedad,1,transfermarkt_market_value,8.3089
+Lamine Yamal,Spain,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,200000000,18,25,FWD,FC Barcelona,1,transfermarkt_market_value,8.9506
+Yéremy Pino,Spain,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,35000000,23,21,FWD,Crystal Palace,1,transfermarkt_market_value,8.8521
+Ferran Torres,Spain,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,50000000,26,55,FWD,FC Barcelona,1,transfermarkt_market_value,9.2706
+Mikel Oyarzabal,Spain,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,25000000,29,52,FWD,Real Sociedad,1,transfermarkt_market_value,9.0247
+Borja Iglesias,Spain,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3000000,33,6,FWD,Celta de Vigo,1,transfermarkt_market_value,7.4305
+Bruno Varela,Cape Verde,Saudi Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2000000,31,8,GK,Al-Hazem SC,1,transfermarkt_market_value,7.569
+CJ dos Santos,Cape Verde,Major League Soccer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1200000,25,0,GK,San Diego FC,1,transfermarkt_market_value,6.8652
+Márcio Rosa,Cape Verde,efbet Liga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,300000,29,9,GK,Montana,1,transfermarkt_market_value,6.9432
+Vozinha,Cape Verde,Liga Portugal 2 ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,50000,39,87,GK,GD Chaves,2,transfermarkt_market_value,5.7048
+Diney Borges,Cape Verde,UAE Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1000000,31,30,DEF,Al-Bataeh CSC,1,transfermarkt_market_value,7.3112
+David Moreira,Cape Verde,Liga Portugal 2 ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,800000,22,3,DEF,Sporting CP B,2,transfermarkt_market_value,6.4529
+Ricardo Santos,Cape Verde,Championship,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,500000,30,1,DEF,Swansea City,2,transfermarkt_market_value,6.2903
+Kelvin Pires,Cape Verde,Veikkausliiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,300000,25,4,DEF,SJK Seinäjoki,1,transfermarkt_market_value,6.8155
+Roberto Lopes,Cape Verde,League of Ireland Premier Division,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,250000,33,44,DEF,Shamrock Rovers,1,transfermarkt_market_value,6.6585
+Jorginho Soares,Cape Verde,efbet Liga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,125000,26,0,DEF,Montana,1,transfermarkt_market_value,6.2211
+Stopira,Cape Verde,Liga Portugal 2 ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,50000,37,58,DEF,SC União Torreense,2,transfermarkt_market_value,5.5561
+Wagner Pina,Cape Verde,Süper Lig,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,8000000,23,12,DEF,Trabzonspor,1,transfermarkt_market_value,7.9832
+Sidny Lopes Cabral,Cape Verde,Liga Portugal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,5000000,23,8,DEF,SL Benfica,1,transfermarkt_market_value,7.7556
+Steven Moreira,Cape Verde,Major League Soccer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1500000,31,18,DEF,Columbus Crew,1,transfermarkt_market_value,7.3589
+Jójó,Cape Verde,Liga Portugal 2 ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,400000,24,5,DEF,FC Vizela,2,transfermarkt_market_value,6.5419
+Kevin Lenini,Cape Verde,Premier Liga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4500000,29,30,MID,FC Krasnodar,1,transfermarkt_market_value,8.0727
+Jordan Mendes,Cape Verde,Ligue 2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1500000,22,1,MID,Rodez AF,2,transfermarkt_market_value,6.5389
+Laros Duarte,Cape Verde,Nemzeti Bajnokság,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1000000,29,17,MID,Puskás Akadémia FC,1,transfermarkt_market_value,7.461
+Aílson Tavares,Cape Verde,Ligat ha'Al,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,700000,27,4,MID,Beitar Jerusalem,1,transfermarkt_market_value,7.1036
+João Paulo,Cape Verde,SuperLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,700000,27,39,MID,FCSB,1,transfermarkt_market_value,7.4869
+Deroy Duarte,Cape Verde,efbet Liga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1800000,26,30,MID,Ludogorets Razgrad,1,transfermarkt_market_value,7.7611
+Jamiro Monteiro,Cape Verde,Eredivisie,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,750000,32,52,MID,PEC Zwolle,1,transfermarkt_market_value,7.1872
+Ayoni Santos,Cape Verde,Eredivisie,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1300000,20,1,MID,Sparta Rotterdam,1,transfermarkt_market_value,6.6452
+Hélio Varela,Cape Verde,Ligat ha'Al,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1200000,23,19,FWD,Maccabi Tel Aviv,1,transfermarkt_market_value,7.4174
+Willy Semedo,Cape Verde,Cyprus League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1000000,32,35,FWD,Omonia Nicosia,1,transfermarkt_market_value,7.2138
+Jovane Cabral,Cape Verde,Liga Portugal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,800000,27,26,FWD,CF Estrela Amadora,1,transfermarkt_market_value,7.4599
+Heri Tavares,Cape Verde,Ligat ha'Al,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,750000,29,5,FWD,Maccabi Netanya,1,transfermarkt_market_value,7.1607
+Alessio Da Cruz,Cape Verde,Cyprus League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,450000,29,5,FWD,Anorthosis Famagusta,1,transfermarkt_market_value,6.9869
+Ryan Mendes,Cape Verde,1.Lig,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,200000,36,94,FWD,Igdir FK,2,transfermarkt_market_value,6.1153
+Fabio Domingos,Cape Verde,Challenge Espoirs,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,18,1,FWD,Paris Saint-Germain Espoirs,4,transfermarkt_market_value,0.7778
+Telmo Arcanjo,Cape Verde,Liga Portugal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3000000,24,14,FWD,Vitória Guimarães SC,1,transfermarkt_market_value,7.801
+Garry Rodrigues,Cape Verde,Cyprus League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,325000,35,60,FWD,Apollon Limassol,1,transfermarkt_market_value,6.6038
+Ieltsin Camões,Cape Verde,Egyptian Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1200000,27,1,FWD,Al Ahly FC,1,transfermarkt_market_value,7.118
+Benchimol,Cape Verde,Premier Liga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,900000,24,20,FWD,Akron Tolyatti,1,transfermarkt_market_value,7.4536
+Dailon Livramento,Cape Verde,Liga Portugal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,800000,24,19,FWD,Casa Pia AC,1,transfermarkt_market_value,7.4045
+Nuno Da Costa,Cape Verde,Süper Lig,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,500000,35,7,FWD,Basaksehir FK,1,transfermarkt_market_value,6.3758
+Nawaf Al-Aqidi,Saudi Arabia,Saudi Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,700000,25,22,GK,Al-Nassr FC,1,transfermarkt_market_value,7.2599
+Mohammed Al-Yami,Saudi Arabia,Saudi Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,350000,28,6,GK,Al-Hilal SFC,1,transfermarkt_market_value,6.9299
+Ahmed Al-Kassar,Saudi Arabia,Saudi Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,175000,34,8,GK,Al-Qadsiah FC,1,transfermarkt_market_value,6.7405
+Abdulelah Al-Amri,Saudi Arabia,Saudi Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1000000,29,38,DEF,Al-Nassr FC,1,transfermarkt_market_value,7.6035
+Rayan Hamed,Saudi Arabia,Saudi Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,700000,24,5,DEF,Al-Ahli SFC,1,transfermarkt_market_value,7.1372
+Ayman Yahya,Saudi Arabia,Saudi Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1400000,24,22,DEF,Al-Nassr FC,1,transfermarkt_market_value,7.6206
+Muteb Al-Mufarrij,Saudi Arabia,Saudi Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,400000,29,5,DEF,Al-Taawoun FC,1,transfermarkt_market_value,6.9469
+Hassan Kadesh,Saudi Arabia,Saudi Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,300000,33,17,DEF,Al-Ittihad Club,1,transfermarkt_market_value,6.5516
+Saud Abdulhamid,Saudi Arabia,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,5000000,26,50,DEF,RC Lens,1,transfermarkt_market_value,8.4703
+Ali Majrashi,Saudi Arabia,Saudi Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1200000,26,20,DEF,Al-Ahli SFC,1,transfermarkt_market_value,7.5514
+Ziyad Al-Johani,Saudi Arabia,Saudi Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,800000,24,11,MID,Al-Ahli SFC,1,transfermarkt_market_value,7.3104
+Musab Al-Juwayr,Saudi Arabia,Saudi Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4500000,22,33,MID,Al-Qadsiah FC,1,transfermarkt_market_value,7.8397
+Murad Al-Hawsawi,Saudi Arabia,Saudi Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1500000,24,2,MID,Al-Hilal SFC,1,transfermarkt_market_value,7.2686
+Mohamed Kanno,Saudi Arabia,Saudi Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,900000,31,72,MID,Al-Hilal SFC,1,transfermarkt_market_value,7.4333
+Naif Masoud,Saudi Arabia,Saudi Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,375000,25,5,MID,Al-Fateh SC,1,transfermarkt_market_value,6.9249
+Salman Al-Faraj,Saudi Arabia,Saudi Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,250000,36,68,MID,NEOM SC,1,transfermarkt_market_value,6.5373
+Marwan Al-Sahafi,Saudi Arabia,Jupiler Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1000000,22,16,FWD,Royal Antwerp FC,1,transfermarkt_market_value,7.2005
+Khalid Al-Ghannam,Saudi Arabia,Saudi Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,900000,25,4,FWD,Al-Ettifaq FC,1,transfermarkt_market_value,7.1891
+Turki Al-Ammar,Saudi Arabia,Saudi Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,900000,26,13,FWD,Al-Qadsiah FC,1,transfermarkt_market_value,7.3788
+Sultan Mandash,Saudi Arabia,Saudi Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,400000,31,4,FWD,Al-Hilal SFC,1,transfermarkt_market_value,6.6633
+Firas Al-Buraikan,Saudi Arabia,Saudi Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4000000,25,69,FWD,Al-Ahli SFC,1,transfermarkt_market_value,8.1828
+Saleh Al-Shehri,Saudi Arabia,Saudi Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,550000,32,0,FWD,Al-Ittihad Club,1,transfermarkt_market_value,6.3499
+Abdullah Al-Hamdan,Saudi Arabia,Saudi Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,325000,26,46,FWD,Al-Nassr FC,1,transfermarkt_market_value,7.2557
+Santiago Mele,Uruguay,Liga MX Apertura,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2200000,28,8,GK,CF Monterrey,1,transfermarkt_market_value,7.6014
+Sergio Rochet,Uruguay,Campeonato Brasileiro Série A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2000000,33,35,GK,Sport Club Internacional,1,transfermarkt_market_value,7.8245
+Fernando Muslera,Uruguay,Torneo Apertura ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,750000,39,134,GK,Club Estudiantes de La Plata,1,transfermarkt_market_value,7.1096
+Ronald Araujo,Uruguay,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,20000000,27,27,DEF,FC Barcelona,1,transfermarkt_market_value,8.8312
+José María Giménez,Uruguay,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,12000000,31,99,DEF,Atlético de Madrid,1,transfermarkt_market_value,8.6421
+Santiago Bueno,Uruguay,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,10000000,27,8,DEF,Wolverhampton Wanderers,1,transfermarkt_market_value,8.3863
+Sebastián Cáceres,Uruguay,Liga MX Apertura,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4500000,26,23,DEF,CF América,1,transfermarkt_market_value,8.0255
+Maxi Araújo,Uruguay,Liga Portugal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,25000000,26,28,DEF,Sporting CP,1,transfermarkt_market_value,8.6436
+Mathías Olivera,Uruguay,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,15000000,28,35,DEF,SSC Napoli,1,transfermarkt_market_value,8.7797
+Joaquín Piquerez,Uruguay,Campeonato Brasileiro Série A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,12000000,27,19,DEF,Sociedade Esportiva Palmeiras,1,transfermarkt_market_value,8.3255
+Juan Manuel Sanabria,Uruguay,Major League Soccer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4500000,26,5,DEF,Real Salt Lake City,1,transfermarkt_market_value,7.77
+Matías Viña,Uruguay,Torneo Apertura ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4000000,28,43,DEF,CA River Plate,1,transfermarkt_market_value,8.0972
+José Luis Rodríguez,Uruguay,Campeonato Brasileiro Série A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1500000,29,5,DEF,Clube de Regatas Vasco da Gama,1,transfermarkt_market_value,7.3964
+Guillermo Varela,Uruguay,Campeonato Brasileiro Série A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1200000,33,27,DEF,CR Flamengo,1,transfermarkt_market_value,7.1045
+Manuel Ugarte,Uruguay,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,30000000,25,35,MID,Manchester United,1,transfermarkt_market_value,9.0154
+Emiliano Martínez,Uruguay,Campeonato Brasileiro Série A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,8000000,26,10,MID,Sociedade Esportiva Palmeiras,1,transfermarkt_market_value,8.0774
+Nicolás Fonseca,Uruguay,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3000000,27,6,MID,Real Oviedo,1,transfermarkt_market_value,7.9305
+Federico Valverde,Uruguay,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,120000000,27,73,MID,Real Madrid,1,transfermarkt_market_value,9.6197
+Nicolás de la Cruz,Uruguay,Campeonato Brasileiro Série A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,9000000,28,34,MID,CR Flamengo,1,transfermarkt_market_value,8.3308
+Giorgian de Arrascaeta,Uruguay,Campeonato Brasileiro Série A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,15000000,31,59,MID,CR Flamengo,1,transfermarkt_market_value,8.3539
+Brian Rodríguez,Uruguay,Liga MX Apertura,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,6500000,25,33,FWD,CF América,1,transfermarkt_market_value,8.2148
+Agustín Canobbio,Uruguay,Campeonato Brasileiro Série A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,6000000,27,14,FWD,Fluminense Football Club,1,transfermarkt_market_value,8.0367
+Facundo Torres,Uruguay,Major League Soccer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,10000000,26,22,FWD,Austin FC,1,transfermarkt_market_value,8.2892
+Facundo Pellistri,Uruguay,Super League 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,6000000,24,39,FWD,Panathinaikos,1,transfermarkt_market_value,8.2175
+Darwin Núñez,Uruguay,Saudi Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,25000000,26,38,FWD,Al-Hilal SFC,1,transfermarkt_market_value,8.6982
+Federico Viñas,Uruguay,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4000000,27,11,FWD,Real Oviedo,1,transfermarkt_market_value,8.1277
+Agustín Álvarez,Uruguay,Serie B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2800000,24,6,FWD,AC Monza,2,transfermarkt_market_value,7.232
+Rodrigo Aguirre,Uruguay,Liga MX Apertura,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2500000,31,10,FWD,Tigres UANL,1,transfermarkt_market_value,7.4318
+Lucas Chevalier,France,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,30000000,24,1,GK,Paris Saint-Germain,1,transfermarkt_market_value,8.2326
+Mike Maignan,France,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,25000000,30,38,GK,AC Milan,1,transfermarkt_market_value,8.9682
+Brice Samba,France,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,8000000,32,4,GK,Stade Rennais FC,1,transfermarkt_market_value,8.202
+Dayot Upamecano,France,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,70000000,27,36,DEF,Bayern Munich,1,transfermarkt_market_value,9.3086
+Ibrahima Konaté,France,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,50000000,26,27,DEF,Liverpool FC,1,transfermarkt_market_value,9.1428
+Maxence Lacroix,France,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,40000000,26,2,DEF,Crystal Palace,1,transfermarkt_market_value,8.6552
+Pierre Kalulu,France,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,32000000,25,3,DEF,Juventus FC,1,transfermarkt_market_value,8.6323
+Theo Hernández,France,Saudi Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,28000000,28,42,DEF,Al-Hilal SFC,1,transfermarkt_market_value,8.7547
+Lucas Hernández,France,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,20000000,30,41,DEF,Paris Saint-Germain,1,transfermarkt_market_value,8.7809
+Lucas Digne,France,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,8000000,32,56,DEF,Aston Villa,1,transfermarkt_market_value,8.2756
+Malo Gusto,France,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,35000000,22,9,DEF,Chelsea FC,1,transfermarkt_market_value,8.5817
+Aurélien Tchouaméni,France,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,75000000,26,44,MID,Real Madrid,1,transfermarkt_market_value,9.3681
+N'Golo Kanté,France,Süper Lig,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4500000,35,67,MID,Fenerbahce,1,transfermarkt_market_value,7.5175
+Warren Zaïre-Emery,France,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,60000000,20,10,MID,Paris Saint-Germain,1,transfermarkt_market_value,8.5326
+Eduardo Camavinga,France,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,50000000,23,29,MID,Real Madrid,1,transfermarkt_market_value,9.0305
+Adrien Rabiot,France,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,20000000,31,57,MID,AC Milan,1,transfermarkt_market_value,8.7154
+Rayan Cherki,France,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,65000000,22,5,MID,Manchester City,1,transfermarkt_market_value,8.6981
+Michael Olise,France,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,140000000,24,15,FWD,Bayern Munich,1,transfermarkt_market_value,9.3898
+Désiré Doué,France,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,90000000,20,6,FWD,Paris Saint-Germain,1,transfermarkt_market_value,8.5871
+Maghnes Akliouche,France,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,50000000,24,7,FWD,AS Monaco,1,transfermarkt_market_value,8.9119
+Kylian Mbappé,France,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,200000000,27,96,FWD,Real Madrid,1,transfermarkt_market_value,9.8433
+Ousmane Dembélé,France,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,100000000,28,58,FWD,Paris Saint-Germain,1,transfermarkt_market_value,9.5159
+Hugo Ekitiké,France,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,90000000,23,8,FWD,Liverpool FC,1,transfermarkt_market_value,9.0085
+Marcus Thuram,France,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,50000000,28,33,FWD,Inter Milan,1,transfermarkt_market_value,9.1786
+Randal Kolo Muani,France,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,22000000,27,32,FWD,Tottenham Hotspur,1,transfermarkt_market_value,8.8939
+Yehvann Diouf,Senegal,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,7000000,26,2,GK,OGC Nice,1,transfermarkt_market_value,8.0625
+Edouard Mendy,Senegal,Saudi Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4500000,34,56,GK,Al-Ahli SFC,1,transfermarkt_market_value,8.185
+Mory Diaw,Senegal,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1000000,32,4,GK,Le Havre AC,1,transfermarkt_market_value,7.4949
+Mamadou Sarr,Senegal,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,25000000,20,6,DEF,Chelsea FC,1,transfermarkt_market_value,8.1515
+Moussa Niakhaté,Senegal,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,18000000,30,29,DEF,Olympique Lyon,1,transfermarkt_market_value,8.6831
+Antoine Mendy,Senegal,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,6000000,21,6,DEF,OGC Nice,1,transfermarkt_market_value,7.7912
+Nobel Mendy,Senegal,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,6000000,21,1,DEF,Rayo Vallecano,1,transfermarkt_market_value,7.5603
+Kalidou Koulibaly,Senegal,Saudi Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,5000000,34,102,DEF,Al-Hilal SFC,1,transfermarkt_market_value,7.7049
+Abdoulaye Seck,Senegal,Ligat ha'Al,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,500000,33,21,DEF,Maccabi Haifa,1,transfermarkt_market_value,6.7623
+El Hadji Malick Diouf,Senegal,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,28000000,21,18,DEF,West Ham United,1,transfermarkt_market_value,8.4991
+Ismail Jakobs,Senegal,Süper Lig,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,8000000,26,28,DEF,Galatasaray,1,transfermarkt_market_value,8.2561
+Idrissa Gueye,Senegal,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1000000,36,130,MID,Everton FC,1,transfermarkt_market_value,7.3969
+Pape Gueye,Senegal,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,40000000,27,40,MID,Villarreal CF,1,transfermarkt_market_value,9.1372
+Lamine Camara,Senegal,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,35000000,22,30,MID,AS Monaco,1,transfermarkt_market_value,8.7903
+Pape Matar Sarr,Senegal,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,32000000,23,38,MID,Tottenham Hotspur,1,transfermarkt_market_value,8.9271
+Habib Diarra,Senegal,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,32000000,22,19,MID,Sunderland AFC,1,transfermarkt_market_value,8.679
+Pathé Ciss,Senegal,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2000000,32,29,MID,Rayo Vallecano,1,transfermarkt_market_value,7.6859
+Krépin Diatta,Senegal,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,6000000,27,59,MID,AS Monaco,1,transfermarkt_market_value,8.5623
+Assane Diao,Senegal,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,30000000,20,4,FWD,Como 1907,1,transfermarkt_market_value,8.1515
+Mamadou Diakhon,Senegal,Jupiler Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,9000000,20,1,FWD,Club Brugge KV,1,transfermarkt_market_value,7.3032
+Iliman Ndiaye,Senegal,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,50000000,26,38,FWD,Everton FC,1,transfermarkt_market_value,9.2039
+Ismaïla Sarr,Senegal,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,35000000,28,82,FWD,Crystal Palace,1,transfermarkt_market_value,9.2218
+Ibrahim Mbaye,Senegal,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,30000000,18,10,FWD,Paris Saint-Germain,1,transfermarkt_market_value,8.1469
+Nicolas Jackson,Senegal,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,40000000,24,31,FWD,Bayern Munich,1,transfermarkt_market_value,9.0915
+Boulaye Dia,Senegal,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,7000000,29,38,FWD,SS Lazio,1,transfermarkt_market_value,8.5353
+Bamba Dieng,Senegal,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,6000000,26,21,FWD,FC Lorient,1,transfermarkt_market_value,8.3773
+Cherif Ndiaye,Senegal,Süper Lig,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,5000000,30,17,FWD,Samsunspor,1,transfermarkt_market_value,7.8833
+Habib Diallo,Senegal,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,5000000,30,40,FWD,FC Metz,1,transfermarkt_market_value,8.3051
+Egil Selvik,Norway,Championship,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1300000,28,6,GK,Watford FC,2,transfermarkt_market_value,6.9711
+Ørjan Nyland,Norway,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,900000,35,69,GK,Sevilla FC,1,transfermarkt_market_value,7.8205
+Viljar Myhra,Norway,Superliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,800000,29,0,GK,Odense Boldklub,1,transfermarkt_market_value,6.8523
+Kristoffer Ajer,Norway,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,18000000,28,50,DEF,Brentford FC,1,transfermarkt_market_value,8.9059
+Torbjørn Heggem,Norway,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,14000000,27,13,DEF,Bologna FC 1909,1,transfermarkt_market_value,8.5821
+Leo Østigård,Norway,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,10000000,26,36,DEF,Genoa CFC,1,transfermarkt_market_value,8.6469
+Odin Bjørtuft,Norway,Eliteserien,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4500000,27,1,DEF,FK Bodø/Glimt,1,transfermarkt_market_value,7.5675
+Henrik Falchener,Norway,Eliteserien,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4000000,22,1,DEF,Viking FK,1,transfermarkt_market_value,7.2774
+David Møller Wolfe,Norway,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,10000000,24,20,DEF,Wolverhampton Wanderers,1,transfermarkt_market_value,8.5425
+Fredrik Bjørkan,Norway,Eliteserien,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3500000,27,19,DEF,FK Bodø/Glimt,1,transfermarkt_market_value,7.9065
+Julian Ryerson,Norway,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,25000000,28,41,DEF,Borussia Dortmund,1,transfermarkt_market_value,8.9818
+Marcus Pedersen,Norway,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3500000,25,31,DEF,Torino FC,1,transfermarkt_market_value,8.2631
+Sander Berge,Norway,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,25000000,28,64,MID,Fulham FC,1,transfermarkt_market_value,9.0623
+Patrick Berg,Norway,Eliteserien,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,8000000,28,41,MID,FK Bodø/Glimt,1,transfermarkt_market_value,8.3243
+Kristian Thorstvedt,Norway,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,10000000,27,35,MID,US Sassuolo,1,transfermarkt_market_value,8.6418
+Felix Horn Myhre,Norway,Eliteserien,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3500000,27,7,MID,SK Brann,1,transfermarkt_market_value,7.7375
+Morten Thorsby,Norway,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3000000,29,30,MID,US Cremonese,1,transfermarkt_market_value,8.2048
+Antonio Nusa,Norway,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,32000000,21,22,FWD,RB Leipzig,1,transfermarkt_market_value,8.5798
+Andreas Schjelderup,Norway,Liga Portugal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,20000000,21,10,FWD,SL Benfica,1,transfermarkt_market_value,8.014
+Jens Petter Hauge,Norway,Eliteserien,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,12000000,26,14,FWD,FK Bodø/Glimt,1,transfermarkt_market_value,8.2724
+Oscar Bobb,Norway,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,30000000,22,18,FWD,Fulham FC,1,transfermarkt_market_value,8.6476
+Erling Haaland,Norway,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,200000000,25,49,FWD,Manchester City,1,transfermarkt_market_value,9.7211
+Jørgen Strand Larsen,Norway,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,45000000,26,26,FWD,Crystal Palace,1,transfermarkt_market_value,9.1003
+Alexander Sørloth,Norway,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,20000000,30,70,FWD,Atlético de Madrid,1,transfermarkt_market_value,8.8777
+Ahmed Basil Fadhil,Iraq,Iraq Stars League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,450000,29,13,GK,Al-Shorta SC,1,transfermarkt_market_value,7.1431
+Fahad Talib,Iraq,Iraq Stars League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,400000,31,19,GK,Al-Talaba SC,1,transfermarkt_market_value,7.1688
+Kumel Al-Rekabe,Iraq,Iraq Stars League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,250000,21,0,GK,Erbil SC,1,transfermarkt_market_value,5.8318
+Zaid Tahseen,Iraq,O'zbekiston Superligasi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,600000,25,24,DEF,Pakhtakor Tashkent,1,transfermarkt_market_value,7.3478
+Akam Hashem,Iraq,Iraq Stars League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,600000,27,11,DEF,Al-Zawraa SC,1,transfermarkt_market_value,7.2125
+Maytham Jabbar,Iraq,Iraq Stars League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,400000,25,20,DEF,Al-Zawraa SC,1,transfermarkt_market_value,7.1778
+Manaf Younis,Iraq,Iraq Stars League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,350000,29,30,DEF,Al-Shorta SC,1,transfermarkt_market_value,7.2042
+Frans Dhia Putros,Iraq,Super League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,350000,32,25,DEF,PERSIB Bandung,1,transfermarkt_market_value,6.7968
+Rebin Sulaka,Iraq,Thai League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,100000,34,52,DEF,Port FC,1,transfermarkt_market_value,6.252
+Merchas Doski,Iraq,Chance Liga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1000000,26,30,DEF,FC Viktoria Plzen,1,transfermarkt_market_value,7.5612
+Ahmed Hasan,Iraq,Iraq Stars League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,400000,24,5,DEF,Al-Karma,1,transfermarkt_market_value,6.9469
+Hussein Ali,Iraq,PKO BP Ekstraklasa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,300000,24,25,DEF,Pogon Szczecin,1,transfermarkt_market_value,7.1194
+Amir Al-Ammari,Iraq,PKO BP Ekstraklasa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,850000,28,48,MID,Cracovia,1,transfermarkt_market_value,7.5903
+Zaid Ismail,Iraq,Iraq Stars League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,400000,24,4,MID,Al-Talaba SC,1,transfermarkt_market_value,6.9133
+Zidane Iqbal,Iraq,Eredivisie,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1500000,23,22,MID,FC Utrecht,1,transfermarkt_market_value,7.5191
+Aimar Sher,Iraq,Eliteserien,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1300000,23,5,MID,Sarpsborg 08 FF,1,transfermarkt_market_value,7.2227
+Kevin Yakob,Iraq,Superliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,600000,25,6,MID,Aarhus GF,1,transfermarkt_market_value,7.1132
+Ibrahim Bayesh,Iraq,UAE Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,900000,25,72,MID,Al-Dhafra FC,1,transfermarkt_market_value,7.6833
+Karar Nabeel,Iraq,Iraq Stars League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,300000,28,8,MID,Al-Zawraa SC,1,transfermarkt_market_value,6.9238
+Marko Farji,Iraq,Serie B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1800000,22,9,FWD,Venezia FC,2,transfermarkt_market_value,6.8975
+Youssef Amyn,Iraq,Cyprus League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,600000,22,25,FWD,AEK Larnaca,1,transfermarkt_market_value,7.1051
+Ali Jasim,Iraq,Saudi Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,550000,22,35,FWD,Al-Najma SC,1,transfermarkt_market_value,7.1355
+Hasan Abdulkareem,Iraq,Iraq Stars League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,700000,27,21,FWD,Al-Zawraa SC,1,transfermarkt_market_value,7.3767
+Peter Gwargis,Iraq,Iraq Stars League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,500000,25,3,FWD,Duhok SC,1,transfermarkt_market_value,6.948
+Ali Al-Hamadi,Iraq,League One,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2000000,24,17,FWD,Luton Town,3,transfermarkt_market_value,6.9917
+Mohanad Ali,Iraq,UAE Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1400000,25,68,FWD,Dibba SCC,1,transfermarkt_market_value,7.8231
+Aymen Hussein,Iraq,Iraq Stars League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,450000,30,89,FWD,Al-Karma,1,transfermarkt_market_value,7.3611
+Ali Yousif,Iraq,Iraq Stars League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,125000,30,5,FWD,Al-Talaba SC,1,transfermarkt_market_value,6.4263
+Emiliano Martínez,Argentina,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,15000000,33,59,GK,Aston Villa,1,transfermarkt_market_value,8.8739
+Gerónimo Rulli,Argentina,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,8000000,33,7,GK,Olympique Marseille,1,transfermarkt_market_value,8.2887
+Juan Musso,Argentina,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3000000,31,3,GK,Atlético de Madrid,1,transfermarkt_market_value,7.8274
+Cristian Romero,Argentina,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,50000000,28,49,DEF,Tottenham Hotspur,1,transfermarkt_market_value,9.2497
+Marcos Senesi,Argentina,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,22000000,28,3,DEF,AFC Bournemouth,1,transfermarkt_market_value,8.5049
+Tomás Palacios,Argentina,Torneo Apertura ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4500000,23,0,DEF,Club Estudiantes de La Plata,1,transfermarkt_market_value,7.3147
+Lucas Martínez Quarta,Argentina,Torneo Apertura ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4500000,29,16,DEF,CA River Plate,1,transfermarkt_market_value,7.962
+Nicolás Otamendi,Argentina,Liga Portugal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1000000,38,130,DEF,SL Benfica,1,transfermarkt_market_value,7.1269
+Nicolás Tagliafico,Argentina,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,5000000,33,75,DEF,Olympique Lyon,1,transfermarkt_market_value,8.0438
+Gabriel Rojas,Argentina,Torneo Apertura ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4000000,28,1,DEF,Racing Club,1,transfermarkt_market_value,7.5274
+Marcos Acuña,Argentina,Torneo Apertura ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1200000,34,62,DEF,CA River Plate,1,transfermarkt_market_value,7.1289
+Nahuel Molina,Argentina,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,15000000,28,58,DEF,Atlético de Madrid,1,transfermarkt_market_value,8.8708
+Agustín Giay,Argentina,Campeonato Brasileiro Série A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,10000000,22,1,DEF,Sociedade Esportiva Palmeiras,1,transfermarkt_market_value,7.589
+Máximo Perrone,Argentina,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,30000000,23,2,MID,Como 1907,1,transfermarkt_market_value,8.4324
+Leandro Paredes,Argentina,Torneo Apertura ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,5000000,31,77,MID,CA Boca Juniors,1,transfermarkt_market_value,8.0286
+Enzo Fernández,Argentina,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,90000000,25,40,MID,Chelsea FC,1,transfermarkt_market_value,9.413
+Alexis Mac Allister,Argentina,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,80000000,27,44,MID,Liverpool FC,1,transfermarkt_market_value,9.3901
+Valentín Barco,Argentina,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,35000000,21,2,MID,RC Strasbourg Alsace,1,transfermarkt_market_value,8.2348
+Exequiel Palacios,Argentina,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,30000000,27,38,MID,Bayer 04 Leverkusen,1,transfermarkt_market_value,9.0302
+Rodrigo De Paul,Argentina,Major League Soccer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,15000000,31,85,MID,Inter Miami CF,1,transfermarkt_market_value,8.4202
+Nico Paz,Argentina,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,65000000,21,8,MID,Como 1907,1,transfermarkt_market_value,8.6478
+Nico González,Argentina,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,24000000,28,50,FWD,Atlético de Madrid,1,transfermarkt_market_value,9.0037
+Thiago Almada,Argentina,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,20000000,25,14,FWD,Atlético de Madrid,1,transfermarkt_market_value,8.7161
+Franco Mastantuono,Argentina,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,45000000,18,4,FWD,Real Madrid,1,transfermarkt_market_value,8.1394
+Giuliano Simeone,Argentina,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,40000000,23,11,FWD,Atlético de Madrid,1,transfermarkt_market_value,8.7857
+Lionel Messi,Argentina,Major League Soccer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,15000000,38,198,FWD,Inter Miami CF,1,transfermarkt_market_value,8.1249
+Gianluca Prestianni,Argentina,Liga Portugal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,12000000,20,6,FWD,SL Benfica,1,transfermarkt_market_value,7.6319
+Julián Alvarez,Argentina,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,90000000,26,51,FWD,Atlético de Madrid,1,transfermarkt_market_value,9.4568
+José Manuel López,Argentina,Campeonato Brasileiro Série A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,22000000,25,3,FWD,Sociedade Esportiva Palmeiras,1,transfermarkt_market_value,8.2349
+Luca Zidane,Algeria,LaLiga2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1000000,27,6,GK,Granada CF,2,transfermarkt_market_value,6.8819
+Anthony Mandréa,Algeria,Championnat National,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,400000,29,21,GK,SM Caen,3,transfermarkt_market_value,6.4814
+Melvin Mastil,Algeria,Challenge League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,250000,26,1,GK,FC Stade Nyonnais,2,transfermarkt_market_value,6.1795
+Kilian Belazzoug,Algeria,Championnat National 3 - Groupe C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,19,0,GK,Stade Rennais FC B,4,transfermarkt_market_value,0.65
+Ramy Bensebaini,Algeria,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,7000000,31,81,DEF,Borussia Dortmund,1,transfermarkt_market_value,8.4223
+Sohaib Naïr,Algeria,Ligue 2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2000000,24,0,DEF,EA Guingamp,2,transfermarkt_market_value,6.7589
+Zineddine Belaid,Algeria,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1500000,27,9,DEF,JS Kabylie,1,transfermarkt_market_value,7.7605
+Aïssa Mandi,Algeria,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1000000,34,116,DEF,LOSC Lille,1,transfermarkt_market_value,7.451
+Achref Abada,Algeria,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1000000,26,7,DEF,USM Alger,1,transfermarkt_market_value,7.5815
+Rayan Aït-Nouri,Algeria,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,40000000,24,27,DEF,Manchester City,1,transfermarkt_market_value,9.0669
+Mehdi Dorval,Algeria,Serie B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2000000,25,4,DEF,SSC Bari,2,transfermarkt_market_value,7.0556
+Rafik Belghali,Algeria,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,7000000,23,11,DEF,Hellas Verona,1,transfermarkt_market_value,8.193
+Ramiz Zerrouki,Algeria,Eredivisie,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,6000000,27,51,MID,FC Twente Enschede,1,transfermarkt_market_value,8.2659
+Hicham Boudaoui,Algeria,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,12000000,26,32,MID,OGC Nice,1,transfermarkt_market_value,8.6878
+Yassine Titraoui,Algeria,Jupiler Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,7000000,22,5,MID,Royal Charleroi SC,1,transfermarkt_market_value,7.6702
+Ibrahim Maza,Algeria,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,40000000,20,15,MID,Bayer 04 Leverkusen,1,transfermarkt_market_value,8.4638
+Farès Chaïbi,Algeria,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,15000000,23,28,MID,Eintracht Frankfurt,1,transfermarkt_market_value,8.6148
+Houssem Aouar,Algeria,Saudi Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,8000000,27,19,MID,Al-Ittihad Club,1,transfermarkt_market_value,8.1876
+Adil Aouchiche,Algeria,2. Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2000000,23,1,MID,FC Schalke 04,2,transfermarkt_market_value,6.7617
+Adil Boulbina,Algeria,Qatar Stars League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3200000,22,8,FWD,Al-Duhail SC,1,transfermarkt_market_value,7.4788
+Riyad Mahrez,Algeria,Saudi Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,7000000,35,113,FWD,Al-Ahli SFC,1,transfermarkt_market_value,7.763
+Farès Ghedjemis,Algeria,Serie B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,5500000,23,1,FWD,Frosinone Calcio,2,transfermarkt_market_value,7.1057
+Amine Gouiri,Algeria,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,28000000,26,21,FWD,Olympique Marseille,1,transfermarkt_market_value,8.9012
+Mohamed Amoura,Algeria,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,27000000,25,44,FWD,VfL Wolfsburg,1,transfermarkt_market_value,9.0207
+Amin Chiakha,Algeria,Eliteserien,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3000000,20,3,FWD,Rosenborg BK,1,transfermarkt_market_value,7.0574
+Nadhir Benbouali,Algeria,Nemzeti Bajnokság,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,900000,26,1,FWD,ETO FC,1,transfermarkt_market_value,7.0202
+Alexander Schlager,Austria,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2500000,30,25,GK,Red Bull Salzburg,1,transfermarkt_market_value,8.1104
+Tobias Lawal,Austria,Jupiler Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2500000,25,1,GK,KRC Genk,1,transfermarkt_market_value,7.2426
+Patrick Pentz,Austria,Superliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2200000,29,18,GK,Bröndby IF,1,transfermarkt_market_value,7.7391
+Florian Wiegele,Austria,Chance Liga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1800000,25,1,GK,FC Viktoria Plzen,1,transfermarkt_market_value,7.1309
+Kevin Danso,Austria,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,20000000,27,31,DEF,Tottenham Hotspur,1,transfermarkt_market_value,8.8558
+Marco Friedl,Austria,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,12000000,28,10,DEF,SV Werder Bremen,1,transfermarkt_market_value,8.4853
+Philipp Lienhart,Austria,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,12000000,29,40,DEF,SC Freiburg,1,transfermarkt_market_value,8.7278
+David Affengruber,Austria,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,9000000,25,1,DEF,Elche CF,1,transfermarkt_market_value,8.0732
+Stefan Posch,Austria,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,5500000,28,51,DEF,1.FSV Mainz 05,1,transfermarkt_market_value,8.5063
+David Alaba,Austria,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3500000,33,112,DEF,Real Madrid,1,transfermarkt_market_value,7.9957
+Maximilian Wöber,Austria,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3000000,28,31,DEF,SV Werder Bremen,1,transfermarkt_market_value,8.2107
+Michael Svoboda,Austria,Serie B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3000000,27,4,DEF,Venezia FC,2,transfermarkt_market_value,7.1935
+Phillipp Mwene,Austria,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1500000,32,29,DEF,1.FSV Mainz 05,1,transfermarkt_market_value,7.5881
+Konrad Laimer,Austria,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,32000000,28,56,DEF,Bayern Munich,1,transfermarkt_market_value,9.1221
+Nicolas Seiwald,Austria,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,22000000,24,46,MID,RB Leipzig,1,transfermarkt_market_value,8.9591
+Florian Grillitsch,Austria,Liga Portugal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2000000,30,59,MID,SC Braga,1,transfermarkt_market_value,7.7937
+Carney Chukwuemeka,Austria,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,20000000,22,2,MID,Borussia Dortmund,1,transfermarkt_market_value,8.1695
+Xaver Schlager,Austria,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,10000000,28,50,MID,RB Leipzig,1,transfermarkt_market_value,8.706
+Marcel Sabitzer,Austria,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,7000000,32,97,MID,Borussia Dortmund,1,transfermarkt_market_value,8.3301
+Alessandro Schöpf,Austria,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,900000,32,35,MID,Wolfsberger AC,1,transfermarkt_market_value,7.4479
+Alexander Prass,Austria,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,7000000,24,18,MID,TSG 1899 Hoffenheim,1,transfermarkt_market_value,8.4027
+Christoph Baumgartner,Austria,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,30000000,26,58,MID,RB Leipzig,1,transfermarkt_market_value,9.1065
+Paul Wanner,Austria,Eredivisie,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,18000000,20,2,MID,PSV Eindhoven,1,transfermarkt_market_value,7.6136
+Romano Schmid,Austria,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,15000000,26,33,MID,SV Werder Bremen,1,transfermarkt_market_value,8.7692
+Patrick Wimmer,Austria,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,15000000,24,30,FWD,VfL Wolfsburg,1,transfermarkt_market_value,8.7521
+Marko Arnautovic,Austria,Super liga Srbije,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2500000,37,132,FWD,Red Star Belgrade,1,transfermarkt_market_value,7.4413
+Sasa Kalajdzic,Austria,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2000000,28,21,FWD,LASK,1,transfermarkt_market_value,8.0037
+Michael Gregoritsch,Austria,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1500000,32,74,FWD,FC Augsburg,1,transfermarkt_market_value,7.757
+Yazeed Abulaila,Jordan,Jordanian Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,300000,33,62,GK,Al-Hussein SC (Irbid),1,transfermarkt_market_value,7.2825
+Abdallah Al-Fakhouri,Jordan,Jordanian Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,250000,26,10,GK,Al-Wehdat SC,1,transfermarkt_market_value,6.8988
+Abdel Rahman Al-Talalga,Jordan,Jordanian Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,23,7,GK,Al-Faisaly SC,1,transfermarkt_market_value,2.2383
+Yazan Al-Arab,Jordan,K League 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,900000,30,67,DEF,FC Seoul,1,transfermarkt_market_value,7.5452
+Abdallah Nasib,Jordan,Iraq Stars League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,500000,32,54,DEF,Al-Zawraa SC,1,transfermarkt_market_value,7.0562
+Husam Abu Dahab,Jordan,Jordanian Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,350000,25,11,DEF,Al-Faisaly SC,1,transfermarkt_market_value,7.0293
+Yousef Abu Al-Jazar,Jordan,Jordanian Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,275000,26,10,DEF,Al-Hussein SC (Irbid),1,transfermarkt_market_value,6.9312
+Mohammad Abualnadi,Jordan,Malaysia Super League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,225000,25,12,DEF,Selangor FC,1,transfermarkt_market_value,6.8938
+Saleem Obaid,Jordan,Jordanian Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,100000,34,9,DEF,Al-Hussein SC (Irbid),1,transfermarkt_market_value,5.9446
+Mohammad Abu Hasheesh,Jordan,Iraq Stars League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,450000,30,45,DEF,Al-Karma,1,transfermarkt_market_value,7.2374
+Mohannad Abu Taha,Jordan,Iraq Stars League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,450000,23,23,DEF,Al-Quwa Al-Jawiya,1,transfermarkt_market_value,7.1175
+Mohammad Taha,Jordan,Jordanian Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,250000,20,10,DEF,Al-Hussein SC (Irbid),1,transfermarkt_market_value,6.3988
+Nizar Al-Rashdan,Jordan,Qatar Stars League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,600000,27,38,MID,Qatar SC,1,transfermarkt_market_value,7.4298
+Noor Al-Rawabdeh,Jordan,Malaysia Super League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,450000,29,56,MID,Selangor FC,1,transfermarkt_market_value,7.4019
+Amer Jamous,Jordan,Iraq Stars League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,450000,23,14,MID,Al-Zawraa SC,1,transfermarkt_market_value,7.0309
+Ibrahim Saadeh,Jordan,Iraq Stars League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,400000,26,43,MID,Al-Karma,1,transfermarkt_market_value,7.3142
+Mohammad Al-Dawoud,Jordan,Jordanian Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,150000,33,6,MID,Al-Wehdat SC,1,transfermarkt_market_value,6.1418
+Yousef Qashi,Jordan,Jordanian Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,21,4,MID,Al-Hussein SC (Irbid),1,transfermarkt_market_value,2.1517
+Ahmad Assaf,Jordan,Jordanian Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,50000,26,4,MID,Al-Hussein SC (Irbid),1,transfermarkt_market_value,6.2061
+Mahmoud Al-Mardi,Jordan,Jordanian Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,400000,32,68,FWD,Al-Hussein SC (Irbid),1,transfermarkt_market_value,7.0221
+Odeh Fakhoury,Jordan,Egyptian Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,250000,20,10,FWD,Pyramids FC,1,transfermarkt_market_value,6.3988
+Mousa Tamari,Jordan,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,8000000,28,70,FWD,Stade Rennais FC,1,transfermarkt_market_value,8.6911
+Shararh,Jordan,Botola Pro Inwi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,375000,28,32,FWD,Raja Club Athletic,1,transfermarkt_market_value,7.2392
+Ali Azaizeh,Jordan,Saudi Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,200000,22,14,FWD,Al-Shabab FC,1,transfermarkt_market_value,6.6301
+Ibrahim Sabra,Jordan,SuperSport HNL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,400000,20,5,FWD,NK Lokomotiva Zagreb,1,transfermarkt_market_value,6.4469
+Baha'a Faisal,Jordan,Qatari Second Division,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,200000,30,49,FWD,Al-Waab SC,2,transfermarkt_market_value,6.572
+Rui Silva,Portugal,Liga Portugal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,7000000,32,2,GK,Sporting CP,1,transfermarkt_market_value,7.7925
+José Sá,Portugal,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,5000000,33,4,GK,Wolverhampton Wanderers,1,transfermarkt_market_value,8.0422
+Ricardo Velho,Portugal,Süper Lig,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2500000,27,1,GK,Genclerbirligi Ankara,1,transfermarkt_market_value,7.3676
+Gonçalo Inácio,Portugal,Liga Portugal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,40000000,24,20,DEF,Sporting CP,1,transfermarkt_market_value,8.7439
+Tomás Araújo,Portugal,Liga Portugal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,28000000,23,3,DEF,SL Benfica,1,transfermarkt_market_value,8.1919
+António Silva,Portugal,Liga Portugal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,28000000,22,20,DEF,SL Benfica,1,transfermarkt_market_value,8.3726
+Renato Veiga,Portugal,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,25000000,22,11,DEF,Villarreal CF,1,transfermarkt_market_value,8.5009
+Nuno Mendes,Portugal,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,75000000,23,43,DEF,Paris Saint-Germain,1,transfermarkt_market_value,9.239
+Matheus Nunes,Portugal,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,45000000,27,19,DEF,Manchester City,1,transfermarkt_market_value,9.0449
+Diogo Dalot,Portugal,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,30000000,27,33,DEF,Manchester United,1,transfermarkt_market_value,9.0049
+João Cancelo,Portugal,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,9000000,31,66,DEF,FC Barcelona,1,transfermarkt_market_value,8.4705
+Vitinha,Portugal,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,110000000,26,37,MID,Paris Saint-Germain,1,transfermarkt_market_value,9.4672
+Rúben Neves,Portugal,Saudi Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,25000000,29,65,MID,Al-Hilal SFC,1,transfermarkt_market_value,8.7951
+Samú Costa,Portugal,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,15000000,25,4,MID,RCD Mallorca,1,transfermarkt_market_value,8.4158
+João Neves,Portugal,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,110000000,21,21,MID,Paris Saint-Germain,1,transfermarkt_market_value,8.9915
+Mateus Fernandes,Portugal,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,35000000,21,1,MID,West Ham United,1,transfermarkt_market_value,8.16
+Bruno Fernandes,Portugal,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,40000000,31,87,MID,Manchester United,1,transfermarkt_market_value,9.028
+Francisco Trincão,Portugal,Liga Portugal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,35000000,26,17,MID,Sporting CP,1,transfermarkt_market_value,8.6701
+Pedro Gonçalves,Portugal,Liga Portugal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,28000000,27,4,FWD,Sporting CP,1,transfermarkt_market_value,8.3581
+Ricardo Horta,Portugal,Liga Portugal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,10000000,31,13,FWD,SC Braga,1,transfermarkt_market_value,7.9477
+Gonçalo Guedes,Portugal,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,6000000,29,33,FWD,Real Sociedad,1,transfermarkt_market_value,8.4576
+Pedro Neto,Portugal,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,60000000,26,23,FWD,Chelsea FC,1,transfermarkt_market_value,9.1764
+Francisco Conceição,Portugal,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,30000000,23,15,FWD,Juventus FC,1,transfermarkt_market_value,8.7409
+João Félix,Portugal,Saudi Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,25000000,26,52,FWD,Al-Nassr FC,1,transfermarkt_market_value,8.7547
+Gonçalo Ramos,Portugal,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,35000000,24,24,FWD,Paris Saint-Germain,1,transfermarkt_market_value,9.0006
+Paulinho,Portugal,Liga MX Apertura,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,6000000,33,5,FWD,Deportivo Toluca,1,transfermarkt_market_value,7.3678
+Andre Blake,Jamaica,Major League Soccer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,400000,35,94,GK,Philadelphia Union,1,transfermarkt_market_value,7.331
+Jahmali Waite,Jamaica,USL Championship,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,200000,27,17,GK,Tampa Bay Rowdies,2,transfermarkt_market_value,6.5087
+Amal Knight,Jamaica,USL League One,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,75000,32,14,GK,Greenville Triumph SC,3,transfermarkt_market_value,5.8415
+Ethan Pinnock,Jamaica,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4000000,32,28,DEF,Brentford FC,1,transfermarkt_market_value,7.9154
+Joel Latibeaudiere,Jamaica,Championship,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3000000,26,31,DEF,Coventry City,2,transfermarkt_market_value,7.5357
+Amari'i Bell,Jamaica,Championship,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1000000,31,31,DEF,Charlton Athletic,2,transfermarkt_market_value,6.9121
+Ian Fray,Jamaica,Major League Soccer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,500000,23,4,DEF,Inter Miami CF,1,transfermarkt_market_value,6.8642
+Damion Lowe,Jamaica,Super League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,300000,32,79,DEF,Dewa United Banten FC,1,transfermarkt_market_value,6.9515
+Richard King,Jamaica,Scottish Premiership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,250000,24,40,DEF,St. Mirren FC,1,transfermarkt_market_value,7.1413
+Kyle Ming,Jamaica,Jamaica Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,150000,27,6,DEF,Mount Pleasant FA,1,transfermarkt_market_value,6.6418
+Ronaldo Webster,Jamaica,Prva Makedonska Fudbalska Liga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,600000,24,5,DEF,Shkendija Tetovo,1,transfermarkt_market_value,7.0848
+Isaac Hayden,Jamaica,Championship,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,600000,31,14,MID,Queens Park Rangers,2,transfermarkt_market_value,6.5987
+Kevon Lambert,Jamaica,USL Championship,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,200000,29,29,MID,Louisville City FC,2,transfermarkt_market_value,6.6029
+Andre Brooks,Jamaica,Championship,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,5000000,22,1,MID,Sheffield United,2,transfermarkt_market_value,6.9483
+Karoy Anderson,Jamaica,League One,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,350000,21,19,MID,Blackpool FC,3,transfermarkt_market_value,6.0434
+Tyrese Hall,Jamaica,League Two,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,100000,20,1,MID,Notts County,4,transfermarkt_market_value,4.843
+Ephron Mason-Clark,Jamaica,Championship,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,10000000,26,2,MID,Coventry City,2,transfermarkt_market_value,7.5088
+Bobby De Cordova-Reid,Jamaica,Championship,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1000000,33,45,MID,Leicester City,2,transfermarkt_market_value,6.729
+Kasey Palmer,Jamaica,League One,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,900000,29,23,MID,Luton Town,3,transfermarkt_market_value,6.7732
+Demarai Gray,Jamaica,Championship,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3500000,29,29,FWD,Birmingham City,2,transfermarkt_market_value,7.5762
+Tyreece Campbell,Jamaica,Championship,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1500000,22,8,FWD,Charlton Athletic,2,transfermarkt_market_value,6.8161
+Renaldo Cephas,Jamaica,Premier Liga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,900000,26,28,FWD,FC Pari Nizhniy Novgorod,1,transfermarkt_market_value,7.5131
+Leon Bailey,Jamaica,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,16000000,28,41,FWD,Aston Villa,1,transfermarkt_market_value,8.8301
+Norman Campbell,Jamaica,J1 100 Year Vision League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1000000,26,8,FWD,V-Varen Nagasaki,1,transfermarkt_market_value,7.3332
+Bailey Cadamarteri,Jamaica,Championship,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1500000,20,6,FWD,Wrexham AFC,2,transfermarkt_market_value,6.5198
+Jamal Lowe,Jamaica,Championship,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,800000,31,10,FWD,Sheffield Wednesday,2,transfermarkt_market_value,6.6393
+Dwight Merrick,Jamaica,Jamaica Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,22,0,FWD,Montego Bay United FC,1,transfermarkt_market_value,1.98
+Abduvokhid Nematov,Uzbekistan,O'zbekiston Superligasi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1500000,25,13,GK,Nasaf Qarshi,1,transfermarkt_market_value,7.4276
+Botirali Ergashev,Uzbekistan,O'zbekiston Superligasi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,500000,30,4,GK,Neftchi Fergana,1,transfermarkt_market_value,6.9892
+Utkir Yusupov,Uzbekistan,O'zbekiston Superligasi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,500000,35,44,GK,Navbahor Namangan,1,transfermarkt_market_value,7.2692
+Abdukodir Khusanov,Uzbekistan,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,35000000,22,25,DEF,Manchester City,1,transfermarkt_market_value,8.7578
+Rustam Ashurmatov,Uzbekistan,Persian Gulf Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,700000,29,49,DEF,Esteghlal FC,1,transfermarkt_market_value,7.528
+Mukhammadkodir Khamraliev,Uzbekistan,O'zbekiston Superligasi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,650000,24,7,DEF,Pakhtakor Tashkent,1,transfermarkt_market_value,7.165
+Jakhongir Urozov,Uzbekistan,O'zbekiston Superligasi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,600000,22,2,DEF,Dinamo Samarqand,1,transfermarkt_market_value,6.707
+Umar Eshmurodov,Uzbekistan,O'zbekiston Superligasi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,500000,33,39,DEF,Nasaf Qarshi,1,transfermarkt_market_value,6.8725
+Mukhammadrasul Abdumazhidov,Uzbekistan,O'zbekiston Superligasi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,500000,21,0,DEF,Pakhtakor Tashkent,1,transfermarkt_market_value,6.3175
+Sherzod Nasrullaev,Uzbekistan,O'zbekiston Superligasi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1200000,27,37,DEF,Pakhtakor Tashkent,1,transfermarkt_market_value,7.6607
+Farrukh Sayfiev,Uzbekistan,O'zbekiston Superligasi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,250000,35,66,DEF,Neftchi Fergana,1,transfermarkt_market_value,6.5318
+Khozhiakbar Alizhonov,Uzbekistan,O'zbekiston Superligasi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1200000,29,52,DEF,Pakhtakor Tashkent,1,transfermarkt_market_value,7.7221
+Bekhruz Karimov,Uzbekistan,O'zbekiston Superligasi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,250000,18,2,DEF,Surkhon Termiz,1,transfermarkt_market_value,6.0093
+Odildzhon Khamrobekov,Uzbekistan,Persian Gulf Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1000000,30,73,MID,Tractor FC,1,transfermarkt_market_value,7.5966
+Umarali Rakhmonaliev,Uzbekistan,Premyer Liqa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,800000,22,1,MID,Sabah FK,1,transfermarkt_market_value,6.7301
+Aziz Ganiev,Uzbekistan,UAE Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2200000,28,22,MID,Al-Bataeh CSC,1,transfermarkt_market_value,7.7743
+Otabek Shukurov,Uzbekistan,UAE Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1600000,29,87,MID,FC Baniyas,1,transfermarkt_market_value,7.9134
+Akmal Mozgovoy,Uzbekistan,O'zbekiston Superligasi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1300000,27,23,MID,Pakhtakor Tashkent,1,transfermarkt_market_value,7.6033
+Ibrokhim Ibrokhimov,Uzbekistan,O'zbekiston Superligasi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,400000,25,0,MID,Pakhtakor Tashkent,1,transfermarkt_market_value,6.6166
+Jamshid Iskanderov,Uzbekistan,O'zbekiston Superligasi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1000000,32,44,MID,Neftchi Fergana,1,transfermarkt_market_value,7.2549
+Oston Urunov,Uzbekistan,Persian Gulf Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2000000,25,41,FWD,Persepolis FC,1,transfermarkt_market_value,7.8529
+Alisher Odilov,Uzbekistan,O'zbekiston Superligasi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,700000,24,3,FWD,Neftchi Fergana,1,transfermarkt_market_value,7.0625
+Dostonbek Khamdamov,Uzbekistan,O'zbekiston Superligasi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,600000,29,36,FWD,Pakhtakor Tashkent,1,transfermarkt_market_value,7.4201
+Eldor Shomurodov,Uzbekistan,Süper Lig,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,7000000,30,90,FWD,Basaksehir FK,1,transfermarkt_market_value,8.2965
+Igor Sergeev,Uzbekistan,Persian Gulf Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1200000,32,82,FWD,Persepolis FC,1,transfermarkt_market_value,7.4298
+Sherzod Temirov,Uzbekistan,Iraq Stars League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,600000,27,3,FWD,Erbil SC,1,transfermarkt_market_value,7.01
+Álvaro Montero,Colombia,Torneo Apertura ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2500000,31,11,GK,CA Vélez Sarsfield,1,transfermarkt_market_value,7.6979
+Camilo Vargas,Colombia,Liga MX Apertura,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,500000,37,40,GK,Atlas Guadalajara,1,transfermarkt_market_value,7.002
+David Ospina,Colombia,Liga DIMAYOR Apertura,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,200000,37,130,GK,Atlético Nacional,1,transfermarkt_market_value,6.9046
+Jhon Lucumí,Colombia,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,25000000,27,35,DEF,Bologna FC 1909,1,transfermarkt_market_value,8.9534
+Davinson Sánchez,Colombia,Süper Lig,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,18000000,29,77,DEF,Galatasaray,1,transfermarkt_market_value,8.7142
+Yerson Mosquera,Colombia,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,12000000,24,4,DEF,Wolverhampton Wanderers,1,transfermarkt_market_value,8.3399
+Juan Cabal,Colombia,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,9000000,25,3,DEF,Juventus FC,1,transfermarkt_market_value,8.201
+Deiver Machado,Colombia,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2000000,32,14,DEF,FC Nantes,1,transfermarkt_market_value,7.5581
+Johan Mojica,Colombia,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1800000,33,43,DEF,RCD Mallorca,1,transfermarkt_market_value,7.5957
+Daniel Muñoz,Colombia,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,27000000,29,44,DEF,Crystal Palace,1,transfermarkt_market_value,9.0207
+Santiago Arias,Colombia,Torneo Apertura ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1500000,34,66,DEF,CA Independiente,1,transfermarkt_market_value,7.2162
+Richard Ríos,Colombia,Liga Portugal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,22000000,25,30,MID,SL Benfica,1,transfermarkt_market_value,8.6124
+Jefferson Lerma,Colombia,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,8000000,31,64,MID,Crystal Palace,1,transfermarkt_market_value,8.4248
+Kevin Castaño,Colombia,Torneo Apertura ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,6500000,25,24,MID,CA River Plate,1,transfermarkt_market_value,8.1581
+Gustavo Puerta,Colombia,LaLiga2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,5000000,22,4,MID,Racing Santander,2,transfermarkt_market_value,7.1172
+Jorge Carrascal,Colombia,Campeonato Brasileiro Série A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,11000000,27,22,MID,CR Flamengo,1,transfermarkt_market_value,8.3216
+James Rodríguez,Colombia,Major League Soccer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2000000,34,124,MID,Minnesota United FC,1,transfermarkt_market_value,7.4289
+Juan Fernando Quintero,Colombia,Torneo Apertura ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2000000,33,47,MID,CA River Plate,1,transfermarkt_market_value,7.3775
+Luis Díaz,Colombia,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,70000000,29,72,FWD,Bayern Munich,1,transfermarkt_market_value,9.4339
+Andrés Gómez,Colombia,Campeonato Brasileiro Série A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,8000000,23,6,FWD,Clube de Regatas Vasco da Gama,1,transfermarkt_market_value,7.8691
+Jáminton Campaz,Colombia,Torneo Apertura ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,5500000,25,9,FWD,CA Rosario Central,1,transfermarkt_market_value,7.9324
+Johan Carbonero,Colombia,Campeonato Brasileiro Série A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4000000,26,2,FWD,Sport Club Internacional,1,transfermarkt_market_value,7.6022
+Jhon Arias,Colombia,Campeonato Brasileiro Série A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,15000000,28,36,FWD,Sociedade Esportiva Palmeiras,1,transfermarkt_market_value,8.5147
+Luis Suárez,Colombia,Liga Portugal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,28000000,28,10,FWD,Sporting CP,1,transfermarkt_market_value,8.5034
+Jhon Córdoba,Colombia,Premier Liga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,10000000,32,21,FWD,FC Krasnodar,1,transfermarkt_market_value,7.906
+Rafael Borré,Colombia,Campeonato Brasileiro Série A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4000000,30,44,FWD,Sport Club Internacional,1,transfermarkt_market_value,7.9763
+Dean Henderson,England,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,28000000,29,4,GK,Crystal Palace,1,transfermarkt_market_value,8.6281
+James Trafford,England,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,25000000,23,1,GK,Manchester City,1,transfermarkt_market_value,8.0456
+Jordan Pickford,England,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,15000000,32,82,GK,Everton FC,1,transfermarkt_market_value,8.9337
+Aaron Ramsdale,England,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,12000000,27,5,GK,Newcastle United,1,transfermarkt_market_value,8.3735
+Jason Steele,England,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,750000,35,0,GK,Brighton & Hove Albion,1,transfermarkt_market_value,6.9754
+Marc Guéhi,England,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,65000000,25,27,DEF,Manchester City,1,transfermarkt_market_value,9.232
+Ezri Konsa,England,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,40000000,28,18,DEF,Aston Villa,1,transfermarkt_market_value,8.9954
+Fikayo Tomori,England,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,20000000,28,6,DEF,AC Milan,1,transfermarkt_market_value,8.5757
+John Stones,England,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,15000000,31,87,DEF,Manchester City,1,transfermarkt_market_value,8.6945
+Harry Maguire,England,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,10000000,33,66,DEF,Manchester United,1,transfermarkt_market_value,8.2563
+Dan Burn,England,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,5000000,33,6,DEF,Newcastle United,1,transfermarkt_market_value,7.6042
+Nico O'Reilly,England,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,50000000,21,3,DEF,Manchester City,1,transfermarkt_market_value,8.4091
+Lewis Hall,England,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,35000000,21,4,DEF,Newcastle United,1,transfermarkt_market_value,8.3289
+Djed Spence,England,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,30000000,25,4,DEF,Tottenham Hotspur,1,transfermarkt_market_value,8.6515
+Tino Livramento,England,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,40000000,23,5,DEF,Newcastle United,1,transfermarkt_market_value,8.658
+Ben White,England,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,30000000,28,6,DEF,Arsenal FC,1,transfermarkt_market_value,8.7135
+Adam Wharton,England,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,60000000,22,4,MID,Crystal Palace,1,transfermarkt_market_value,8.6372
+James Garner,England,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,35000000,25,2,MID,Everton FC,1,transfermarkt_market_value,8.6098
+Jordan Henderson,England,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2000000,35,88,MID,Brentford FC,1,transfermarkt_market_value,7.5613
+Declan Rice,England,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,120000000,27,72,MID,Arsenal FC,1,transfermarkt_market_value,9.6172
+Elliot Anderson,England,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,60000000,23,7,MID,Nottingham Forest,1,transfermarkt_market_value,8.8489
+Kobbie Mainoo,England,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,50000000,21,12,MID,Manchester United,1,transfermarkt_market_value,8.6264
+Jude Bellingham,England,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,140000000,22,46,MID,Real Madrid,1,transfermarkt_market_value,9.3384
+Cole Palmer,England,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,110000000,23,14,MID,Chelsea FC,1,transfermarkt_market_value,9.1709
+Phil Foden,England,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,80000000,25,49,MID,Manchester City,1,transfermarkt_market_value,9.4095
+Morgan Rogers,England,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,80000000,23,13,MID,Aston Villa,1,transfermarkt_market_value,9.0499
+Anthony Gordon,England,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,60000000,25,17,FWD,Newcastle United,1,transfermarkt_market_value,9.1234
+Marcus Rashford,England,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,40000000,28,70,FWD,FC Barcelona,1,transfermarkt_market_value,9.2384
+Harvey Barnes,England,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,32000000,28,2,FWD,Newcastle United,1,transfermarkt_market_value,8.5793
+Bukayo Saka,England,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,120000000,24,48,FWD,Arsenal FC,1,transfermarkt_market_value,9.5437
+Noni Madueke,England,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,50000000,24,10,FWD,Arsenal FC,1,transfermarkt_market_value,8.9706
+Jarrod Bowen,England,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,35000000,29,22,FWD,West Ham United,1,transfermarkt_market_value,8.9852
+Harry Kane,England,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,65000000,32,112,FWD,Bayern Munich,1,transfermarkt_market_value,9.1142
+Dominic Solanke,England,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,35000000,28,5,FWD,Tottenham Hotspur,1,transfermarkt_market_value,8.7376
+Dominic Calvert-Lewin,England,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,22000000,29,12,FWD,Leeds United,1,transfermarkt_market_value,8.7222
+Dominik Livakovic,Croatia,SuperSport HNL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4000000,31,73,GK,GNK Dinamo Zagreb,1,transfermarkt_market_value,8.193
+Ivor Pandur,Croatia,Championship,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3500000,26,0,GK,Hull City,2,transfermarkt_market_value,6.9492
+Karlo Letica,Croatia,Super League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1500000,29,0,GK,FC Lausanne-Sport,1,transfermarkt_market_value,7.0661
+Luka Vuskovic,Croatia,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,60000000,19,4,DEF,Hamburger SV,1,transfermarkt_market_value,8.2622
+Josip Sutalo,Croatia,Eredivisie,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,15000000,26,31,DEF,Ajax Amsterdam,1,transfermarkt_market_value,8.488
+Marin Pongracic,Croatia,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,7500000,28,18,DEF,ACF Fiorentina,1,transfermarkt_market_value,8.4262
+Martin Erlić,Croatia,Superliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4000000,28,12,DEF,FC Midtjylland,1,transfermarkt_market_value,7.8725
+Duje Caleta-Car,Croatia,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3000000,29,38,DEF,Real Sociedad,1,transfermarkt_market_value,8.2471
+Josip Stanisic,Croatia,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,35000000,26,29,DEF,Bayern Munich,1,transfermarkt_market_value,9.0342
+Ivan Smolcic,Croatia,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2500000,25,2,DEF,Como 1907,1,transfermarkt_market_value,7.7123
+Nikola Moro,Croatia,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,6500000,28,9,MID,Bologna FC 1909,1,transfermarkt_market_value,8.2592
+Kristijan Jakic,Croatia,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,6000000,28,16,MID,FC Augsburg,1,transfermarkt_market_value,8.3298
+Petar Sučić,Croatia,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,30000000,22,15,MID,Inter Milan,1,transfermarkt_market_value,8.6159
+Luka Sucic,Croatia,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,10000000,23,19,MID,Real Sociedad,1,transfermarkt_market_value,8.4085
+Mario Pašalić,Croatia,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,7000000,31,83,MID,Atalanta BC,1,transfermarkt_market_value,8.4267
+Luka Modrić,Croatia,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4000000,40,196,MID,AC Milan,1,transfermarkt_market_value,7.9435
+Martin Baturina,Croatia,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,24000000,23,17,MID,Como 1907,1,transfermarkt_market_value,8.6868
+Lovro Majer,Croatia,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,10000000,28,38,MID,VfL Wolfsburg,1,transfermarkt_market_value,8.6566
+Nikola Vlašić,Croatia,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,9000000,28,61,MID,Torino FC,1,transfermarkt_market_value,8.7062
+Toni Fruk,Croatia,SuperSport HNL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,9000000,25,7,MID,HNK Rijeka,1,transfermarkt_market_value,8.0587
+Andrej Kramaric,Croatia,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3000000,34,114,MID,TSG 1899 Hoffenheim,1,transfermarkt_market_value,7.8215
+Ivan Perišić,Croatia,Eredivisie,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1300000,37,152,FWD,PSV Eindhoven,1,transfermarkt_market_value,7.2447
+Marco Pašalić,Croatia,Major League Soccer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,6500000,25,13,FWD,Orlando City SC,1,transfermarkt_market_value,8.0512
+Igor Matanovic,Croatia,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,10000000,23,8,FWD,SC Freiburg,1,transfermarkt_market_value,8.2613
+Petar Musa,Croatia,Major League Soccer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,8000000,28,10,FWD,FC Dallas,1,transfermarkt_market_value,8.0774
+Ante Budimir,Croatia,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3000000,34,36,FWD,CA Osasuna,1,transfermarkt_market_value,7.6124
+Lawrence Ati Zigi,Ghana,Super League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1500000,29,28,GK,FC St. Gallen 1879,1,transfermarkt_market_value,7.6868
+Joseph Anang,Ghana,League of Ireland Premier Division,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,275000,25,1,GK,St. Patrick's Athletic,1,transfermarkt_market_value,6.492
+Benjamin Asare,Ghana,Ghana Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,100000,33,9,GK,Hearts of Oak,1,transfermarkt_market_value,6.5696
+Kojo Peprah Oppong,Ghana,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,10000000,21,4,DEF,OGC Nice,1,transfermarkt_market_value,7.9029
+Jonas Adjetey,Ghana,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,7000000,22,9,DEF,VfL Wolfsburg,1,transfermarkt_market_value,8.0344
+Jerome Opoku,Ghana,Süper Lig,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,5000000,27,10,DEF,Basaksehir FK,1,transfermarkt_market_value,7.9175
+Alexander Djiku,Ghana,Premier Liga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4000000,31,38,DEF,Spartak Moscow,1,transfermarkt_market_value,7.825
+Patric Pfeiffer,Ghana,2. Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1800000,26,1,DEF,SV Darmstadt 98,2,transfermarkt_market_value,6.8509
+Derrick Luckassen,Ghana,Cyprus League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1000000,30,1,DEF,Pafos FC,1,transfermarkt_market_value,6.931
+Derrick Köhn,Ghana,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4000000,27,3,DEF,1.FC Union Berlin,1,transfermarkt_market_value,7.9252
+Gideon Mensah,Ghana,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3500000,27,39,DEF,AJ Auxerre,1,transfermarkt_market_value,8.3042
+Marvin Senaya,Ghana,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3000000,25,1,DEF,AJ Auxerre,1,transfermarkt_market_value,7.6996
+Ibrahim Sulemana,Ghana,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,6000000,22,7,MID,Cagliari Calcio,1,transfermarkt_market_value,7.9408
+Elisha Owusu,Ghana,Ligue 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3500000,28,19,MID,AJ Auxerre,1,transfermarkt_market_value,8.1765
+Thomas Partey,Ghana,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2500000,32,56,MID,Villarreal CF,1,transfermarkt_market_value,7.8801
+Caleb Yirenkyi,Ghana,Superliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,6000000,20,10,MID,FC Nordsjaelland,1,transfermarkt_market_value,7.4795
+Kwasi Sibo,Ghana,LaLiga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1500000,27,7,MID,Real Oviedo,1,transfermarkt_market_value,7.7194
+Kamaldeen Sulemana,Ghana,Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,18000000,24,27,FWD,Atalanta BC,1,transfermarkt_market_value,8.7954
+Christopher Bonsu Baah,Ghana,Saudi Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,12000000,21,8,FWD,Al-Qadsiah FC,1,transfermarkt_market_value,7.8033
+Antoine Semenyo,Ghana,Premier League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,75000000,26,34,FWD,Manchester City,1,transfermarkt_market_value,9.3218
+Abdul Fatawu,Ghana,Championship,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,24000000,22,27,FWD,Leicester City,2,transfermarkt_market_value,7.9682
+Dan Agyei,Ghana,Süper Lig,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,800000,28,0,FWD,Kocaelispor,1,transfermarkt_market_value,6.8523
+Ransford Königsdörffer,Ghana,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4000000,24,7,FWD,Hamburger SV,1,transfermarkt_market_value,8.053
+Prince Adu,Ghana,Chance Liga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3000000,22,4,FWD,FC Viktoria Plzen,1,transfermarkt_market_value,7.3485
+Jordan Ayew,Ghana,Championship,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1800000,34,117,FWD,Leicester City,2,transfermarkt_market_value,6.9775
+Orlando Mosquera,Panama,Saudi Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,650000,31,46,GK,Al-Fayha FC,1,transfermarkt_market_value,7.4914
+César Samudio,Panama,Liga Nacional Clausura,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,300000,32,4,GK,CD Marathón,1,transfermarkt_market_value,6.8155
+Luis Mejía,Panama,Liga AUF Apertura,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,250000,35,56,GK,Club Nacional,1,transfermarkt_market_value,7.077
+José Córdoba,Panama,Championship,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4500000,24,30,DEF,Norwich City,2,transfermarkt_market_value,7.6677
+Andrés Andrade,Panama,Bundesliga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2000000,27,47,DEF,LASK,1,transfermarkt_market_value,8.1475
+Jiovany Ramos,Panama,Liga FUTVE Apertura,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,400000,29,20,DEF,Academia Puerto Cabello,1,transfermarkt_market_value,7.1778
+Roderick Miller,Panama,Premyer Liqa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,200000,34,47,DEF,Turan-Tovuz IK,1,transfermarkt_market_value,6.4695
+Martín Krug,Panama,Tercera Federación - Grupo 6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,50000,19,2,DEF,Atlético Levante UD,4,transfermarkt_market_value,4.557
+Jorge Gutiérrez,Panama,Liga FUTVE Apertura,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,750000,27,17,DEF,Deportivo La Guaira,1,transfermarkt_market_value,7.3632
+Éric Davis,Panama,Liga Panameña de Fútbol Clausura,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,50000,35,104,DEF,CD Plaza Amador,1,transfermarkt_market_value,6.0673
+Amir Murillo,Panama,Süper Lig,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,8000000,30,91,DEF,Besiktas JK,1,transfermarkt_market_value,8.3439
+César Blackman,Panama,Niké Liga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2500000,28,37,DEF,Slovan Bratislava,1,transfermarkt_market_value,7.9103
+Cristian Martínez,Panama,Ligat ha'Al,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,750000,29,63,MID,Ironi Kiryat Shmona,1,transfermarkt_market_value,7.597
+Carlos Harvey,Panama,Major League Soccer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,600000,26,25,MID,Minnesota United FC,1,transfermarkt_market_value,7.3551
+Aníbal Godoy,Panama,Major League Soccer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,100000,36,157,MID,San Diego FC,1,transfermarkt_market_value,6.3784
+Adalberto Carrasquilla,Panama,Liga MX Apertura,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4000000,27,72,MID,UNAM Pumas,1,transfermarkt_market_value,8.1905
+José Luis Rodríguez,Panama,Liga MX Apertura,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2500000,27,67,FWD,FC Juárez,1,transfermarkt_market_value,8.0176
+Ismael Díaz,Panama,Liga MX Apertura,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1800000,28,53,FWD,Club León FC,1,transfermarkt_market_value,7.8634
+Yoel Bárcenas,Panama,Liga MX Apertura,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,700000,32,100,FWD,Mazatlán FC,1,transfermarkt_market_value,7.2826
+César Yanis,Panama,Liga de Primera ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,350000,30,53,FWD,CD Cobresal,1,transfermarkt_market_value,7.1815
+Kadir Barría,Panama,Campeonato Brasileiro Série A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1000000,18,3,FWD,Botafogo de Futebol e Regatas,1,transfermarkt_market_value,6.5338
+José Fajardo,Panama,LigaPro Serie A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,600000,32,65,FWD,CD Universidad Católica,1,transfermarkt_market_value,7.1518
+Cecilio Waterman,Panama,Liga de Primera ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,350000,35,52,FWD,Universidad de Concepción,1,transfermarkt_market_value,6.6031
+Cristiano Ronaldo,Portugal,Saudi Pro League,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,12000000,41,226,FWD,Al-Nassr FC,1,transfermarkt_market_value,8.0732

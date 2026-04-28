@@ -1,0 +1,59 @@
+data:
+  match_history_years: 8              # Pull match data from 2018 onwards
+  recency_halflife_days: 365          # Exponential decay: matches ~1yr ago = 0.5 weight
+  min_matches_for_team: 10            # Exclude teams with < 10 matches in dataset
+  friendly_weight: 0.4                # Friendlies count as 40% of a competitive match
+  qualifying_weight: 0.8
+  tournament_weight: 1.0
+
+scraping:
+  transfermarkt:
+    request_delay_seconds: 2.0
+    team_delay_seconds: 1.0
+    profile_delay_seconds: 0.5
+    api_delay_seconds: 0.02
+    profile_enrichment_source: api    # Use Transfermarkt JSON API; profile pages often trigger human verification
+    enrich_player_profiles: true      # Enrich players with caps, current club league, and league tier
+    include_supplemental_players: true # Add configured recent national players missing from the squad page
+
+features:
+  rolling_window_matches: 20          # Compute rolling stats over last N matches
+  elo_k_factor: 32                    # ELO K-factor for international football
+  elo_base: 1500                      # Starting ELO for any team
+  squad_top_n_players: 23             # Use top 23 players per squad
+
+model:
+  test_size: 0.2
+  random_state: 42
+  cv_folds: 5
+  xgb_params:
+    n_estimators: 500
+    max_depth: 6
+    learning_rate: 0.05
+    subsample: 0.8
+    colsample_bytree: 0.8
+    min_child_weight: 3
+    gamma: 0.1
+    reg_alpha: 0.1
+    reg_lambda: 1.0
+  optuna_trials: 100                  # Hyperparameter search trials
+
+simulation:
+  n_simulations: 100000
+  random_seed: 2026
+  group_stage_format:
+    teams_per_group: 4
+    groups: 12
+    advance_per_group: 2
+    best_third_place: 8               # 2026 WC: 8 best 3rd-place teams also advance
+
+api:
+  host: "0.0.0.0"
+  port: 8000
+  reload: false
+
+paths:
+  raw_data: "data/raw/"
+  processed_data: "data/processed/"
+  models: "models/"
+  external: "data/external/"
