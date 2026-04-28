@@ -1,0 +1,13 @@
+{
+  "name": "wc-predictor",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static Vercel web app for the FIFA 2026 World Cup predictor.",
+  "scripts": {
+    "build": "node scripts/build-vercel.js",
+    "dev": "npm run build && node scripts/serve-static.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

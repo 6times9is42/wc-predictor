@@ -11,7 +11,7 @@ The current project no longer uses fabricated random player ratings or squads. S
 3. [Feature Engineering](#feature-engineering)
 4. [Modeling](#modeling)
 5. [Tournament Simulation](#tournament-simulation)
-6. [API and Dashboard](#api-and-dashboard)
+6. [Vercel Web App](#vercel-web-app)
 7. [Generated Artifacts](#generated-artifacts)
 8. [Installation](#installation)
 9. [Usage](#usage)
@@ -39,7 +39,7 @@ Precomputed H2H matchup predictions
 100,000-run Monte Carlo tournament simulation
           |
           v
-FastAPI backend + Streamlit dashboard
+Vercel static web app
 ```
 
 The main layers are:
@@ -48,8 +48,9 @@ The main layers are:
 - `src/features`: team-level and matchup-level feature generation.
 - `src/model`: match outcome and expected-goals inference.
 - `src/simulation`: official 2026 bracket simulation and results aggregation.
-- `src/api`: FastAPI endpoints for teams, matchups, explanations, groups, and tournament results.
-- `src/dashboard`: Streamlit app for probabilities, team deep dives, SHAP explanations, group simulation, and H2H matchups.
+- `src/api`: optional local FastAPI endpoints for teams, matchups, explanations, groups, and tournament results.
+- `web`: Vercel-ready static web app for probabilities, team deep dives, SHAP explanations, group simulation, and H2H matchups.
+- `scripts/export_vercel_data.py`: exports model outputs into static JSON files used by the Vercel app.
 
 ## Data Pipeline
 
@@ -107,7 +108,7 @@ Current model artifacts include:
 - `models/xg_home_model.pkl`
 - `models/xg_away_model.pkl`
 
-SHAP explanations are available through the API and dashboard. Team-specific SHAP now handles the model's multiclass SHAP tensor correctly and explains the selected team against a median-strength opponent. Positive and negative drivers are not forced to be balanced; very strong or weak teams can naturally show mostly positive or mostly negative drivers.
+SHAP explanations are available in the Vercel app from pre-exported JSON. Team-specific SHAP handles the model's multiclass SHAP tensor correctly and explains the selected team against a median-strength opponent. Positive and negative drivers are not forced to be balanced; very strong or weak teams can naturally show mostly positive or mostly negative drivers.
 
 ## Tournament Simulation
 
@@ -129,49 +130,48 @@ The production simulation is run at 100,000 iterations. Results are saved to:
 data/processed/simulation_results.csv
 ```
 
-## API and Dashboard
+## Vercel Web App
 
-### FastAPI
+The production web app is a static Vercel deployment. It does not run Streamlit or the Python API at request time. Instead, the current model outputs are exported to JSON under `web/public/data`, and the browser app renders:
 
-Run the API with:
+- Tournament probability chart sorted by descending win probability, using one country color.
+- Team Deep Dive with ELO, squad strength, recent win rate, tournament path, and SHAP drivers.
+- Model Explainability with global feature importances and team-specific SHAP analysis.
+- Head-to-Head Matchup Predictor with probability donut, key factors, expected goals, and no duplicate-team selection.
+- Group Simulator with browser-side Monte Carlo logic for expected standings, R32 qualification probability, and top-two finish probability.
 
-```bash
-uvicorn src.api.main:app --reload --port 8000
+Vercel deployment files:
+
+```text
+package.json
+vercel.json
+web/index.html
+web/styles.css
+web/app.js
+web/public/data/*.json
 ```
 
-Useful endpoints:
+Import the repository into Vercel from the repo root. The included `vercel.json` sets `npm run build` as the build command and `dist` as the output directory.
 
-- `GET /teams/{team_name}`: team-level details.
-- `GET /predictions/tournament`: latest tournament simulation table.
-- `GET /predictions/match?home=Spain&away=France`: H2H matchup prediction.
-- `GET /predictions/group/F`: quick group simulation with R32 qualification probabilities.
-- `GET /predictions/explain/Spain`: SHAP explanation for a team.
-- `POST /simulate`: trigger a simulation job.
-- `GET /simulate/status/{job_id}`: check simulation job status.
-
-The H2H endpoint rejects identical teams, and the dashboard prevents selecting the same team in both H2H dropdowns.
-
-### Streamlit Dashboard
-
-Run the dashboard with:
+Local preview:
 
 ```bash
-streamlit run src/dashboard/app.py
+npm run dev
 ```
 
 Open:
 
 ```text
-http://localhost:8501
+http://localhost:4173
 ```
 
-Dashboard views:
+### Optional Local API
 
-- Tournament probability chart sorted by descending win probability, using a single color for all countries.
-- Team Deep Dive with ELO, squad strength, recent win rate, and SHAP drivers.
-- Model Explainability with global feature importances and team-specific SHAP analysis.
-- Head-to-Head Matchup Predictor with probability donut, key factors, and expected goals.
-- Group Simulator showing expected standings, average points, R32 qualification probability, and top-two finish probability.
+The FastAPI backend remains available for local experimentation and regenerating explanations:
+
+```bash
+uvicorn src.api.main:app --reload --port 8000
+```
 
 ## Generated Artifacts
 
@@ -185,6 +185,12 @@ data/processed/team_features.csv
 data/processed/matchup_features.csv
 data/processed/match_predictions.csv
 data/processed/simulation_results.csv
+web/public/data/simulation_results.json
+web/public/data/teams.json
+web/public/data/match_predictions.json
+web/public/data/groups.json
+web/public/data/feature_importance.json
+web/public/data/explanations.json
 models/*.pkl
 ```
 
@@ -205,6 +211,24 @@ If using `football-data.org`, add your API key to `.env`.
 
 ## Usage
 
+Build the Vercel static app:
+
+```bash
+npm run build
+```
+
+Preview the Vercel app locally:
+
+```bash
+npm run dev
+```
+
+Regenerate the static JSON data after retraining or rerunning simulations:
+
+```bash
+PYTHONPATH=. python scripts/export_vercel_data.py
+```
+
 Run the full pipeline:
 
 ```bash
@@ -217,11 +241,10 @@ Run only the 100,000-simulation Monte Carlo step:
 PYTHONPATH=. python src/simulation/monte_carlo.py
 ```
 
-Run API and dashboard:
+Run the optional local API:
 
 ```bash
 uvicorn src.api.main:app --reload --port 8000
-streamlit run src/dashboard/app.py
 ```
 
 For local virtualenv usage in this repo, the commands are typically:
@@ -229,7 +252,7 @@ For local virtualenv usage in this repo, the commands are typically:
 ```bash
 PYTHONPATH=. venv/bin/python src/simulation/monte_carlo.py
 PYTHONPATH=. venv/bin/uvicorn src.api.main:app --reload --port 8000
-venv/bin/streamlit run src/dashboard/app.py
+PYTHONPATH=. venv/bin/python scripts/export_vercel_data.py
 ```
 
 ## Testing
@@ -253,6 +276,7 @@ The suite covers:
 - Model prediction behavior.
 - Simulation primitives and aggregation.
 - Transfermarkt parser behavior.
+- Vercel static build via `npm run build`.
 
 The current project test suite passes with:
 
@@ -276,3 +300,5 @@ This is a probabilistic model, not an oracle. It cannot know future injuries, ta
 The Transfermarkt-derived ratings are deterministic and data-driven, but they are still engineered proxies rather than official player ratings. Market value can reflect age, contract, league visibility, and hype as well as ability, so it should be interpreted as one signal among many.
 
 The group simulator reports Round of 32 qualification for the 2026 format, not only top-two group advancement. A team can finish third often and still have a meaningful R32 probability if its third-place record is strong enough relative to the other groups.
+
+These probabilities are for analysis and experimentation only and should not be used for gambling or financial decision-making.

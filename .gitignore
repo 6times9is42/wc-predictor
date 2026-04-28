@@ -22,6 +22,8 @@ env/
 # Local runtime output
 logs/
 *.log
+dist/
+.vercel/
 
 # OS/editor files
 .DS_Store

@@ -1,0 +1,207 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>WC 2026 Predictor</title>
+    <link rel="stylesheet" href="/styles.css">
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar">
+        <div class="brand">
+          <div class="brand-mark">26</div>
+          <div>
+            <div class="brand-title">WC Predictor</div>
+            <div class="brand-subtitle">2026 model dashboard</div>
+          </div>
+        </div>
+
+        <nav class="nav-list" aria-label="Dashboard sections">
+          <button class="nav-button is-active" type="button" data-view="tournament">Tournament</button>
+          <button class="nav-button" type="button" data-view="team">Team Deep Dive</button>
+          <button class="nav-button" type="button" data-view="matchup">Head to Head</button>
+          <button class="nav-button" type="button" data-view="group">Group Simulator</button>
+          <button class="nav-button" type="button" data-view="explain">Explainability</button>
+        </nav>
+
+        <div class="sidebar-footer">
+          <div class="small-label">Static Vercel build</div>
+          <div id="data-stamp" class="sidebar-note">Loading data...</div>
+        </div>
+      </aside>
+
+      <main class="main-panel">
+        <header class="topbar">
+          <div>
+            <div class="eyebrow">FIFA World Cup 2026</div>
+            <h1 id="view-title">Tournament probabilities</h1>
+          </div>
+          <div class="status-pill" id="status-pill">Loading</div>
+        </header>
+
+        <section class="view is-active" id="view-tournament">
+          <div class="metric-grid" id="overview-metrics"></div>
+          <div class="split-layout">
+            <section class="panel">
+              <div class="panel-heading">
+                <h2>Win Probability</h2>
+                <span>Top 16</span>
+              </div>
+              <div id="win-bars" class="bar-stack"></div>
+            </section>
+            <section class="panel">
+              <div class="panel-heading">
+                <h2>Ranked Table</h2>
+                <span>48 teams</span>
+              </div>
+              <div class="table-wrap">
+                <table>
+                  <thead>
+                    <tr>
+                      <th>Rank</th>
+                      <th>Team</th>
+                      <th>Win</th>
+                      <th>Final</th>
+                      <th>SF</th>
+                      <th>R32</th>
+                    </tr>
+                  </thead>
+                  <tbody id="ranking-table"></tbody>
+                </table>
+              </div>
+            </section>
+          </div>
+        </section>
+
+        <section class="view" id="view-team">
+          <div class="control-row">
+            <label for="team-select">Team</label>
+            <select id="team-select"></select>
+          </div>
+          <div class="metric-grid" id="team-metrics"></div>
+          <div class="split-layout">
+            <section class="panel">
+              <div class="panel-heading">
+                <h2>Tournament Path</h2>
+                <span id="team-rank-label"></span>
+              </div>
+              <div id="team-path-bars" class="bar-stack"></div>
+            </section>
+            <section class="panel">
+              <div class="panel-heading">
+                <h2>SHAP Drivers</h2>
+                <span id="team-shap-opponent"></span>
+              </div>
+              <div class="driver-columns">
+                <div>
+                  <h3>Positive</h3>
+                  <div id="team-positive-drivers" class="driver-list"></div>
+                </div>
+                <div>
+                  <h3>Negative</h3>
+                  <div id="team-negative-drivers" class="driver-list"></div>
+                </div>
+              </div>
+            </section>
+          </div>
+        </section>
+
+        <section class="view" id="view-matchup">
+          <div class="control-row two-up">
+            <div>
+              <label for="match-home">Team A</label>
+              <select id="match-home"></select>
+            </div>
+            <div>
+              <label for="match-away">Team B</label>
+              <select id="match-away"></select>
+            </div>
+          </div>
+          <div class="matchup-layout">
+            <section class="panel">
+              <div class="panel-heading">
+                <h2>Match Probability</h2>
+                <span id="match-confidence"></span>
+              </div>
+              <div class="donut-wrap">
+                <div class="donut" id="match-donut"></div>
+                <div class="donut-legend" id="match-legend"></div>
+              </div>
+            </section>
+            <section class="panel">
+              <div class="panel-heading">
+                <h2>Expected Goals</h2>
+                <span id="match-factor"></span>
+              </div>
+              <div class="metric-grid compact" id="match-metrics"></div>
+              <div id="match-prob-bars" class="bar-stack"></div>
+            </section>
+          </div>
+        </section>
+
+        <section class="view" id="view-group">
+          <div class="control-row">
+            <label for="group-select">Group</label>
+            <select id="group-select"></select>
+            <button class="primary-button" type="button" id="simulate-group-button">Run Simulation</button>
+          </div>
+          <div class="split-layout">
+            <section class="panel">
+              <div class="panel-heading">
+                <h2>Expected Standings</h2>
+                <span id="group-run-label">2500 runs</span>
+              </div>
+              <ol class="standings-list" id="group-standings"></ol>
+            </section>
+            <section class="panel">
+              <div class="panel-heading">
+                <h2>Round of 32 Probability</h2>
+                <span>Top two plus best thirds</span>
+              </div>
+              <div id="group-qual-bars" class="bar-stack"></div>
+              <div class="subsection">
+                <h3>Top-two finish</h3>
+                <div id="group-top-two-bars" class="bar-stack compact-bars"></div>
+              </div>
+            </section>
+          </div>
+        </section>
+
+        <section class="view" id="view-explain">
+          <div class="split-layout">
+            <section class="panel">
+              <div class="panel-heading">
+                <h2>Global Feature Importance</h2>
+                <span>XGBoost</span>
+              </div>
+              <div id="importance-bars" class="bar-stack"></div>
+            </section>
+            <section class="panel">
+              <div class="panel-heading">
+                <h2>Team-Specific SHAP</h2>
+                <span id="explain-shap-opponent"></span>
+              </div>
+              <div class="control-row single">
+                <label for="explain-team-select">Team</label>
+                <select id="explain-team-select"></select>
+              </div>
+              <div class="driver-columns">
+                <div>
+                  <h3>Positive</h3>
+                  <div id="explain-positive-drivers" class="driver-list"></div>
+                </div>
+                <div>
+                  <h3>Negative</h3>
+                  <div id="explain-negative-drivers" class="driver-list"></div>
+                </div>
+              </div>
+            </section>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <script src="/app.js"></script>
+  </body>
+</html>
