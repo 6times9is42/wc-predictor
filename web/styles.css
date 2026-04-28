@@ -1,6 +1,7 @@
 :root {
   color-scheme: light;
   --bg: #f5f7f2;
+  --sidebar-bg: #fbfcf8;
   --surface: #ffffff;
   --surface-strong: #f0f4ec;
   --ink: #20251f;
@@ -8,9 +9,65 @@
   --line: #d9dfd1;
   --accent: #0f766e;
   --accent-soft: #d9f0ea;
+  --accent-strong: #0d5f58;
+  --accent-text: #0c4f49;
+  --button-text: #ffffff;
   --amber: #b7791f;
   --rose: #be123c;
+  --brand-bg: #ffffff;
+  --brand-border: #cfd8c8;
+  --brand-ring: #f3f6ef;
+  --nav-active-border: #c6d8d1;
+  --status-border: #c4ddd6;
+  --status-text: #0d554e;
+  --bar-track: #e9eee4;
+  --row-line: #edf1e8;
+  --input-bg: #ffffff;
+  --input-border: #cfd8c8;
+  --positive-bg: #e5f4ee;
+  --positive-text: #075644;
+  --negative-bg: #fbe8ee;
+  --negative-text: #8f1235;
+  --error-bg: #fff1f4;
+  --error-border: #f0b4c3;
+  --error-text: #8f1235;
   --shadow: 0 18px 40px rgba(38, 48, 36, 0.08);
+}
+
+[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #101614;
+  --sidebar-bg: #121b18;
+  --surface: #18231f;
+  --surface-strong: #203029;
+  --ink: #edf6ef;
+  --muted: #9eb0a8;
+  --line: #2b3a34;
+  --accent: #2dd4bf;
+  --accent-soft: #123b35;
+  --accent-strong: #38e0cb;
+  --accent-text: #a7fff3;
+  --button-text: #06231f;
+  --amber: #fbbf24;
+  --rose: #fb7185;
+  --brand-bg: #17211d;
+  --brand-border: #33453d;
+  --brand-ring: #203029;
+  --nav-active-border: #28584f;
+  --status-border: #28584f;
+  --status-text: #a7fff3;
+  --bar-track: #26352f;
+  --row-line: #26352f;
+  --input-bg: #101614;
+  --input-border: #364841;
+  --positive-bg: #13392f;
+  --positive-text: #b8f8df;
+  --negative-bg: #40202a;
+  --negative-text: #fecdd8;
+  --error-bg: #3a1f29;
+  --error-border: #7f3347;
+  --error-text: #fecdd8;
+  --shadow: 0 18px 40px rgba(0, 0, 0, 0.32);
 }
 
 * {
@@ -44,7 +101,7 @@ select {
   flex-direction: column;
   gap: 28px;
   border-right: 1px solid var(--line);
-  background: #fbfcf8;
+  background: var(--sidebar-bg);
   padding: 28px 20px;
 }
 
@@ -59,10 +116,10 @@ select {
   width: 44px;
   height: 44px;
   place-items: center;
-  border: 1px solid #cfd8c8;
+  border: 1px solid var(--brand-border);
   border-radius: 50%;
-  background: #ffffff;
-  box-shadow: inset 0 0 0 5px #f3f6ef, 0 8px 18px rgba(38, 48, 36, 0.08);
+  background: var(--brand-bg);
+  box-shadow: inset 0 0 0 5px var(--brand-ring), 0 8px 18px rgba(38, 48, 36, 0.08);
   color: var(--ink);
   font-size: 25px;
   font-weight: 800;
@@ -109,9 +166,74 @@ select {
 
 .nav-button:hover,
 .nav-button.is-active {
-  border-color: #c6d8d1;
+  border-color: var(--nav-active-border);
   background: var(--accent-soft);
-  color: #0c4f49;
+  color: var(--accent-text);
+}
+
+.theme-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+  width: 100%;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--surface);
+  color: var(--ink);
+  cursor: pointer;
+  padding: 12px;
+  text-align: left;
+}
+
+.theme-toggle:hover {
+  border-color: var(--nav-active-border);
+}
+
+.theme-toggle-copy {
+  display: grid;
+  gap: 2px;
+}
+
+.theme-toggle-label {
+  font-weight: 800;
+}
+
+.theme-toggle-value {
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.theme-switch {
+  position: relative;
+  display: inline-flex;
+  width: 48px;
+  height: 28px;
+  flex-shrink: 0;
+  align-items: center;
+  border-radius: 999px;
+  background: var(--bar-track);
+  box-shadow: inset 0 0 0 1px var(--line);
+  transition: background 180ms ease;
+}
+
+.theme-knob {
+  width: 22px;
+  height: 22px;
+  margin-left: 3px;
+  border-radius: 50%;
+  background: var(--surface);
+  box-shadow: 0 2px 8px rgba(38, 48, 36, 0.22);
+  transition: transform 180ms ease, background 180ms ease;
+}
+
+[data-theme="dark"] .theme-switch {
+  background: var(--accent);
+}
+
+[data-theme="dark"] .theme-knob {
+  background: #06231f;
+  transform: translateX(20px);
 }
 
 .sidebar-footer {
@@ -159,10 +281,10 @@ h3 {
 }
 
 .status-pill {
-  border: 1px solid #c4ddd6;
+  border: 1px solid var(--status-border);
   border-radius: 999px;
   background: var(--accent-soft);
-  color: #0d554e;
+  color: var(--status-text);
   font-size: 13px;
   font-weight: 700;
   padding: 8px 12px;
@@ -278,7 +400,7 @@ h3 {
   height: 12px;
   overflow: hidden;
   border-radius: 999px;
-  background: #e9eee4;
+  background: var(--bar-track);
 }
 
 .bar-fill {
@@ -315,7 +437,7 @@ table {
 
 th,
 td {
-  border-bottom: 1px solid #edf1e8;
+  border-bottom: 1px solid var(--row-line);
   padding: 10px 8px;
   text-align: right;
   white-space: nowrap;
@@ -376,9 +498,9 @@ label {
 select {
   width: 100%;
   min-height: 42px;
-  border: 1px solid #cfd8c8;
+  border: 1px solid var(--input-border);
   border-radius: 8px;
-  background: #ffffff;
+  background: var(--input-bg);
   color: var(--ink);
   padding: 0 12px;
   vertical-align: middle;
@@ -386,10 +508,10 @@ select {
 
 .primary-button {
   min-height: 42px;
-  border: 1px solid #0d5f58;
+  border: 1px solid var(--accent-strong);
   border-radius: 8px;
   background: var(--accent);
-  color: #ffffff;
+  color: var(--button-text);
   cursor: pointer;
   font-weight: 800;
   line-height: 1;
@@ -397,7 +519,8 @@ select {
 }
 
 .primary-button:hover {
-  background: #0d5f58;
+  background: var(--accent-strong);
+  color: var(--button-text);
 }
 
 .driver-columns {
@@ -421,13 +544,13 @@ select {
 }
 
 .driver-item.positive {
-  background: #e5f4ee;
-  color: #075644;
+  background: var(--positive-bg);
+  color: var(--positive-text);
 }
 
 .driver-item.negative {
-  background: #fbe8ee;
-  color: #8f1235;
+  background: var(--negative-bg);
+  color: var(--negative-text);
 }
 
 .empty-note {
@@ -470,7 +593,7 @@ select {
   align-items: center;
   justify-content: space-between;
   gap: 14px;
-  border-bottom: 1px solid #edf1e8;
+  border-bottom: 1px solid var(--row-line);
   padding-bottom: 8px;
 }
 
@@ -495,7 +618,7 @@ select {
 }
 
 .standings-list li {
-  border-bottom: 1px solid #edf1e8;
+  border-bottom: 1px solid var(--row-line);
   padding: 0 0 10px 4px;
 }
 
@@ -517,10 +640,10 @@ select {
 }
 
 .error-box {
-  border: 1px solid #f0b4c3;
+  border: 1px solid var(--error-border);
   border-radius: 8px;
-  background: #fff1f4;
-  color: #8f1235;
+  background: var(--error-bg);
+  color: var(--error-text);
   padding: 14px;
 }
 

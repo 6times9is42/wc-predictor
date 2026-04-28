@@ -25,8 +25,65 @@ const colors = {
   away: "#be123c"
 };
 
+const THEME_STORAGE_KEY = "wc-predictor-theme";
+
 function byId(id) {
   return document.getElementById(id);
+}
+
+function storedTheme() {
+  try {
+    const theme = localStorage.getItem(THEME_STORAGE_KEY);
+    return theme === "dark" || theme === "light" ? theme : null;
+  } catch {
+    return null;
+  }
+}
+
+function systemTheme() {
+  return window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+}
+
+function activeTheme() {
+  return document.documentElement.dataset.theme || storedTheme() || systemTheme();
+}
+
+function applyTheme(theme) {
+  const safeTheme = theme === "dark" ? "dark" : "light";
+  const isDark = safeTheme === "dark";
+  document.documentElement.dataset.theme = safeTheme;
+
+  const toggle = byId("theme-toggle");
+  const toggleValue = byId("theme-toggle-value");
+  if (toggle) {
+    toggle.setAttribute("aria-checked", String(isDark));
+    toggle.setAttribute("aria-label", isDark ? "Turn Dark Mode Off" : "Turn Dark Mode On");
+  }
+  if (toggleValue) {
+    toggleValue.textContent = isDark ? "On" : "Off";
+  }
+}
+
+function setTheme(theme) {
+  try {
+    localStorage.setItem(THEME_STORAGE_KEY, theme);
+  } catch {
+    // The theme still applies for this page view if storage is unavailable.
+  }
+  applyTheme(theme);
+}
+
+function toggleTheme() {
+  setTheme(activeTheme() === "dark" ? "light" : "dark");
+}
+
+function syncSystemTheme() {
+  const media = window.matchMedia("(prefers-color-scheme: dark)");
+  media.addEventListener("change", event => {
+    if (!storedTheme()) {
+      applyTheme(event.matches ? "dark" : "light");
+    }
+  });
 }
 
 function pct(value, digits = 1) {
@@ -484,6 +541,8 @@ function setView(viewName) {
 }
 
 function bindEvents() {
+  byId("theme-toggle").addEventListener("click", toggleTheme);
+
   document.querySelectorAll(".nav-button").forEach(button => {
     button.addEventListener("click", () => setView(button.dataset.view));
   });
@@ -499,6 +558,8 @@ function bindEvents() {
   byId("group-select").addEventListener("change", runGroupSimulation);
 }
 
+applyTheme(activeTheme());
+syncSystemTheme();
 bindEvents();
 loadData().catch(error => {
   byId("status-pill").textContent = "Data Error";

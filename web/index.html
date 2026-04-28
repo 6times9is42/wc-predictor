@@ -4,6 +4,17 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>WC 2026 Predictor</title>
+    <script>
+      (() => {
+        try {
+          const savedTheme = localStorage.getItem("wc-predictor-theme");
+          const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+          document.documentElement.dataset.theme = savedTheme || (prefersDark ? "dark" : "light");
+        } catch {
+          document.documentElement.dataset.theme = "light";
+        }
+      })();
+    </script>
     <link rel="stylesheet" href="/styles.css">
   </head>
   <body>
@@ -24,6 +35,16 @@
           <button class="nav-button" type="button" data-view="group">Group Simulator</button>
           <button class="nav-button" type="button" data-view="explain">Explainability</button>
         </nav>
+
+        <button class="theme-toggle" type="button" id="theme-toggle" role="switch" aria-checked="false">
+          <span class="theme-toggle-copy">
+            <span class="theme-toggle-label">Dark Mode</span>
+            <span class="theme-toggle-value" id="theme-toggle-value">Off</span>
+          </span>
+          <span class="theme-switch" aria-hidden="true">
+            <span class="theme-knob"></span>
+          </span>
+        </button>
 
         <div class="sidebar-footer">
           <div class="small-label">Static Vercel Build</div>
