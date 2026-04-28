@@ -20,9 +20,9 @@ const titles = {
 };
 
 const colors = {
-  home: "#0f766e",
-  draw: "#b7791f",
-  away: "#be123c"
+  home: "var(--match-home)",
+  draw: "var(--match-draw)",
+  away: "var(--match-away)"
 };
 
 const THEME_STORAGE_KEY = "wc-predictor-theme";

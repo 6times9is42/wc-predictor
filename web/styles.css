@@ -1,73 +1,83 @@
 :root {
   color-scheme: light;
-  --bg: #f5f7f2;
-  --sidebar-bg: #fbfcf8;
+  --bg: #f6f8fb;
+  --sidebar-bg: #ffffff;
   --surface: #ffffff;
-  --surface-strong: #f0f4ec;
-  --ink: #20251f;
-  --muted: #687063;
-  --line: #d9dfd1;
-  --accent: #0f766e;
-  --accent-soft: #d9f0ea;
-  --accent-strong: #0d5f58;
-  --accent-text: #0c4f49;
+  --surface-strong: #eef4ff;
+  --ink: #172033;
+  --muted: #667085;
+  --line: #dfe5ef;
+  --accent: #2563eb;
+  --accent-soft: #e8f0ff;
+  --accent-strong: #1d4ed8;
+  --accent-text: #1e3a8a;
   --button-text: #ffffff;
-  --amber: #b7791f;
-  --rose: #be123c;
+  --amber: #d97706;
+  --rose: #e11d48;
+  --match-home: #2563eb;
+  --match-draw: #f59e0b;
+  --match-away: #e11d48;
   --brand-bg: #ffffff;
-  --brand-border: #cfd8c8;
-  --brand-ring: #f3f6ef;
-  --nav-active-border: #c6d8d1;
-  --status-border: #c4ddd6;
-  --status-text: #0d554e;
-  --bar-track: #e9eee4;
-  --row-line: #edf1e8;
+  --brand-border: #d7e0ef;
+  --brand-ring: #e8f0ff;
+  --brand-shadow: rgba(37, 99, 235, 0.13);
+  --nav-active-border: #bfd2ff;
+  --status-border: #bdd0ff;
+  --status-text: #1e3a8a;
+  --bar-track: #e8edf5;
+  --row-line: #edf1f7;
   --input-bg: #ffffff;
-  --input-border: #cfd8c8;
-  --positive-bg: #e5f4ee;
-  --positive-text: #075644;
-  --negative-bg: #fbe8ee;
-  --negative-text: #8f1235;
-  --error-bg: #fff1f4;
-  --error-border: #f0b4c3;
-  --error-text: #8f1235;
-  --shadow: 0 18px 40px rgba(38, 48, 36, 0.08);
+  --input-border: #ccd6e4;
+  --positive-bg: #dcfce7;
+  --positive-text: #166534;
+  --negative-bg: #ffe4e6;
+  --negative-text: #be123c;
+  --error-bg: #fff1f2;
+  --error-border: #fecdd3;
+  --error-text: #be123c;
+  --shadow: 0 18px 44px rgba(23, 32, 51, 0.08);
+  --knob-shadow: rgba(23, 32, 51, 0.22);
 }
 
 [data-theme="dark"] {
   color-scheme: dark;
-  --bg: #101614;
-  --sidebar-bg: #121b18;
-  --surface: #18231f;
-  --surface-strong: #203029;
-  --ink: #edf6ef;
-  --muted: #9eb0a8;
-  --line: #2b3a34;
-  --accent: #2dd4bf;
-  --accent-soft: #123b35;
-  --accent-strong: #38e0cb;
-  --accent-text: #a7fff3;
-  --button-text: #06231f;
+  --bg: #101214;
+  --sidebar-bg: #14181f;
+  --surface: #1a2029;
+  --surface-strong: #202938;
+  --ink: #f3f7fb;
+  --muted: #a7b0bf;
+  --line: #2e3847;
+  --accent: #60a5fa;
+  --accent-soft: #17263f;
+  --accent-strong: #93c5fd;
+  --accent-text: #bfdbfe;
+  --button-text: #07111f;
   --amber: #fbbf24;
   --rose: #fb7185;
-  --brand-bg: #17211d;
-  --brand-border: #33453d;
-  --brand-ring: #203029;
-  --nav-active-border: #28584f;
-  --status-border: #28584f;
-  --status-text: #a7fff3;
-  --bar-track: #26352f;
-  --row-line: #26352f;
-  --input-bg: #101614;
-  --input-border: #364841;
-  --positive-bg: #13392f;
-  --positive-text: #b8f8df;
-  --negative-bg: #40202a;
-  --negative-text: #fecdd8;
-  --error-bg: #3a1f29;
-  --error-border: #7f3347;
+  --match-home: #60a5fa;
+  --match-draw: #fbbf24;
+  --match-away: #fb7185;
+  --brand-bg: #1a2029;
+  --brand-border: #354154;
+  --brand-ring: #253148;
+  --brand-shadow: rgba(96, 165, 250, 0.18);
+  --nav-active-border: #315987;
+  --status-border: #315987;
+  --status-text: #bfdbfe;
+  --bar-track: #263142;
+  --row-line: #263142;
+  --input-bg: #121820;
+  --input-border: #364456;
+  --positive-bg: #123322;
+  --positive-text: #bbf7d0;
+  --negative-bg: #3f1825;
+  --negative-text: #fecdd3;
+  --error-bg: #3b1824;
+  --error-border: #8b2d45;
   --error-text: #fecdd8;
-  --shadow: 0 18px 40px rgba(0, 0, 0, 0.32);
+  --shadow: 0 18px 44px rgba(0, 0, 0, 0.38);
+  --knob-shadow: rgba(0, 0, 0, 0.36);
 }
 
 * {
@@ -77,7 +87,9 @@
 body {
   margin: 0;
   min-width: 320px;
-  background: var(--bg);
+  background:
+    linear-gradient(180deg, var(--surface-strong) 0, var(--bg) 280px),
+    var(--bg);
   color: var(--ink);
   font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 }
@@ -101,7 +113,9 @@ select {
   flex-direction: column;
   gap: 28px;
   border-right: 1px solid var(--line);
-  background: var(--sidebar-bg);
+  background:
+    linear-gradient(180deg, var(--sidebar-bg) 0, var(--bg) 100%),
+    var(--sidebar-bg);
   padding: 28px 20px;
 }
 
@@ -119,7 +133,7 @@ select {
   border: 1px solid var(--brand-border);
   border-radius: 50%;
   background: var(--brand-bg);
-  box-shadow: inset 0 0 0 5px var(--brand-ring), 0 8px 18px rgba(38, 48, 36, 0.08);
+  box-shadow: inset 0 0 0 5px var(--brand-ring), 0 8px 18px var(--brand-shadow);
   color: var(--ink);
   font-size: 25px;
   font-weight: 800;
@@ -162,6 +176,7 @@ select {
   cursor: pointer;
   padding: 12px 14px;
   text-align: left;
+  transition: background 160ms ease, border-color 160ms ease, color 160ms ease, transform 160ms ease;
 }
 
 .nav-button:hover,
@@ -169,6 +184,10 @@ select {
   border-color: var(--nav-active-border);
   background: var(--accent-soft);
   color: var(--accent-text);
+}
+
+.nav-button:hover {
+  transform: translateX(2px);
 }
 
 .theme-toggle {
@@ -184,10 +203,12 @@ select {
   cursor: pointer;
   padding: 12px;
   text-align: left;
+  transition: background 160ms ease, border-color 160ms ease, box-shadow 160ms ease;
 }
 
 .theme-toggle:hover {
   border-color: var(--nav-active-border);
+  box-shadow: 0 10px 24px var(--brand-shadow);
 }
 
 .theme-toggle-copy {
@@ -223,7 +244,7 @@ select {
   margin-left: 3px;
   border-radius: 50%;
   background: var(--surface);
-  box-shadow: 0 2px 8px rgba(38, 48, 36, 0.22);
+  box-shadow: 0 2px 8px var(--knob-shadow);
   transition: transform 180ms ease, background 180ms ease;
 }
 
@@ -408,6 +429,7 @@ h3 {
   min-width: 2px;
   border-radius: inherit;
   background: var(--accent);
+  box-shadow: 0 0 0 1px color-mix(in srgb, var(--accent), transparent 78%);
 }
 
 .bar-value {
@@ -457,6 +479,10 @@ th {
   text-transform: uppercase;
 }
 
+tbody tr:hover {
+  background: color-mix(in srgb, var(--accent-soft), transparent 42%);
+}
+
 .control-row {
   display: flex;
   align-items: flex-end;
@@ -504,6 +530,13 @@ select {
   color: var(--ink);
   padding: 0 12px;
   vertical-align: middle;
+  transition: border-color 160ms ease, box-shadow 160ms ease;
+}
+
+select:focus {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px color-mix(in srgb, var(--accent), transparent 78%);
+  outline: none;
 }
 
 .primary-button {
@@ -516,11 +549,14 @@ select {
   font-weight: 800;
   line-height: 1;
   padding: 0 16px;
+  box-shadow: 0 10px 24px var(--brand-shadow);
+  transition: background 160ms ease, border-color 160ms ease, transform 160ms ease;
 }
 
 .primary-button:hover {
   background: var(--accent-strong);
   color: var(--button-text);
+  transform: translateY(-1px);
 }
 
 .driver-columns {
