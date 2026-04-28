@@ -151,7 +151,7 @@ web/app.js
 web/public/data/*.json
 ```
 
-Import the repository into Vercel from the repo root. The included `vercel.json` sets `npm run build` as the build command and `dist` as the output directory.
+Import the repository into Vercel from the repo root. The included `vercel.json` explicitly sets Vercel's Framework Preset to `Other`, uses `npm install`, runs `npm run build`, and serves `dist` as the output directory. This prevents Vercel from auto-detecting the local FastAPI code as the production app.
 
 Local preview:
 
